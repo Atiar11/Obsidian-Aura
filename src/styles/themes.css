@@ -1,0 +1,56 @@
+/* --- THEMATIC ARTISTIC TOKENS (Obsidian Aura) --- */
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&family=Montserrat:wght@300;400;600&display=swap');
+
+:root {
+  /* Default / Unisex Theme (Aura Flow) */
+  --bg-primary: #06060a;
+  --bg-secondary: #0a0a14;
+  --text-primary: #e0e0e6;
+  --text-secondary: #a0a0b0;
+  --accent: #9d4edd;
+  --accent-glow: rgba(157, 78, 221, 0.4);
+  --glass-bg: rgba(15, 15, 25, 0.85);
+  --glass-border: rgba(157, 78, 221, 0.2);
+  
+  /* Mesh Gradient Colors */
+  --mesh-1: #0d0d1a;
+  --mesh-2: #1a0b2e;
+  --mesh-3: #06060a;
+  
+  --font-serif: 'Cinzel', serif;
+  --font-sans: 'Montserrat', sans-serif;
+  --transition-speed: 1.2s;
+}
+
+/* Male Theme (Shadow Flow) */
+.theme-male {
+  --bg-primary: #040508;
+  --bg-secondary: #080a0e;
+  --text-primary: #f0f2f5;
+  --text-secondary: #8e95a2;
+  --accent: #4cc9f0;
+  --accent-glow: rgba(76, 201, 240, 0.3);
+  --glass-bg: rgba(8, 10, 14, 0.88);
+  --glass-border: rgba(255, 255, 255, 0.1);
+  
+  --mesh-1: #0a1128;
+  --mesh-2: #001f3f;
+  --mesh-3: #040508;
+}
+
+/* Female Theme (Bloom Flow) */
+.theme-female {
+  --bg-primary: #0a0306;
+  --bg-secondary: #14060c;
+  --text-primary: #fff0f3;
+  --text-secondary: #c9ada7;
+  --accent: #ff4d6d;
+  --accent-glow: rgba(255, 77, 109, 0.3);
+  --glass-bg: rgba(16, 6, 12, 0.9);
+  --glass-border: rgba(255, 77, 109, 0.2);
+  
+  --mesh-1: #2d0a1b;
+  --mesh-2: #4a0e2e;
+  --mesh-3: #0a0306;
+}
