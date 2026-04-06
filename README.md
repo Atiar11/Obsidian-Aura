@@ -1,4 +1,4 @@
-# Obsidian Aura | The Gothic Perfume Oracle 🌑✨
+# Obsidian Aura | The Gothic Perfume Oracle ✨
 
 > "Scent is the most powerful memory. Which shadow do you cast?"
 
