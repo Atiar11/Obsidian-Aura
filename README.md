@@ -4,7 +4,7 @@
 
 Obsidian Aura is a high-fidelity, immersive perfume recommendation engine designed for the modern aesthetic. It combines a **Live Wallpaper UI** with an AI-driven "Oracle" to match your personality, vibe, and power with the world's most iconic fragrances.
 
-![Obsidian Aura Preview](file:///C:/Users/atiar/.gemini/antigravity/brain/625b2656-c157-44ca-8ab6-2dcbb242f423/obsidian_aura_preview_1775502635284.webp)
+![Obsidian Aura Preview](./public/preview.webp)
 
 ---
 
