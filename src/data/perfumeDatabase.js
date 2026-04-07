@@ -1441,7 +1441,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_radiant_38",
-    "name": "Chlo\u00e9 Rose Royale",
+    "name": "Chloé Rose Royale",
     "brand": "Chloe",
     "gender": "female",
     "price_range": "Designer",
@@ -3175,7 +3175,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_85",
-    "name": "Million Paco Rabanne 2008 Lotion Apr\u00e8s-Rasage",
+    "name": "Million Paco Rabanne 2008 Lotion Après-Rasage",
     "brand": "Paco Rabanne",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -3245,7 +3245,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_87",
-    "name": "Million Priv\u00e9",
+    "name": "Million Privé",
     "brand": "Paco Rabanne",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -3490,7 +3490,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_94",
-    "name": "La Temp\u00e9rance",
+    "name": "La Tempérance",
     "brand": "Dolce & Gabbana",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -3630,7 +3630,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_98",
-    "name": "Ans de Cr\u00e9ations",
+    "name": "Ans de Créations",
     "brand": "Guerlain",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -3665,7 +3665,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_99",
-    "name": "2018 \u00c9dition 190\u00e8me Anniversaire Guerlain 2018 Absolu Parfum",
+    "name": "2018 Édition 190ème Anniversaire Guerlain 2018 Absolu Parfum",
     "brand": "Guerlain",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -4015,8 +4015,8 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_109",
-    "name": "et Une R\u00f4se",
-    "brand": "Lanc\u00f4me",
+    "name": "et Une Rôse",
+    "brand": "Lancôme",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -4045,7 +4045,7 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lanc\u00f4me. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
     "aesthetic_image": "https://thumbs.dreamstime.com/z/perfume-bottle-isolate-transparency-background-png-perfume-bottle-isolate-transparency-background-png-illustration-343459285.jpg"
   },
   {
@@ -4121,7 +4121,7 @@ export const PERFUME_DATABASE = [
   {
     "id": "p_unique_112",
     "name": "Carat Pure Gold",
-    "brand": "Lattafa / \u0644\u0637\u0627\u0641\u0629",
+    "brand": "Lattafa / لطافة",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -4150,13 +4150,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lattafa / \u0644\u0637\u0627\u0641\u0629. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lattafa / لطافة. A compelling explorations of notes.",
     "aesthetic_image": "https://img.perfume.com/images/products/sku/large/latlfw.jpg"
   },
   {
     "id": "p_unique_113",
     "name": "Carat White Gold",
-    "brand": "Lattafa / \u0644\u0637\u0627\u0641\u0629",
+    "brand": "Lattafa / لطافة",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -4185,13 +4185,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lattafa / \u0644\u0637\u0627\u0641\u0629. A compelling explorations of notes.",
-    "aesthetic_image": "https://elissa-perfume.com/wp-content/uploads/2024/06/\u0627\u062f\u06a9\u0644\u0646-\u0644\u0637\u0627\u0641\u0647-24-\u06a9\u0627\u0631\u0627\u062a-\u0648\u0627\u06cc\u062a-\u06af\u0644\u062f.jpg"
+    "description": "An uncommon gem from Lattafa / لطافة. A compelling explorations of notes.",
+    "aesthetic_image": "https://elissa-perfume.com/wp-content/uploads/2024/06/ادکلن-لطافه-24-کارات-وایت-گلد.jpg"
   },
   {
     "id": "p_unique_114",
-    "name": ", Faubourg \u00c9dition Limit\u00e9e \u00c9peron D'Or",
-    "brand": "Herm\u00e8s",
+    "name": ", Faubourg Édition Limitée Éperon D'Or",
+    "brand": "Hermès",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -4220,13 +4220,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Herm\u00e8s. A compelling explorations of notes.",
+    "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
     "aesthetic_image": "https://thumbs.dreamstime.com/b/collection-perfume-bottle-mockup-set-isolate-white-background-png-343933591.jpg"
   },
   {
     "id": "p_unique_115",
-    "name": ", Faubourg \u00c9dition Limit\u00e9e Circuit",
-    "brand": "Herm\u00e8s",
+    "name": ", Faubourg Édition Limitée Circuit",
+    "brand": "Hermès",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -4255,13 +4255,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Herm\u00e8s. A compelling explorations of notes.",
+    "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
     "aesthetic_image": "https://img.freepik.com/premium-photo/beautiful-young-woman-with-perfume-bottle-isolate-white_392895-150015.jpg"
   },
   {
     "id": "p_unique_116",
-    "name": ", Faubourg \u00c9dition Limit\u00e9e Cristal Saint-Louis",
-    "brand": "Herm\u00e8s",
+    "name": ", Faubourg Édition Limitée Cristal Saint-Louis",
+    "brand": "Hermès",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -4290,13 +4290,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Herm\u00e8s. A compelling explorations of notes.",
+    "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
     "aesthetic_image": "https://thumbs.dreamstime.com/b/collection-perfume-bottle-mockup-set-isolate-white-background-png-343933591.jpg"
   },
   {
     "id": "p_unique_117",
-    "name": ", Faubourg \u00c9dition Limit\u00e9e Jeu De Lignes Et De Lumiere",
-    "brand": "Herm\u00e8s",
+    "name": ", Faubourg Édition Limitée Jeu De Lignes Et De Lumiere",
+    "brand": "Hermès",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -4325,13 +4325,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Herm\u00e8s. A compelling explorations of notes.",
+    "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
     "aesthetic_image": "https://fraguru.com/mdimg/perfume/375x500.22498.jpg"
   },
   {
     "id": "p_unique_118",
-    "name": ", Faubourg \u00c9dition Limit\u00e9e Jeu Des Omnibus Et Dames Blanches",
-    "brand": "Herm\u00e8s",
+    "name": ", Faubourg Édition Limitée Jeu Des Omnibus Et Dames Blanches",
+    "brand": "Hermès",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -4360,13 +4360,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Herm\u00e8s. A compelling explorations of notes.",
+    "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
     "aesthetic_image": "https://vinvoy.com/wa-data/public/shop/products/85/08/40885/images/336393/336393.1500.jpg"
   },
   {
     "id": "p_unique_119",
-    "name": ", Faubourg \u00c9dition Limit\u00e9e Num\u00e9ro 24",
-    "brand": "Herm\u00e8s",
+    "name": ", Faubourg Édition Limitée Numéro 24",
+    "brand": "Hermès",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -4395,13 +4395,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Herm\u00e8s. A compelling explorations of notes.",
+    "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
     "aesthetic_image": "https://thumbs.dreamstime.com/b/collection-perfume-bottle-mockup-set-isolate-white-background-png-343933591.jpg"
   },
   {
     "id": "p_unique_120",
-    "name": ", Faubourg \u00c9dition Limit\u00e9e Quadrige",
-    "brand": "Herm\u00e8s",
+    "name": ", Faubourg Édition Limitée Quadrige",
+    "brand": "Hermès",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -4430,13 +4430,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Herm\u00e8s. A compelling explorations of notes.",
+    "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
     "aesthetic_image": "https://thumbs.dreamstime.com/b/collection-perfume-bottle-mockup-set-isolate-white-background-png-343933591.jpg"
   },
   {
     "id": "p_unique_121",
-    "name": ", Faubourg Eau D\u00e9licate Herm\u00e8s 2003 Eau de Toilette",
-    "brand": "Herm\u00e8s",
+    "name": ", Faubourg Eau Délicate Hermès 2003 Eau de Toilette",
+    "brand": "Hermès",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -4465,13 +4465,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Herm\u00e8s. A compelling explorations of notes.",
+    "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
     "aesthetic_image": "https://pimages.parfumo.de/480/2105_kyqfeo_24_faubourg_eau_delicate_480.jpg"
   },
   {
     "id": "p_unique_122",
-    "name": ", Faubourg Eau D\u00e9licate Herm\u00e8s Parfum Concr\u00e8te",
-    "brand": "Herm\u00e8s",
+    "name": ", Faubourg Eau Délicate Hermès Parfum Concrète",
+    "brand": "Hermès",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -4500,13 +4500,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Herm\u00e8s. A compelling explorations of notes.",
+    "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
     "aesthetic_image": "https://media.parfumo.com/perfume_imagery/8d/8d6f86-24-faubourg-eau-delicate-parfum-concrete-hermes_1200.jpg"
   },
   {
     "id": "p_unique_123",
     "name": ", Faubourg Eau de Soleil",
-    "brand": "Herm\u00e8s",
+    "brand": "Hermès",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -4535,13 +4535,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Herm\u00e8s. A compelling explorations of notes.",
+    "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
     "aesthetic_image": "https://thumbs.dreamstime.com/b/collection-perfume-bottle-mockup-set-isolate-white-background-png-343933591.jpg"
   },
   {
     "id": "p_unique_124",
-    "name": ", Faubourg Herm\u00e8s 1995 Eau de Parfum",
-    "brand": "Herm\u00e8s",
+    "name": ", Faubourg Hermès 1995 Eau de Parfum",
+    "brand": "Hermès",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -4570,13 +4570,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Herm\u00e8s. A compelling explorations of notes.",
+    "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
     "aesthetic_image": "https://pimages.parfumo.de/720/126428_img-7742-gres-cabochard-1995-eau-de-parfum_720.jpg"
   },
   {
     "id": "p_unique_125",
-    "name": ", Faubourg Herm\u00e8s 1995 Parfum",
-    "brand": "Herm\u00e8s",
+    "name": ", Faubourg Hermès 1995 Parfum",
+    "brand": "Hermès",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -4605,13 +4605,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Herm\u00e8s. A compelling explorations of notes.",
+    "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
     "aesthetic_image": "https://ifragranceofficial.com/wp-content/uploads/2024/07/hermes-barenia.jpg"
   },
   {
     "id": "p_unique_126",
-    "name": ", Faubourg Herm\u00e8s Eau de Toilette",
-    "brand": "Herm\u00e8s",
+    "name": ", Faubourg Hermès Eau de Toilette",
+    "brand": "Hermès",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -4640,13 +4640,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Herm\u00e8s. A compelling explorations of notes.",
+    "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
     "aesthetic_image": "https://www.lancome.com.au/dw/image/v2/BFZM_PRD/on/demandware.static/-/Sites-lancome-ng-master-catalog/default/dwfa7af1a6/images/pdp/00906-LAC/idole-edt-main.jpg"
   },
   {
     "id": "p_unique_127",
-    "name": ", Faubourg Herm\u00e8s Parfum Concr\u00e8te",
-    "brand": "Herm\u00e8s",
+    "name": ", Faubourg Hermès Parfum Concrète",
+    "brand": "Hermès",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -4675,13 +4675,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Herm\u00e8s. A compelling explorations of notes.",
+    "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
     "aesthetic_image": "https://thumbs.dreamstime.com/b/collection-perfume-bottle-mockup-set-isolate-white-background-png-343933591.jpg"
   },
   {
     "id": "p_unique_128",
     "name": ", Faubourg Parfum Bijou",
-    "brand": "Herm\u00e8s",
+    "brand": "Hermès",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -4710,7 +4710,7 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Herm\u00e8s. A compelling explorations of notes.",
+    "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
     "aesthetic_image": "https://thumbs.dreamstime.com/z/collection-perfume-bottle-mockup-set-isolate-white-background-png-343933591.jpg"
   },
   {
@@ -5030,7 +5030,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_138",
-    "name": "N\u0153uds",
+    "name": "Nœuds",
     "brand": "XerJoff",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -5380,7 +5380,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_148",
-    "name": "An\u00f3nimo",
+    "name": "Anónimo",
     "brand": "Loewe",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -5450,7 +5450,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_150",
-    "name": "Edici\u00f3n 120 Aniversario Juan de la Cierva",
+    "name": "Edición 120 Aniversario Juan de la Cierva",
     "brand": "Loewe",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -5660,7 +5660,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_156",
-    "name": "Sport Edici\u00f3n Especial",
+    "name": "Sport Edición Especial",
     "brand": "Loewe",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -6220,7 +6220,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_172",
-    "name": "A Drop d'Issey Issey Miyake 2022 Eau de Parfum Fra\u00eeche",
+    "name": "A Drop d'Issey Issey Miyake 2022 Eau de Parfum Fraîche",
     "brand": "Issey Miyake",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -6780,7 +6780,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_188",
-    "name": "A Scent Soleil de N\u00e9roli",
+    "name": "A Scent Soleil de Néroli",
     "brand": "Issey Miyake",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -6955,7 +6955,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_193",
-    "name": "A*Men - Le Go\u00fbt du Parfum",
+    "name": "A*Men - Le Goût du Parfum",
     "brand": "Mugler",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -7235,7 +7235,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_201",
-    "name": "A*Men Pure Malt - Cr\u00e9ation 2013",
+    "name": "A*Men Pure Malt - Création 2013",
     "brand": "Mugler",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -7445,7 +7445,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_207",
-    "name": "A*Men Sunessence \u00c9dition Orage d'Ete",
+    "name": "A*Men Sunessence Édition Orage d'Ete",
     "brand": "Mugler",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -7585,7 +7585,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_211",
-    "name": "\u262e by",
+    "name": "☮ by",
     "brand": "Kenzo",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -7620,7 +7620,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_212",
-    "name": "\u0152illet Pourpre Lui",
+    "name": "Œillet Pourpre Lui",
     "brand": "Guerlain",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -7655,8 +7655,8 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_213",
-    "name": "\u00d4 d'Azur",
-    "brand": "Lanc\u00f4me",
+    "name": "Ô d'Azur",
+    "brand": "Lancôme",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -7685,13 +7685,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lanc\u00f4me. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
     "aesthetic_image": "https://thumbs.dreamstime.com/z/collection-perfume-bottle-mockup-set-isolate-white-background-png-343933591.jpg"
   },
   {
     "id": "p_unique_214",
-    "name": "\u00d4 de Lanc\u00f4me Intense",
-    "brand": "Lanc\u00f4me",
+    "name": "Ô de Lancôme Intense",
+    "brand": "Lancôme",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -7720,13 +7720,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lanc\u00f4me. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
     "aesthetic_image": "https://pimages.parfumo.de/720/11808_r6twcz_o_de_lancome_intense_720.jpg"
   },
   {
     "id": "p_unique_215",
-    "name": "\u00d4 de Lanc\u00f4me Lanc\u00f4me 1969 Eau de Toilette",
-    "brand": "Lanc\u00f4me",
+    "name": "Ô de Lancôme Lancôme 1969 Eau de Toilette",
+    "brand": "Lancôme",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -7755,13 +7755,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lanc\u00f4me. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
     "aesthetic_image": "https://piimages.parfumo.de/6/6/32758_1cb7968069bb8be2920d5f592b7e5a02_eau_de_calandre.jpg"
   },
   {
     "id": "p_unique_216",
-    "name": "\u00d4 de Lanc\u00f4me Lanc\u00f4me Eau Fra\u00eeche",
-    "brand": "Lanc\u00f4me",
+    "name": "Ô de Lancôme Lancôme Eau Fraîche",
+    "brand": "Lancôme",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -7790,13 +7790,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lanc\u00f4me. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
     "aesthetic_image": "https://www.worten.pt/i/73e9cb922d32c5fd4854e7042919f05b55927a48.jpg"
   },
   {
     "id": "p_unique_217",
-    "name": "\u00d4 de l'Orangerie",
-    "brand": "Lanc\u00f4me",
+    "name": "Ô de l'Orangerie",
+    "brand": "Lancôme",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -7825,13 +7825,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lanc\u00f4me. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
     "aesthetic_image": "https://thumbs.dreamstime.com/b/collection-perfume-bottle-mockup-set-isolate-white-background-png-343933591.jpg"
   },
   {
     "id": "p_unique_218",
-    "name": "\u00d4 Oui!",
-    "brand": "Lanc\u00f4me",
+    "name": "Ô Oui!",
+    "brand": "Lancôme",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -7860,13 +7860,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lanc\u00f4me. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
     "aesthetic_image": "https://thumbs.dreamstime.com/z/perfume-bottle-isolate-transparency-background-png-perfume-bottle-isolate-transparency-background-png-illustration-343459285.jpg"
   },
   {
     "id": "p_unique_219",
-    "name": "\u00d4 pour Homme Lanc\u00f4me 1997 Eau de Toilette",
-    "brand": "Lanc\u00f4me",
+    "name": "Ô pour Homme Lancôme 1997 Eau de Toilette",
+    "brand": "Lancôme",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -7895,13 +7895,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lanc\u00f4me. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
     "aesthetic_image": "https://pimages.parfumo.de/240/11631_eid86rnydg_240.jpg"
   },
   {
     "id": "p_unique_220",
-    "name": "\u00d4 pour Homme Lanc\u00f4me 1997 Lotion Apr\u00e8s Rasage",
-    "brand": "Lanc\u00f4me",
+    "name": "Ô pour Homme Lancôme 1997 Lotion Après Rasage",
+    "brand": "Lancôme",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -7930,12 +7930,12 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lanc\u00f4me. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
     "aesthetic_image": "https://pimages.parfumo.de/720/73028_img-1187-lacoste-pour_homme_lotion_apres_rasage_720.jpg"
   },
   {
     "id": "p_unique_221",
-    "name": "\u00d4pon\u00e9 Diptyque 2007 Eau de Parfum",
+    "name": "Ôponé Diptyque 2007 Eau de Parfum",
     "brand": "Diptyque",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -7970,8 +7970,8 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_222",
-    "name": "\u00d4ud Ambroisie",
-    "brand": "Lanc\u00f4me",
+    "name": "Ôud Ambroisie",
+    "brand": "Lancôme",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -8000,13 +8000,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lanc\u00f4me. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
     "aesthetic_image": "https://thumbs.dreamstime.com/z/collection-perfume-bottle-mockup-set-isolate-white-background-png-343933591.jpg"
   },
   {
     "id": "p_unique_223",
-    "name": "\u00d4ud Bouquet",
-    "brand": "Lanc\u00f4me",
+    "name": "Ôud Bouquet",
+    "brand": "Lancôme",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -8035,12 +8035,12 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lanc\u00f4me. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
     "aesthetic_image": "https://thumbs.dreamstime.com/b/collection-perfume-bottle-mockup-set-isolate-white-background-png-343933591.jpg"
   },
   {
     "id": "p_unique_224",
-    "name": "\u00c0 la Rose Maison Francis Kurkdjian 2014 Eau de Parfum",
+    "name": "À la Rose Maison Francis Kurkdjian 2014 Eau de Parfum",
     "brand": "Maison Francis Kurkdjian",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -8075,7 +8075,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_225",
-    "name": "\u00c0 la Rose Maison Francis Kurkdjian Brume Cheveux",
+    "name": "À la Rose Maison Francis Kurkdjian Brume Cheveux",
     "brand": "Maison Francis Kurkdjian",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -8110,7 +8110,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_226",
-    "name": "\u00c0 la Rose Maison Francis Kurkdjian Extrait de Parfum",
+    "name": "À la Rose Maison Francis Kurkdjian Extrait de Parfum",
     "brand": "Maison Francis Kurkdjian",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -8145,7 +8145,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_227",
-    "name": "\u00c0 Travers Champs",
+    "name": "À Travers Champs",
     "brand": "Guerlain",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -8180,7 +8180,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_228",
-    "name": "\u00c7a Sent Beau Kenzo Kenzo 1988 Eau de Parfum",
+    "name": "Ça Sent Beau Kenzo Kenzo 1988 Eau de Parfum",
     "brand": "Kenzo",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -8215,7 +8215,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_229",
-    "name": "\u00c7a Sent Beau Kenzo Kenzo 1988 Eau de Toilette",
+    "name": "Ça Sent Beau Kenzo Kenzo 1988 Eau de Toilette",
     "brand": "Kenzo",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -8250,7 +8250,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_230",
-    "name": "\u00c9b\u00e8ne Fum\u00e9",
+    "name": "Ébène Fumé",
     "brand": "Tom Ford",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -8285,7 +8285,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_231",
-    "name": "\u00c9clats Pr\u00e9cieux",
+    "name": "Éclats Précieux",
     "brand": "Givenchy",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -8320,7 +8320,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_232",
-    "name": "\u00c9dition 190\u00e8me Anniversaire Guerlain 2018 Eau de Parfum",
+    "name": "Édition 190ème Anniversaire Guerlain 2018 Eau de Parfum",
     "brand": "Guerlain",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -8355,8 +8355,8 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_233",
-    "name": "\u00c9dition Sp\u00e9ciale de L'Eau d'Herm\u00e8s pour la C\u00e9l\u00e9bration du Couronnement de Sa Majest\u00e9 l'Empereur du Japon",
-    "brand": "Herm\u00e8s",
+    "name": "Édition Spéciale de L'Eau d'Hermès pour la Célébration du Couronnement de Sa Majesté l'Empereur du Japon",
+    "brand": "Hermès",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -8385,12 +8385,12 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Herm\u00e8s. A compelling explorations of notes.",
+    "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
     "aesthetic_image": "https://media.parfumo.com/perfume_imagery/2c/2c64f9-edition-speciale-de-l-eau-d-hermes-pour-la-celebration-du-couronnement-de-sa-majeste-l-empereur-du-japon-hermes_1200.jpg"
   },
   {
     "id": "p_unique_234",
-    "name": "\u00c9go\u00efste Chanel 1990 Eau de Toilette",
+    "name": "Égoïste Chanel 1990 Eau de Toilette",
     "brand": "Chanel",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -8425,7 +8425,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_235",
-    "name": "\u00c9go\u00efste Chanel 1990 Lotion Apr\u00e8s Rasage",
+    "name": "Égoïste Chanel 1990 Lotion Après Rasage",
     "brand": "Chanel",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -8460,7 +8460,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_236",
-    "name": "\u00c9go\u00efste Chanel 1992 Cologne Concentr\u00e9e",
+    "name": "Égoïste Chanel 1992 Cologne Concentrée",
     "brand": "Chanel",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -8495,7 +8495,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_237",
-    "name": "\u00c9lixir Pr\u00e9cieux - Ambre",
+    "name": "Élixir Précieux - Ambre",
     "brand": "Dior",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -8530,7 +8530,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_238",
-    "name": "\u00c9lixir Pr\u00e9cieux - Jasmin",
+    "name": "Élixir Précieux - Jasmin",
     "brand": "Dior",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -8565,7 +8565,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_239",
-    "name": "\u00c9lixir Pr\u00e9cieux - Musc",
+    "name": "Élixir Précieux - Musc",
     "brand": "Dior",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -8600,7 +8600,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_240",
-    "name": "\u00c9lixir Pr\u00e9cieux - Oud",
+    "name": "Élixir Précieux - Oud",
     "brand": "Dior",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -8635,7 +8635,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_241",
-    "name": "\u00c9lixir Pr\u00e9cieux - Patchouli",
+    "name": "Élixir Précieux - Patchouli",
     "brand": "Dior",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -8670,7 +8670,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_242",
-    "name": "\u00c9lixir Pr\u00e9cieux - Rose",
+    "name": "Élixir Précieux - Rose",
     "brand": "Dior",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -8705,8 +8705,8 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_243",
-    "name": "\u00c9pice Marine",
-    "brand": "Herm\u00e8s",
+    "name": "Épice Marine",
+    "brand": "Hermès",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -8735,12 +8735,12 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Herm\u00e8s. A compelling explorations of notes.",
+    "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
     "aesthetic_image": "https://thumbs.dreamstime.com/z/perfume-bottle-isolate-transparency-background-png-perfume-bottle-isolate-transparency-background-png-illustration-343459285.jpg"
   },
   {
     "id": "p_unique_244",
-    "name": "\u00c9pices Exquises",
+    "name": "Épices Exquises",
     "brand": "Guerlain",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -8775,7 +8775,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_245",
-    "name": "\u00c9pices Vol\u00e9es Ars\u00e8ne Lupin Voyou",
+    "name": "Épices Volées Arsène Lupin Voyou",
     "brand": "Guerlain",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -8810,7 +8810,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_246",
-    "name": "\u00c9pine de Rose",
+    "name": "Épine de Rose",
     "brand": "Mizensir",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -8845,7 +8845,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_247",
-    "name": "\u00c9quivoque",
+    "name": "Équivoque",
     "brand": "Givenchy",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -8880,8 +8880,8 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_248",
-    "name": "\u00c9tiquette Noire",
-    "brand": "Lanc\u00f4me",
+    "name": "Étiquette Noire",
+    "brand": "Lancôme",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -8910,12 +8910,12 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lanc\u00f4me. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
     "aesthetic_image": "https://thumbs.dreamstime.com/z/perfume-bottle-isolate-transparency-background-png-perfume-bottle-isolate-transparency-background-png-illustration-343459285.jpg"
   },
   {
     "id": "p_unique_249",
-    "name": "A\u00ef Loe",
+    "name": "Aï Loe",
     "brand": "Guerlain",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -8950,8 +8950,8 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_250",
-    "name": "Abaan \u0627\u0628\u0627\u0646",
-    "brand": "Lattafa / \u0644\u0637\u0627\u0641\u0629",
+    "name": "Abaan ابان",
+    "brand": "Lattafa / لطافة",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -8980,7 +8980,7 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lattafa / \u0644\u0637\u0627\u0641\u0629. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lattafa / لطافة. A compelling explorations of notes.",
     "aesthetic_image": "https://arabicperfumeshop.ie/wp-content/uploads/2025/05/Lattafa-Abaan-Ireland.png"
   },
   {
@@ -9051,7 +9051,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Rasasi. A compelling explorations of notes.",
-    "aesthetic_image": "https://elissa-perfume.com/wp-content/uploads/2025/06/\u0639\u0637\u0631-\u0631\u0633\u0627\u0633\u06cc-\u0639\u0628\u06cc\u0631-\u0627\u0628\u06cc\u0631.jpg"
+    "aesthetic_image": "https://elissa-perfume.com/wp-content/uploads/2025/06/عطر-رساسی-عبیر-ابیر.jpg"
   },
   {
     "id": "p_unique_253",
@@ -9126,7 +9126,7 @@ export const PERFUME_DATABASE = [
   {
     "id": "p_unique_255",
     "name": "Absherk",
-    "brand": "Lattafa / \u0644\u0637\u0627\u0641\u0629",
+    "brand": "Lattafa / لطافة",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -9155,7 +9155,7 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lattafa / \u0644\u0637\u0627\u0641\u0629. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lattafa / لطافة. A compelling explorations of notes.",
     "aesthetic_image": "https://piimages.parfumo.de/0/9/55934_cc7977d016cc2045b91b3c3eb9ff5fa2_absherk.jpg"
   },
   {
@@ -9196,7 +9196,7 @@ export const PERFUME_DATABASE = [
   {
     "id": "p_unique_257",
     "name": "Absolue - 1001 Roses",
-    "brand": "Lanc\u00f4me",
+    "brand": "Lancôme",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -9225,13 +9225,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lanc\u00f4me. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
     "aesthetic_image": "https://fimgs.net/mdimg/perfume/social.94910.jpg"
   },
   {
     "id": "p_unique_258",
     "name": "Absolue - 6AM Rose",
-    "brand": "Lanc\u00f4me",
+    "brand": "Lancôme",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -9260,13 +9260,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lanc\u00f4me. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
     "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.94911.jpg"
   },
   {
     "id": "p_unique_259",
     "name": "Absolue - Hell Of A Rose",
-    "brand": "Lanc\u00f4me",
+    "brand": "Lancôme",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -9295,13 +9295,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lanc\u00f4me. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
     "aesthetic_image": "https://fraguru.com/mdimg/perfume/375x500.94912.jpg"
   },
   {
     "id": "p_unique_260",
     "name": "Absolue - Hot As Rose",
-    "brand": "Lanc\u00f4me",
+    "brand": "Lancôme",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -9330,13 +9330,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lanc\u00f4me. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
     "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.94913.jpg"
   },
   {
     "id": "p_unique_261",
     "name": "Absolue - I Flamed A Rose",
-    "brand": "Lanc\u00f4me",
+    "brand": "Lancôme",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -9365,13 +9365,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lanc\u00f4me. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
     "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.94914.jpg"
   },
   {
     "id": "p_unique_262",
     "name": "Absolue - Le Parfum",
-    "brand": "Lanc\u00f4me",
+    "brand": "Lancôme",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -9400,13 +9400,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lanc\u00f4me. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
     "aesthetic_image": "https://fimgs.net/mdimg/perfume-thumbs/375x500.94915.2x.jpg"
   },
   {
     "id": "p_unique_263",
     "name": "Absolue - Not Your Rose",
-    "brand": "Lanc\u00f4me",
+    "brand": "Lancôme",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -9435,13 +9435,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lanc\u00f4me. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
     "aesthetic_image": "https://fraguru.com/mdimg/perfume/375x500.94916.jpg"
   },
   {
     "id": "p_unique_264",
     "name": "Absolue - Oud Bouquet",
-    "brand": "Lanc\u00f4me",
+    "brand": "Lancôme",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -9470,13 +9470,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lanc\u00f4me. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
     "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.94917.jpg"
   },
   {
     "id": "p_unique_265",
     "name": "Absolue - Rose On The Moon",
-    "brand": "Lanc\u00f4me",
+    "brand": "Lancôme",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -9505,13 +9505,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lanc\u00f4me. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
     "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.94918.jpg"
   },
   {
     "id": "p_unique_266",
     "name": "Absolue - Rose Or Die",
-    "brand": "Lanc\u00f4me",
+    "brand": "Lancôme",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -9540,13 +9540,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lanc\u00f4me. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
     "aesthetic_image": "https://fimgs.net/mdimg/perfume/social.94919.jpg"
   },
   {
     "id": "p_unique_267",
     "name": "Absolue - Storm & Roses",
-    "brand": "Lanc\u00f4me",
+    "brand": "Lancôme",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -9575,7 +9575,7 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lanc\u00f4me. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
     "aesthetic_image": "https://fimgs.net/mdimg/secundar/o.118530.jpg"
   },
   {
@@ -9755,7 +9755,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_273",
-    "name": "Absolutely Irr\u00e9sistible",
+    "name": "Absolutely Irrésistible",
     "brand": "Givenchy",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -10245,7 +10245,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_287",
-    "name": "Acqua di Gi\u00f2 Absolu",
+    "name": "Acqua di Giò Absolu",
     "brand": "Giorgio Armani",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -10280,7 +10280,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_288",
-    "name": "Acqua di Gi\u00f2 Absolu Instinct",
+    "name": "Acqua di Giò Absolu Instinct",
     "brand": "Giorgio Armani",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -10315,7 +10315,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_289",
-    "name": "Acqua di Gi\u00f2 Essenza",
+    "name": "Acqua di Giò Essenza",
     "brand": "Giorgio Armani",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -10350,7 +10350,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_290",
-    "name": "Acqua di Gi\u00f2",
+    "name": "Acqua di Giò",
     "brand": "Giorgio Armani",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -10385,7 +10385,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_291",
-    "name": "Acqua di Gi\u00f2 Parfum",
+    "name": "Acqua di Giò Parfum",
     "brand": "Giorgio Armani",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -10420,7 +10420,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_292",
-    "name": "Acqua di Gi\u00f2 pour Homme Blue Edition",
+    "name": "Acqua di Giò pour Homme Blue Edition",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -10455,7 +10455,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_293",
-    "name": "Acqua di Gi\u00f2 pour Homme Giorgio Armani 1996 Eau de Toilette",
+    "name": "Acqua di Giò pour Homme Giorgio Armani 1996 Eau de Toilette",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -10490,7 +10490,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_294",
-    "name": "Acqua di Gi\u00f2 pour Homme Giorgio Armani 1996 Lotion Apr\u00e8s-Rasage",
+    "name": "Acqua di Giò pour Homme Giorgio Armani 1996 Lotion Après-Rasage",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -10525,7 +10525,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_295",
-    "name": "Acqua di Gi\u00f2 pour Homme Giorgio Armani 2022 Eau de Parfum",
+    "name": "Acqua di Giò pour Homme Giorgio Armani 2022 Eau de Parfum",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -10560,7 +10560,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_296",
-    "name": "Acqua di Gi\u00f2 Profondo Giorgio Armani 2020 Eau de Parfum",
+    "name": "Acqua di Giò Profondo Giorgio Armani 2020 Eau de Parfum",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -10595,7 +10595,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_297",
-    "name": "Acqua di Gi\u00f2 Profondo Giorgio Armani 2024 Eau de Parfum",
+    "name": "Acqua di Giò Profondo Giorgio Armani 2024 Eau de Parfum",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -10630,7 +10630,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_298",
-    "name": "Acqua di Gi\u00f2 Profondo Lights",
+    "name": "Acqua di Giò Profondo Lights",
     "brand": "Giorgio Armani",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -10665,7 +10665,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_299",
-    "name": "Acqua di Gi\u00f2 Profondo Parfum",
+    "name": "Acqua di Giò Profondo Parfum",
     "brand": "Giorgio Armani",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -10700,7 +10700,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_300",
-    "name": "Acqua di Gi\u00f2 Profumo Giorgio Armani 2015 After Shave",
+    "name": "Acqua di Giò Profumo Giorgio Armani 2015 After Shave",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -10735,7 +10735,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_301",
-    "name": "Acqua di Gi\u00f2 Profumo Giorgio Armani 2015 Parfum",
+    "name": "Acqua di Giò Profumo Giorgio Armani 2015 Parfum",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -10770,7 +10770,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_302",
-    "name": "Acqua di Gi\u00f2 Profumo Special Blend",
+    "name": "Acqua di Giò Profumo Special Blend",
     "brand": "Giorgio Armani",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -10875,7 +10875,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_305",
-    "name": "Acqua di Gioia Giorgio Armani 2013 Eau Fra\u00eeche",
+    "name": "Acqua di Gioia Giorgio Armani 2013 Eau Fraîche",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -11295,7 +11295,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_317",
-    "name": "Acteur Azzaro 1989 Lotion Apr\u00e8s Rasage",
+    "name": "Acteur Azzaro 1989 Lotion Après Rasage",
     "brand": "Azzaro",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -11401,7 +11401,7 @@ export const PERFUME_DATABASE = [
   {
     "id": "p_unique_320",
     "name": "Adeeb",
-    "brand": "Lattafa / \u0644\u0637\u0627\u0641\u0629",
+    "brand": "Lattafa / لطافة",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -11430,7 +11430,7 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lattafa / \u0644\u0637\u0627\u0641\u0629. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lattafa / لطافة. A compelling explorations of notes.",
     "aesthetic_image": "https://img.perfume.com/images/products/sku/large/latl6tq.jpg"
   },
   {
@@ -11611,7 +11611,7 @@ export const PERFUME_DATABASE = [
   {
     "id": "p_unique_326",
     "name": "Afaq",
-    "brand": "Lattafa / \u0644\u0637\u0627\u0641\u0629",
+    "brand": "Lattafa / لطافة",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -11640,13 +11640,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lattafa / \u0644\u0637\u0627\u0641\u0629. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lattafa / لطافة. A compelling explorations of notes.",
     "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/81422w.jpg"
   },
   {
     "id": "p_unique_327",
     "name": "Affection",
-    "brand": "Lattafa / \u0644\u0637\u0627\u0641\u0629",
+    "brand": "Lattafa / لطافة",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -11675,8 +11675,8 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lattafa / \u0644\u0637\u0627\u0641\u0629. A compelling explorations of notes.",
-    "aesthetic_image": "https://elissa-perfume.com/wp-content/uploads/2025/04/\u0642\u06cc\u0645\u062a-\u0639\u0637\u0631-\u0644\u0637\u0627\u0641\u0647-\u0627\u0641\u06a9\u0634\u0646.jpg"
+    "description": "An uncommon gem from Lattafa / لطافة. A compelling explorations of notes.",
+    "aesthetic_image": "https://elissa-perfume.com/wp-content/uploads/2025/04/قیمت-عطر-لطافه-افکشن.jpg"
   },
   {
     "id": "p_unique_328",
@@ -11716,7 +11716,7 @@ export const PERFUME_DATABASE = [
   {
     "id": "p_unique_329",
     "name": "Afkaar",
-    "brand": "Lattafa / \u0644\u0637\u0627\u0641\u0629",
+    "brand": "Lattafa / لطافة",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -11745,7 +11745,7 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lattafa / \u0644\u0637\u0627\u0641\u0629. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lattafa / لطافة. A compelling explorations of notes.",
     "aesthetic_image": "https://perfumearena.com/wp-content/uploads/afkaar-lattafa-1.jpg"
   },
   {
@@ -12310,7 +12310,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_346",
-    "name": "Agua de Loewe \u00c9l",
+    "name": "Agua de Loewe Él",
     "brand": "Loewe",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -12485,7 +12485,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_351",
-    "name": "Agua de Loewe Mediterr\u00e1neo",
+    "name": "Agua de Loewe Mediterráneo",
     "brand": "Loewe",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -12520,7 +12520,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_352",
-    "name": "Agua de Loewe Sport Edici\u00f3n Especial",
+    "name": "Agua de Loewe Sport Edición Especial",
     "brand": "Loewe",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -12730,7 +12730,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_358",
-    "name": "Aim\u00e9",
+    "name": "Aimé",
     "brand": "Marcel Guerlain / Hughes Guerlain",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -12765,7 +12765,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_359",
-    "name": "Aim\u00e9e",
+    "name": "Aimée",
     "brand": "Marcel Guerlain / Hughes Guerlain",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -12975,7 +12975,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_365",
-    "name": "Aire Edici\u00f3n Limitada 2014",
+    "name": "Aire Edición Limitada 2014",
     "brand": "Loewe",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -13010,7 +13010,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_366",
-    "name": "Aire Evasi\u00f3n",
+    "name": "Aire Evasión",
     "brand": "Loewe",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -13045,7 +13045,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_367",
-    "name": "Aire Fantas\u00eda",
+    "name": "Aire Fantasía",
     "brand": "Loewe",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -13220,7 +13220,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_372",
-    "name": "Aire Sport Edici\u00f3n Especial",
+    "name": "Aire Sport Edición Especial",
     "brand": "Loewe",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -13291,7 +13291,7 @@ export const PERFUME_DATABASE = [
   {
     "id": "p_unique_374",
     "name": "Ajayeb Dubai",
-    "brand": "Lattafa / \u0644\u0637\u0627\u0641\u0629",
+    "brand": "Lattafa / لطافة",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -13320,13 +13320,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lattafa / \u0644\u0637\u0627\u0641\u0629. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lattafa / لطافة. A compelling explorations of notes.",
     "aesthetic_image": "https://media.parfoom.com/products/lattafa-ajayeb-dubai-black-4d0db117-primary.webp"
   },
   {
     "id": "p_unique_375",
     "name": "Ajayeb Dubai Portrait",
-    "brand": "Lattafa / \u0644\u0637\u0627\u0641\u0629",
+    "brand": "Lattafa / لطافة",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -13355,13 +13355,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lattafa / \u0644\u0637\u0627\u0641\u0629. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lattafa / لطافة. A compelling explorations of notes.",
     "aesthetic_image": "https://lattafa.com/wp-content/uploads/2024/05/2-46.jpg"
   },
   {
     "id": "p_unique_376",
     "name": "Ajial",
-    "brand": "Lattafa / \u0644\u0637\u0627\u0641\u0629",
+    "brand": "Lattafa / لطافة",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -13390,13 +13390,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lattafa / \u0644\u0637\u0627\u0641\u0629. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lattafa / لطافة. A compelling explorations of notes.",
     "aesthetic_image": "https://img.perfume.com/images/products/sku/large/latl93.jpg"
   },
   {
     "id": "p_unique_377",
-    "name": "Ajwaa \u0623\u062c\u0648\u0627\u0621",
-    "brand": "Lattafa / \u0644\u0637\u0627\u0641\u0629",
+    "name": "Ajwaa أجواء",
+    "brand": "Lattafa / لطافة",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -13425,8 +13425,8 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lattafa / \u0644\u0637\u0627\u0641\u0629. A compelling explorations of notes.",
-    "aesthetic_image": "https://elissa-perfume.com/wp-content/uploads/2024/11/\u0627\u062f\u06a9\u0644\u0646-\u0644\u0637\u0627\u0641\u0647-\u0627\u062c\u0648\u0627.jpg"
+    "description": "An uncommon gem from Lattafa / لطافة. A compelling explorations of notes.",
+    "aesthetic_image": "https://elissa-perfume.com/wp-content/uploads/2024/11/ادکلن-لطافه-اجوا.jpg"
   },
   {
     "id": "p_unique_378",
@@ -13465,8 +13465,8 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_379",
-    "name": "Ajwad \u0627\u062c\u0648\u0627\u062f",
-    "brand": "Lattafa / \u0644\u0637\u0627\u0641\u0629",
+    "name": "Ajwad اجواد",
+    "brand": "Lattafa / لطافة",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -13495,13 +13495,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lattafa / \u0644\u0637\u0627\u0641\u0629. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lattafa / لطافة. A compelling explorations of notes.",
     "aesthetic_image": "https://lattafa.com/wp-content/uploads/2024/05/Ajwad-01.jpg"
   },
   {
     "id": "p_unique_380",
-    "name": "Ajwad Pink to Pink \u0623\u062c\u0648\u062f",
-    "brand": "Lattafa / \u0644\u0637\u0627\u0641\u0629",
+    "name": "Ajwad Pink to Pink أجود",
+    "brand": "Lattafa / لطافة",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -13530,7 +13530,7 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lattafa / \u0644\u0637\u0627\u0641\u0629. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lattafa / لطافة. A compelling explorations of notes.",
     "aesthetic_image": "https://lattafa.com/wp-content/uploads/2024/08/Bottle-box-1-scaled.jpg"
   },
   {
@@ -13606,7 +13606,7 @@ export const PERFUME_DATABASE = [
   {
     "id": "p_unique_383",
     "name": "Al Ameed",
-    "brand": "Lattafa / \u0644\u0637\u0627\u0641\u0629",
+    "brand": "Lattafa / لطافة",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -13635,7 +13635,7 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lattafa / \u0644\u0637\u0627\u0641\u0629. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lattafa / لطافة. A compelling explorations of notes.",
     "aesthetic_image": "https://img.perfume.com/images/products/sku/large/latlg7.jpg"
   },
   {
@@ -13676,7 +13676,7 @@ export const PERFUME_DATABASE = [
   {
     "id": "p_unique_385",
     "name": "Al Areeq Gold",
-    "brand": "Lattafa / \u0644\u0637\u0627\u0641\u0629",
+    "brand": "Lattafa / لطافة",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -13705,13 +13705,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lattafa / \u0644\u0637\u0627\u0641\u0629. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lattafa / لطافة. A compelling explorations of notes.",
     "aesthetic_image": "https://img.perfume.com/images/products/sku/large/latl7p.jpg"
   },
   {
     "id": "p_unique_386",
     "name": "Al Areeq Silver",
-    "brand": "Lattafa / \u0644\u0637\u0627\u0641\u0629",
+    "brand": "Lattafa / لطافة",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -13740,13 +13740,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lattafa / \u0644\u0637\u0627\u0641\u0629. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lattafa / لطافة. A compelling explorations of notes.",
     "aesthetic_image": "https://aromicbd.com/wp-content/uploads/2024/11/al-areeq-gold-lattafa.webp"
   },
   {
     "id": "p_unique_387",
     "name": "Al Astura",
-    "brand": "Lattafa / \u0644\u0637\u0627\u0641\u0629",
+    "brand": "Lattafa / لطافة",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -13775,13 +13775,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lattafa / \u0644\u0637\u0627\u0641\u0629. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lattafa / لطافة. A compelling explorations of notes.",
     "aesthetic_image": "https://pimages.parfumo.de/480/133503_img-6279-lattafa-al-astura_480.jpg"
   },
   {
     "id": "p_unique_388",
     "name": "Al Athal",
-    "brand": "Lattafa / \u0644\u0637\u0627\u0641\u0629",
+    "brand": "Lattafa / لطافة",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -13810,7 +13810,7 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lattafa / \u0644\u0637\u0627\u0641\u0629. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lattafa / لطافة. A compelling explorations of notes.",
     "aesthetic_image": "https://img.perfume.com/images/products/sku/large/latlis.jpg"
   },
   {
@@ -13886,7 +13886,7 @@ export const PERFUME_DATABASE = [
   {
     "id": "p_unique_391",
     "name": "Al Awsaaf",
-    "brand": "Lattafa / \u0644\u0637\u0627\u0641\u0629",
+    "brand": "Lattafa / لطافة",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -13915,7 +13915,7 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lattafa / \u0644\u0637\u0627\u0641\u0629. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lattafa / لطافة. A compelling explorations of notes.",
     "aesthetic_image": "https://img.perfume.com/images/products/sku/large/latl02.jpg"
   },
   {
@@ -15005,7 +15005,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_423",
-    "name": "Alien - Le Go\u00fbt du Parfum",
+    "name": "Alien - Le Goût du Parfum",
     "brand": "Mugler",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -15040,7 +15040,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_424",
-    "name": "Alien - Pierre Initiatique \u00c9dition Limit\u00e9e Saint Valentin 2011",
+    "name": "Alien - Pierre Initiatique Édition Limitée Saint Valentin 2011",
     "brand": "Mugler",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -15075,7 +15075,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_425",
-    "name": "Alien \u00c9dition N\u00e9on",
+    "name": "Alien Édition Néon",
     "brand": "Mugler",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -15670,7 +15670,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_442",
-    "name": "Alien Liqueur de Parfum - Cr\u00e9ation 2013",
+    "name": "Alien Liqueur de Parfum - Création 2013",
     "brand": "Mugler",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -16020,7 +16020,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_452",
-    "name": "Alien Musc Myst\u00e9rieux",
+    "name": "Alien Musc Mystérieux",
     "brand": "Mugler",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -16090,7 +16090,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_454",
-    "name": "Alien Sunessence \u00c9dition Or d'Ambre",
+    "name": "Alien Sunessence Édition Or d'Ambre",
     "brand": "Mugler",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -16125,7 +16125,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_455",
-    "name": "Alien Sunessence \u00c9dition Saphir Soleil",
+    "name": "Alien Sunessence Édition Saphir Soleil",
     "brand": "Mugler",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -16195,7 +16195,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_457",
-    "name": "Alien Talisman \u00c9dition Anniversaire",
+    "name": "Alien Talisman Édition Anniversaire",
     "brand": "Mugler",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -16860,7 +16860,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_476",
-    "name": "Allure Eau Fra\u00eechissante pour l'\u00c9t\u00e9",
+    "name": "Allure Eau Fraîchissante pour l'Été",
     "brand": "Chanel",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -16895,7 +16895,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_477",
-    "name": "Allure Homme \u00c9dition Blanche Chanel 2008 Eau de Toilette Concentr\u00e9e",
+    "name": "Allure Homme Édition Blanche Chanel 2008 Eau de Toilette Concentrée",
     "brand": "Chanel",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -16930,7 +16930,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_478",
-    "name": "Allure Homme \u00c9dition Blanche Chanel 2008 Lotion Apr\u00e8s Rasage",
+    "name": "Allure Homme Édition Blanche Chanel 2008 Lotion Après Rasage",
     "brand": "Chanel",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -16965,7 +16965,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_479",
-    "name": "Allure Homme \u00c9dition Blanche Chanel 2014 Eau de Parfum",
+    "name": "Allure Homme Édition Blanche Chanel 2014 Eau de Parfum",
     "brand": "Chanel",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -17035,7 +17035,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_481",
-    "name": "Allure Homme Chanel 1999 Lotion Apr\u00e8s Rasage",
+    "name": "Allure Homme Chanel 1999 Lotion Après Rasage",
     "brand": "Chanel",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -17105,7 +17105,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_483",
-    "name": "Allure Homme Eau Fra\u00eechissante pour l'\u00c9t\u00e9",
+    "name": "Allure Homme Eau Fraîchissante pour l'Été",
     "brand": "Chanel",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -17175,7 +17175,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_485",
-    "name": "Allure Homme Sport Chanel 2004 Lotion Apr\u00e8s Rasage",
+    "name": "Allure Homme Sport Chanel 2004 Lotion Après Rasage",
     "brand": "Chanel",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -17315,7 +17315,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_489",
-    "name": "Allure Homme Sport Eau Extr\u00eame",
+    "name": "Allure Homme Sport Eau Extrême",
     "brand": "Chanel",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -17560,7 +17560,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_496",
-    "name": "Altha\u00efr",
+    "name": "Althaïr",
     "brand": "Parfums de Marly",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -18015,7 +18015,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_509",
-    "name": "Amarige Givenchy Gel Solide Parfum\u00e9",
+    "name": "Amarige Givenchy Gel Solide Parfumé",
     "brand": "Givenchy",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -18155,7 +18155,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_513",
-    "name": "Amarige Mimosa de Grasse Mill\u00e9sime",
+    "name": "Amarige Mimosa de Grasse Millésime",
     "brand": "Givenchy",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -18190,7 +18190,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_514",
-    "name": "Amarige Nuage Parfum\u00e9 Givenchy Brume Parfum\u00e9e",
+    "name": "Amarige Nuage Parfumé Givenchy Brume Parfumée",
     "brand": "Givenchy",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -18400,8 +18400,8 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_520",
-    "name": "Amazone Herm\u00e8s 1974 Eau de Toilette",
-    "brand": "Herm\u00e8s",
+    "name": "Amazone Hermès 1974 Eau de Toilette",
+    "brand": "Hermès",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -18430,13 +18430,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Herm\u00e8s. A compelling explorations of notes.",
+    "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
     "aesthetic_image": "https://i.pinimg.com/736x/e2/95/dd/e295dd18922ca6a1dbc596ba8788a01e.jpg"
   },
   {
     "id": "p_unique_521",
-    "name": "Amazone Herm\u00e8s 1974 Parfum",
-    "brand": "Herm\u00e8s",
+    "name": "Amazone Hermès 1974 Parfum",
+    "brand": "Hermès",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -18465,13 +18465,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Herm\u00e8s. A compelling explorations of notes.",
+    "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
     "aesthetic_image": "https://www.le-parfum.fr/1243-large_frag_2x/amazone-hermes-1974.jpg"
   },
   {
     "id": "p_unique_522",
-    "name": "Amazone Herm\u00e8s Eau de Parfum",
-    "brand": "Herm\u00e8s",
+    "name": "Amazone Hermès Eau de Parfum",
+    "brand": "Hermès",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -18500,13 +18500,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Herm\u00e8s. A compelling explorations of notes.",
+    "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
     "aesthetic_image": "https://piimages.parfumo.de/1/1/94207_e2a382ed522b6cfa307b4bc8011988ef_amazone_eau_de_parfum.jpg"
   },
   {
     "id": "p_unique_523",
     "name": "Amazone Light",
-    "brand": "Herm\u00e8s",
+    "brand": "Hermès",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -18535,7 +18535,7 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Herm\u00e8s. A compelling explorations of notes.",
+    "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
     "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/639w.jpg"
   },
   {
@@ -18750,7 +18750,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_530",
-    "name": "Amber Aoud Absolue Pr\u00e9cieux",
+    "name": "Amber Aoud Absolue Précieux",
     "brand": "Roja Parfums",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -19765,7 +19765,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_559",
-    "name": "Ambr\u00e9 de Harrar",
+    "name": "Ambré de Harrar",
     "brand": "Marcel Guerlain / Hughes Guerlain",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -19800,7 +19800,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_560",
-    "name": "Ambre \u00c9ternel Collector",
+    "name": "Ambre Éternel Collector",
     "brand": "Guerlain",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -19835,7 +19835,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_561",
-    "name": "Ambre \u00c9ternel",
+    "name": "Ambre Éternel",
     "brand": "Guerlain",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -20080,8 +20080,8 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_568",
-    "name": "Ambre Narguil\u00e9",
-    "brand": "Herm\u00e8s",
+    "name": "Ambre Narguilé",
+    "brand": "Hermès",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -20110,7 +20110,7 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Herm\u00e8s. A compelling explorations of notes.",
+    "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
     "aesthetic_image": "https://www.fragrancesamplesuk.com/media/catalog/product/cache/0ac0516e26f0560d9a76e8e2dd4b6632/n/a/narguile.jpg"
   },
   {
@@ -20150,7 +20150,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_570",
-    "name": "Ambre Tigr\u00e9",
+    "name": "Ambre Tigré",
     "brand": "Givenchy",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -20185,7 +20185,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_571",
-    "name": "Ambre Tigr\u00e9 Limited Edition",
+    "name": "Ambre Tigré Limited Edition",
     "brand": "Givenchy",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -20360,7 +20360,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_576",
-    "name": "Amore Caff\u00e8",
+    "name": "Amore Caffè",
     "brand": "Mancera",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -21095,7 +21095,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_597",
-    "name": "Ang\u00e9lique Encens",
+    "name": "Angélique Encens",
     "brand": "Creed",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -21130,7 +21130,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_598",
-    "name": "Ang\u00e9lique Noire",
+    "name": "Angélique Noire",
     "brand": "Guerlain",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -21165,7 +21165,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_599",
-    "name": "Ange ou D\u00e9mon Diamantissime Edition Givenchy 2009 Eau de Parfum",
+    "name": "Ange ou Démon Diamantissime Edition Givenchy 2009 Eau de Parfum",
     "brand": "Givenchy",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -21200,7 +21200,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_600",
-    "name": "Ange ou D\u00e9mon Diamantissime Edition Givenchy 2009 Eau de Toilette",
+    "name": "Ange ou Démon Diamantissime Edition Givenchy 2009 Eau de Toilette",
     "brand": "Givenchy",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -21235,7 +21235,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_601",
-    "name": "Ange ou D\u00e9mon Fleur d'Oranger 2009",
+    "name": "Ange ou Démon Fleur d'Oranger 2009",
     "brand": "Givenchy",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -21270,7 +21270,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_602",
-    "name": "Ange ou D\u00e9mon Givenchy 2006 Eau de Parfum",
+    "name": "Ange ou Démon Givenchy 2006 Eau de Parfum",
     "brand": "Givenchy",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -21305,7 +21305,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_603",
-    "name": "Ange ou D\u00e9mon Givenchy 2008 Eau de Toilette Tendre",
+    "name": "Ange ou Démon Givenchy 2008 Eau de Toilette Tendre",
     "brand": "Givenchy",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -21340,7 +21340,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_604",
-    "name": "Ange ou D\u00e9mon Givenchy Extrait de Parfum",
+    "name": "Ange ou Démon Givenchy Extrait de Parfum",
     "brand": "Givenchy",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -21375,7 +21375,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_605",
-    "name": "Ange ou D\u00e9mon Jasmin Sambac 2008",
+    "name": "Ange ou Démon Jasmin Sambac 2008",
     "brand": "Givenchy",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -21410,7 +21410,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_606",
-    "name": "Ange ou D\u00e9mon Jasmin Sambac 2010",
+    "name": "Ange ou Démon Jasmin Sambac 2010",
     "brand": "Givenchy",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -21445,7 +21445,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_607",
-    "name": "Ange ou D\u00e9mon Le Parfum & son Accord Illicite",
+    "name": "Ange ou Démon Le Parfum & son Accord Illicite",
     "brand": "Givenchy",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -21480,7 +21480,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_608",
-    "name": "Ange ou D\u00e9mon Le Secret 10th Anniversary Limited Edition",
+    "name": "Ange ou Démon Le Secret 10th Anniversary Limited Edition",
     "brand": "Givenchy",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -21515,7 +21515,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_609",
-    "name": "Ange ou D\u00e9mon Le Secret Ange ou \u00c9trange Le Secret Givenchy Eau de Parfum",
+    "name": "Ange ou Démon Le Secret Ange ou Étrange Le Secret Givenchy Eau de Parfum",
     "brand": "Givenchy",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -21550,7 +21550,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_610",
-    "name": "Ange ou D\u00e9mon Le Secret Edition Bal d'Or",
+    "name": "Ange ou Démon Le Secret Edition Bal d'Or",
     "brand": "Givenchy",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -21585,7 +21585,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_611",
-    "name": "Ange ou D\u00e9mon Le Secret Edition Riviera Edition Croisi\u00e8re",
+    "name": "Ange ou Démon Le Secret Edition Riviera Edition Croisière",
     "brand": "Givenchy",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -21620,7 +21620,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_612",
-    "name": "Ange ou D\u00e9mon Le Secret Elixir",
+    "name": "Ange ou Démon Le Secret Elixir",
     "brand": "Givenchy",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -21655,7 +21655,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_613",
-    "name": "Ange ou D\u00e9mon Le Secret Givenchy 2013 Eau de Toilette",
+    "name": "Ange ou Démon Le Secret Givenchy 2013 Eau de Toilette",
     "brand": "Givenchy",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -21690,7 +21690,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_614",
-    "name": "Ange ou D\u00e9mon Le Secret Lace Edition",
+    "name": "Ange ou Démon Le Secret Lace Edition",
     "brand": "Givenchy",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -21725,7 +21725,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_615",
-    "name": "Ange ou D\u00e9mon Le Secret Po\u00e9sie d'un Parfum d'Hiver 2010 - Santal d'Hiver",
+    "name": "Ange ou Démon Le Secret Poésie d'un Parfum d'Hiver 2010 - Santal d'Hiver",
     "brand": "Givenchy",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -21760,7 +21760,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_616",
-    "name": "Ange ou D\u00e9mon Le Secret Po\u00e9sie d'un Parfum d'Hiver 2011",
+    "name": "Ange ou Démon Le Secret Poésie d'un Parfum d'Hiver 2011",
     "brand": "Givenchy",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -21795,7 +21795,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_617",
-    "name": "Angel - Le Go\u00fbt du Parfum",
+    "name": "Angel - Le Goût du Parfum",
     "brand": "Mugler",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -21900,7 +21900,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_620",
-    "name": "Angel \u00c9dition Limit\u00e9e \u00c9toile Givr\u00e9e",
+    "name": "Angel Édition Limitée Étoile Givrée",
     "brand": "Mugler",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -21935,7 +21935,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_621",
-    "name": "Angel \u00c9dition N\u00e9on",
+    "name": "Angel Édition Néon",
     "brand": "Mugler",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -21970,7 +21970,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_622",
-    "name": "Angel \u00c9dition Passion",
+    "name": "Angel Édition Passion",
     "brand": "Mugler",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -22005,7 +22005,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_623",
-    "name": "Angel \u00c9toile Bijou",
+    "name": "Angel Étoile Bijou",
     "brand": "Mugler",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -22040,7 +22040,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_624",
-    "name": "Angel \u00c9toile Collection Couture",
+    "name": "Angel Étoile Collection Couture",
     "brand": "Mugler",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -22075,7 +22075,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_625",
-    "name": "Angel \u00c9toile Com\u00e8te Collection Couture",
+    "name": "Angel Étoile Comète Collection Couture",
     "brand": "Mugler",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -22110,7 +22110,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_626",
-    "name": "Angel \u00c9toile des R\u00eaves",
+    "name": "Angel Étoile des Rêves",
     "brand": "Mugler",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -22145,7 +22145,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_627",
-    "name": "Angel \u00c9toile d'Hiver Winter Star",
+    "name": "Angel Étoile d'Hiver Winter Star",
     "brand": "Mugler",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -22180,7 +22180,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_628",
-    "name": "Angel \u00c9toile Glamour Collection Couture",
+    "name": "Angel Étoile Glamour Collection Couture",
     "brand": "Mugler",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -22215,7 +22215,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_629",
-    "name": "Angel \u00c9toile Immacul\u00e9e Immaculate Star",
+    "name": "Angel Étoile Immaculée Immaculate Star",
     "brand": "Mugler",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -22250,7 +22250,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_630",
-    "name": "Angel \u00c9toile Magique Magic Star",
+    "name": "Angel Étoile Magique Magic Star",
     "brand": "Mugler",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -22285,7 +22285,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_631",
-    "name": "Angel \u00c9toile Mystique",
+    "name": "Angel Étoile Mystique",
     "brand": "Mugler",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -22320,7 +22320,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_632",
-    "name": "Angel \u00c9toile S\u00e9duisante",
+    "name": "Angel Étoile Séduisante",
     "brand": "Mugler",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -22355,7 +22355,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_633",
-    "name": "Angel \u00c9toile Saphir",
+    "name": "Angel Étoile Saphir",
     "brand": "Mugler",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -22495,7 +22495,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_637",
-    "name": "Angel Celebration \u00c9toile Fatale Fatal Star",
+    "name": "Angel Celebration Étoile Fatale Fatal Star",
     "brand": "Mugler",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -22530,7 +22530,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_638",
-    "name": "Angel Celebration Il Etait Une \u00c9toile Once Upon A Star",
+    "name": "Angel Celebration Il Etait Une Étoile Once Upon A Star",
     "brand": "Mugler",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -22565,7 +22565,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_639",
-    "name": "Angel Celebration Une \u00c9toile Est N\u00e9e A Star Is Born",
+    "name": "Angel Celebration Une Étoile Est Née A Star Is Born",
     "brand": "Mugler",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -22670,7 +22670,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_642",
-    "name": "Angel Divine \u00c9toile Divine Star",
+    "name": "Angel Divine Étoile Divine Star",
     "brand": "Mugler",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -22705,7 +22705,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_643",
-    "name": "Angel Eau Croisi\u00e8re 2019",
+    "name": "Angel Eau Croisière 2019",
     "brand": "Mugler",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -22740,7 +22740,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_644",
-    "name": "Angel Eau Croisi\u00e8re 2020",
+    "name": "Angel Eau Croisière 2020",
     "brand": "Mugler",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -22775,7 +22775,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_645",
-    "name": "Angel Eau Sucr\u00e9e 2014",
+    "name": "Angel Eau Sucrée 2014",
     "brand": "Mugler",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -22810,7 +22810,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_646",
-    "name": "Angel Eau Sucr\u00e9e 2015",
+    "name": "Angel Eau Sucrée 2015",
     "brand": "Mugler",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -22845,7 +22845,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_647",
-    "name": "Angel Eau Sucr\u00e9e 2017",
+    "name": "Angel Eau Sucrée 2017",
     "brand": "Mugler",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -23160,7 +23160,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_656",
-    "name": "Angel Liqueur de Parfum - Cr\u00e9ation 2013",
+    "name": "Angel Liqueur de Parfum - Création 2013",
     "brand": "Mugler",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -23790,7 +23790,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_674",
-    "name": "Angel Sunessence \u00c9dition Bleu Lagon",
+    "name": "Angel Sunessence Édition Bleu Lagon",
     "brand": "Mugler",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -23825,7 +23825,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_675",
-    "name": "Angel Sunessence \u00c9dition Oc\u00e9an d'Argent",
+    "name": "Angel Sunessence Édition Océan d'Argent",
     "brand": "Mugler",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -24315,7 +24315,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_689",
-    "name": "Antaeus Chanel 1981 Lotion Apr\u00e8s Rasage",
+    "name": "Antaeus Chanel 1981 Lotion Après Rasage",
     "brand": "Chanel",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -24420,7 +24420,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_692",
-    "name": "Aoud Absolue Pr\u00e9cieux",
+    "name": "Aoud Absolue Précieux",
     "brand": "Roja Parfums",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -24630,7 +24630,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_698",
-    "name": "Aoud Caf\u00e9",
+    "name": "Aoud Café",
     "brand": "Mancera",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -26135,7 +26135,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_741",
-    "name": "Apr\u00e8s L'Ond\u00e9e Guerlain 1906 Eau de Toilette",
+    "name": "Après L'Ondée Guerlain 1906 Eau de Toilette",
     "brand": "Guerlain",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -26170,7 +26170,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_742",
-    "name": "Apr\u00e8s L'Ond\u00e9e Guerlain 1906 Parfum",
+    "name": "Après L'Ondée Guerlain 1906 Parfum",
     "brand": "Guerlain",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -26240,7 +26240,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_744",
-    "name": "Aqua Allegoria Ang\u00e9lique Lilas",
+    "name": "Aqua Allegoria Angélique Lilas",
     "brand": "Guerlain",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -27395,7 +27395,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_777",
-    "name": "Aqua Allegoria Laurier-R\u00e9glisse",
+    "name": "Aqua Allegoria Laurier-Réglisse",
     "brand": "Guerlain",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -28235,7 +28235,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_801",
-    "name": "Aqua Allegoria Tiar\u00e9 Mimosa",
+    "name": "Aqua Allegoria Tiaré Mimosa",
     "brand": "Guerlain",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -28305,7 +28305,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_803",
-    "name": "Aqua Allegoria Winter D\u00e9lice",
+    "name": "Aqua Allegoria Winter Délice",
     "brand": "Guerlain",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -28410,7 +28410,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_806",
-    "name": "Aqua C\u00e8dre Blanc",
+    "name": "Aqua Cèdre Blanc",
     "brand": "Azzaro",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -29670,7 +29670,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_842",
-    "name": "Ar\u00f4me Synthetique Peau d'Espagne",
+    "name": "Arôme Synthetique Peau d'Espagne",
     "brand": "Guerlain",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -29810,7 +29810,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_846",
-    "name": "Arabian Sky \u0627\u0644\u0633\u0645\u0627\u0621 \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+    "name": "Arabian Sky السماء العربية",
     "brand": "Armaf",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -32190,7 +32190,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_914",
-    "name": "Armani Code Sport Giorgio Armani 2011 Lotion Apr\u00e8s-Rasage",
+    "name": "Armani Code Sport Giorgio Armani 2011 Lotion Après-Rasage",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -32680,7 +32680,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_928",
-    "name": "Armani Giorgio Armani 1990 Eau Parfum\u00e9e",
+    "name": "Armani Giorgio Armani 1990 Eau Parfumée",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -32785,7 +32785,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_931",
-    "name": "Armani Mania pour Homme Giorgio Armani 2002 Lotion Apr\u00e8s-Rasage",
+    "name": "Armani Mania pour Homme Giorgio Armani 2002 Lotion Après-Rasage",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -32820,7 +32820,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_932",
-    "name": "Armani Priv\u00e9 - A Milano",
+    "name": "Armani Privé - A Milano",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -32855,7 +32855,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_933",
-    "name": "Armani Priv\u00e9 - \u00c9clat de Jasmin",
+    "name": "Armani Privé - Éclat de Jasmin",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -32890,7 +32890,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_934",
-    "name": "Armani Priv\u00e9 - Ambre Eccentrico",
+    "name": "Armani Privé - Ambre Eccentrico",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -32925,7 +32925,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_935",
-    "name": "Armani Priv\u00e9 - Ambre Orient",
+    "name": "Armani Privé - Ambre Orient",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -32960,7 +32960,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_936",
-    "name": "Armani Priv\u00e9 - Ambre Soie",
+    "name": "Armani Privé - Ambre Soie",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -32995,7 +32995,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_937",
-    "name": "Armani Priv\u00e9 - Blanc Kogane",
+    "name": "Armani Privé - Blanc Kogane",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -33030,7 +33030,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_938",
-    "name": "Armani Priv\u00e9 - Bleu Lazuli",
+    "name": "Armani Privé - Bleu Lazuli",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -33065,7 +33065,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_939",
-    "name": "Armani Priv\u00e9 - Bleu Turquoise",
+    "name": "Armani Privé - Bleu Turquoise",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -33100,7 +33100,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_940",
-    "name": "Armani Priv\u00e9 - Bois d'Encens",
+    "name": "Armani Privé - Bois d'Encens",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -33135,7 +33135,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_941",
-    "name": "Armani Priv\u00e9 - C\u00e8dre Olympe",
+    "name": "Armani Privé - Cèdre Olympe",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -33170,7 +33170,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_942",
-    "name": "Armani Priv\u00e9 - Charm'",
+    "name": "Armani Privé - Charm'",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -33205,7 +33205,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_943",
-    "name": "Armani Priv\u00e9 - Cuir Am\u00e9thyste",
+    "name": "Armani Privé - Cuir Améthyste",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -33240,7 +33240,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_944",
-    "name": "Armani Priv\u00e9 - Cuir Majest\u00e9",
+    "name": "Armani Privé - Cuir Majesté",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -33275,7 +33275,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_945",
-    "name": "Armani Priv\u00e9 - Cuir Noir",
+    "name": "Armani Privé - Cuir Noir",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -33310,7 +33310,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_946",
-    "name": "Armani Priv\u00e9 - Cuir Zerzura",
+    "name": "Armani Privé - Cuir Zerzura",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -33345,7 +33345,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_947",
-    "name": "Armani Priv\u00e9 - Cypr\u00e8s Pantelleria",
+    "name": "Armani Privé - Cyprès Pantelleria",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -33380,7 +33380,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_948",
-    "name": "Armani Priv\u00e9 - Eau de Jade",
+    "name": "Armani Privé - Eau de Jade",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -33415,7 +33415,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_949",
-    "name": "Armani Priv\u00e9 - Encens Satin",
+    "name": "Armani Privé - Encens Satin",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -33450,7 +33450,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_950",
-    "name": "Armani Priv\u00e9 - Figuier Eden",
+    "name": "Armani Privé - Figuier Eden",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -33485,7 +33485,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_951",
-    "name": "Armani Priv\u00e9 - Fil Rouge",
+    "name": "Armani Privé - Fil Rouge",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -33520,7 +33520,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_952",
-    "name": "Armani Priv\u00e9 - Gard\u00e9nia Antigua",
+    "name": "Armani Privé - Gardénia Antigua",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -33555,7 +33555,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_953",
-    "name": "Armani Priv\u00e9 - Ikat Bleu",
+    "name": "Armani Privé - Ikat Bleu",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -33590,7 +33590,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_954",
-    "name": "Armani Priv\u00e9 - Ikat Rouge",
+    "name": "Armani Privé - Ikat Rouge",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -33625,7 +33625,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_955",
-    "name": "Armani Priv\u00e9 - Indigo Tanzanite",
+    "name": "Armani Privé - Indigo Tanzanite",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -33660,7 +33660,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_956",
-    "name": "Armani Priv\u00e9 - Iris C\u00e9ladon",
+    "name": "Armani Privé - Iris Céladon",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -33695,7 +33695,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_957",
-    "name": "Armani Priv\u00e9 - Jasmin Kusamono",
+    "name": "Armani Privé - Jasmin Kusamono",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -33730,7 +33730,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_958",
-    "name": "Armani Priv\u00e9 - Jawhara Oriental",
+    "name": "Armani Privé - Jawhara Oriental",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -33765,7 +33765,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_959",
-    "name": "Armani Priv\u00e9 - La Femme Bleue",
+    "name": "Armani Privé - La Femme Bleue",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -33800,7 +33800,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_960",
-    "name": "Armani Priv\u00e9 - Laque",
+    "name": "Armani Privé - Laque",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -33835,7 +33835,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_961",
-    "name": "Armani Priv\u00e9 - Magenta Tanzanite",
+    "name": "Armani Privé - Magenta Tanzanite",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -33870,7 +33870,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_962",
-    "name": "Armani Priv\u00e9 - Musc Shamal",
+    "name": "Armani Privé - Musc Shamal",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -33905,7 +33905,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_963",
-    "name": "Armani Priv\u00e9 - Myrrhe Imp\u00e9riale",
+    "name": "Armani Privé - Myrrhe Impériale",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -33940,7 +33940,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_964",
-    "name": "Armani Priv\u00e9 - Nacre",
+    "name": "Armani Privé - Nacre",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -33975,7 +33975,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_965",
-    "name": "Armani Priv\u00e9 - New York",
+    "name": "Armani Privé - New York",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -34006,11 +34006,11 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://perfumediary.com/wp-content/uploads/2016/10/Giorgio-Armani-Priv\u00e9-New-York-.jpg"
+    "aesthetic_image": "https://perfumediary.com/wp-content/uploads/2016/10/Giorgio-Armani-Privé-New-York-.jpg"
   },
   {
     "id": "p_unique_966",
-    "name": "Armani Priv\u00e9 - Noir Kogane",
+    "name": "Armani Privé - Noir Kogane",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -34045,7 +34045,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_967",
-    "name": "Armani Priv\u00e9 - Nuances",
+    "name": "Armani Privé - Nuances",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -34080,7 +34080,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_968",
-    "name": "Armani Priv\u00e9 - Ombre & Lumi\u00e8re",
+    "name": "Armani Privé - Ombre & Lumière",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -34115,7 +34115,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_969",
-    "name": "Armani Priv\u00e9 - Oranger Alhambra",
+    "name": "Armani Privé - Oranger Alhambra",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -34150,7 +34150,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_970",
-    "name": "Armani Priv\u00e9 - Orangerie Venise",
+    "name": "Armani Privé - Orangerie Venise",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -34185,7 +34185,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_971",
-    "name": "Armani Priv\u00e9 - Oud Royal",
+    "name": "Armani Privé - Oud Royal",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -34220,7 +34220,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_972",
-    "name": "Armani Priv\u00e9 - Pierre de Lune",
+    "name": "Armani Privé - Pierre de Lune",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -34255,7 +34255,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_973",
-    "name": "Armani Priv\u00e9 - Pivoine Suzhou",
+    "name": "Armani Privé - Pivoine Suzhou",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -34290,7 +34290,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_974",
-    "name": "Armani Priv\u00e9 - Pivoine Suzhou Limited Edition",
+    "name": "Armani Privé - Pivoine Suzhou Limited Edition",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -34325,7 +34325,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_975",
-    "name": "Armani Priv\u00e9 - Rond\u00f2 Armaniano",
+    "name": "Armani Privé - Rondò Armaniano",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -34360,7 +34360,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_976",
-    "name": "Armani Priv\u00e9 - Rose Alexandrie",
+    "name": "Armani Privé - Rose Alexandrie",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -34395,7 +34395,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_977",
-    "name": "Armani Priv\u00e9 - Rose d'Arabie \u00c9clat de Pierres",
+    "name": "Armani Privé - Rose d'Arabie Éclat de Pierres",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -34430,7 +34430,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_978",
-    "name": "Armani Priv\u00e9 - Rose d'Arabie",
+    "name": "Armani Privé - Rose d'Arabie",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -34465,7 +34465,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_979",
-    "name": "Armani Priv\u00e9 - Rose d'Arabie Limited Edition 2018",
+    "name": "Armani Privé - Rose d'Arabie Limited Edition 2018",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -34500,7 +34500,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_980",
-    "name": "Armani Priv\u00e9 - Rose d'Arabie L'Or du D\u00e9sert",
+    "name": "Armani Privé - Rose d'Arabie L'Or du Désert",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -34535,7 +34535,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_981",
-    "name": "Armani Priv\u00e9 - Rose d'Artiste",
+    "name": "Armani Privé - Rose d'Artiste",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -34570,7 +34570,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_982",
-    "name": "Armani Priv\u00e9 - Rose Milano",
+    "name": "Armani Privé - Rose Milano",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -34605,7 +34605,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_983",
-    "name": "Armani Priv\u00e9 - Rouge Malachite",
+    "name": "Armani Privé - Rouge Malachite",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -34640,7 +34640,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_984",
-    "name": "Armani Priv\u00e9 - Rouge Malachite L'Or de Russie",
+    "name": "Armani Privé - Rouge Malachite L'Or de Russie",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -34675,7 +34675,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_985",
-    "name": "Armani Priv\u00e9 - Sable Fum\u00e9",
+    "name": "Armani Privé - Sable Fumé",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -34710,7 +34710,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_986",
-    "name": "Armani Priv\u00e9 - Sable Nuit",
+    "name": "Armani Privé - Sable Nuit",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -34745,7 +34745,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_987",
-    "name": "Armani Priv\u00e9 - Sable Or",
+    "name": "Armani Privé - Sable Or",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -34780,7 +34780,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_988",
-    "name": "Armani Priv\u00e9 - Santal D\u0101n Sh\u0101",
+    "name": "Armani Privé - Santal Dān Shā",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -34815,7 +34815,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_989",
-    "name": "Armani Priv\u00e9 - Th\u00e9 Yulong",
+    "name": "Armani Privé - Thé Yulong",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -34850,7 +34850,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_990",
-    "name": "Armani Priv\u00e9 - V\u00e9tiver d'Hiver V\u00e9tiver Babylone",
+    "name": "Armani Privé - Vétiver d'Hiver Vétiver Babylone",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -34885,7 +34885,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_991",
-    "name": "Armani Priv\u00e9 - Vert Malachite",
+    "name": "Armani Privé - Vert Malachite",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -35026,7 +35026,7 @@ export const PERFUME_DATABASE = [
   {
     "id": "p_unique_995",
     "name": "Aroma Blue",
-    "brand": "Lanc\u00f4me",
+    "brand": "Lancôme",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -35055,13 +35055,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lanc\u00f4me. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
     "aesthetic_image": "https://image.shutterstock.com/image-photo/purple-perfume-bottle-isolate-260nw-207298255.jpg"
   },
   {
     "id": "p_unique_996",
     "name": "Aroma Calm",
-    "brand": "Lanc\u00f4me",
+    "brand": "Lancôme",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -35090,13 +35090,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lanc\u00f4me. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
     "aesthetic_image": "https://thumbs.dreamstime.com/z/perfume-bottle-isolate-transparency-background-png-perfume-bottle-isolate-transparency-background-png-illustration-343459285.jpg"
   },
   {
     "id": "p_unique_997",
-    "name": "Aroma D\u00e9lice",
-    "brand": "Lanc\u00f4me",
+    "name": "Aroma Délice",
+    "brand": "Lancôme",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -35125,13 +35125,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lanc\u00f4me. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
     "aesthetic_image": "https://thumbs.dreamstime.com/z/perfume-bottle-isolate-transparency-background-png-perfume-bottle-isolate-transparency-background-png-illustration-343459285.jpg"
   },
   {
     "id": "p_unique_998",
     "name": "Aroma d'Orange Verte",
-    "brand": "Herm\u00e8s",
+    "brand": "Hermès",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -35160,13 +35160,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Herm\u00e8s. A compelling explorations of notes.",
+    "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
     "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/60312w.jpg"
   },
   {
     "id": "p_unique_999",
     "name": "Aroma Fit",
-    "brand": "Lanc\u00f4me",
+    "brand": "Lancôme",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -35195,13 +35195,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lanc\u00f4me. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
     "aesthetic_image": "https://thumbs.dreamstime.com/z/perfume-bottle-isolate-transparency-background-png-perfume-bottle-isolate-transparency-background-png-illustration-343459285.jpg"
   },
   {
     "id": "p_unique_1000",
     "name": "Aroma Juice",
-    "brand": "Lanc\u00f4me",
+    "brand": "Lancôme",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -35230,13 +35230,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lanc\u00f4me. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
     "aesthetic_image": "https://thumbs.dreamstime.com/z/perfume-bottle-isolate-transparency-background-png-perfume-bottle-isolate-transparency-background-png-illustration-343459285.jpg"
   },
   {
     "id": "p_unique_1001",
     "name": "Aroma Source",
-    "brand": "Lanc\u00f4me",
+    "brand": "Lancôme",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -35265,13 +35265,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lanc\u00f4me. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
     "aesthetic_image": "https://parfumistas.com/wp-content/uploads/2024/08/lancome_aroma_source_s.jpg"
   },
   {
     "id": "p_unique_1002",
     "name": "Aroma Sun",
-    "brand": "Lanc\u00f4me",
+    "brand": "Lancôme",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -35300,13 +35300,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lanc\u00f4me. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
     "aesthetic_image": "https://thumbs.dreamstime.com/z/perfume-bottle-isolate-transparency-background-png-perfume-bottle-isolate-transparency-background-png-illustration-343459285.jpg"
   },
   {
     "id": "p_unique_1003",
     "name": "Aroma Tonic",
-    "brand": "Lanc\u00f4me",
+    "brand": "Lancôme",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -35335,7 +35335,7 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lanc\u00f4me. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
     "aesthetic_image": "https://fimgs.net/mdimg/perfume/social.178.jpg"
   },
   {
@@ -35410,7 +35410,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_1006",
-    "name": "Ars\u00e8ne Lupin Ars\u00e8ne Lupin Dandy",
+    "name": "Arsène Lupin Arsène Lupin Dandy",
     "brand": "Guerlain",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -36040,7 +36040,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_1024",
-    "name": "Atelier Versace - \u00c9clat de Rose",
+    "name": "Atelier Versace - Éclat de Rose",
     "brand": "Versace",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -36075,7 +36075,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_1025",
-    "name": "Atelier Versace - C\u00e9drat de Diamante",
+    "name": "Atelier Versace - Cédrat de Diamante",
     "brand": "Versace",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -36110,7 +36110,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_1026",
-    "name": "Atelier Versace - Encens Supr\u00eame",
+    "name": "Atelier Versace - Encens Suprême",
     "brand": "Versace",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -36180,7 +36180,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_1028",
-    "name": "Atelier Versace - Fleur de Mat\u00e9",
+    "name": "Atelier Versace - Fleur de Maté",
     "brand": "Versace",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -36215,7 +36215,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_1029",
-    "name": "Atelier Versace - Gingembre P\u00e9tillant",
+    "name": "Atelier Versace - Gingembre Pétillant",
     "brand": "Versace",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -36250,7 +36250,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_1030",
-    "name": "Atelier Versace - Iris d'\u00c9lite",
+    "name": "Atelier Versace - Iris d'Élite",
     "brand": "Versace",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -36355,7 +36355,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_1033",
-    "name": "Atelier Versace - Santal Bois\u00e9",
+    "name": "Atelier Versace - Santal Boisé",
     "brand": "Versace",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -36390,7 +36390,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_1034",
-    "name": "Atelier Versace - Tabac Imp\u00e9rial",
+    "name": "Atelier Versace - Tabac Impérial",
     "brand": "Versace",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -36845,7 +36845,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_1047",
-    "name": "Attitude Extr\u00eame",
+    "name": "Attitude Extrême",
     "brand": "Giorgio Armani",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -36915,7 +36915,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_1049",
-    "name": "Attitude Giorgio Armani 2007 Lotion Apr\u00e8s Rasage",
+    "name": "Attitude Giorgio Armani 2007 Lotion Après Rasage",
     "brand": "Giorgio Armani",
     "gender": "male",
     "price_range": "Designer ($120 - $180)",
@@ -36950,8 +36950,8 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_1050",
-    "name": "Attraction Lanc\u00f4me 2003 Eau de Parfum",
-    "brand": "Lanc\u00f4me",
+    "name": "Attraction Lancôme 2003 Eau de Parfum",
+    "brand": "Lancôme",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -36980,13 +36980,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lanc\u00f4me. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
     "aesthetic_image": "https://i.pinimg.com/736x/ea/e3/4b/eae34bb68f555c7a855fec3560e3b642.jpg"
   },
   {
     "id": "p_unique_1051",
     "name": "Attraction Le Parfum",
-    "brand": "Lanc\u00f4me",
+    "brand": "Lancôme",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -37015,12 +37015,12 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lanc\u00f4me. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
     "aesthetic_image": "https://thumbs.dreamstime.com/z/perfume-bottle-isolate-transparency-background-png-perfume-bottle-isolate-transparency-background-png-illustration-343459285.jpg"
   },
   {
     "id": "p_unique_1052",
-    "name": "Attrape C\u0153ur",
+    "name": "Attrape Cœur",
     "brand": "Guerlain",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -37090,7 +37090,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_1054",
-    "name": "Aub\u00e9pine-Acacia",
+    "name": "Aubépine-Acacia",
     "brand": "Creed",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -37370,7 +37370,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_1062",
-    "name": "Aura Magn\u00e9tica",
+    "name": "Aura Magnética",
     "brand": "Loewe",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -37436,7 +37436,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.celes-perfume.com/wp-content/uploads/2023/04/Mugler-\u2013-Aura-Mugler-Eau-de-Parfum.jpg"
+    "aesthetic_image": "https://www.celes-perfume.com/wp-content/uploads/2023/04/Mugler-–-Aura-Mugler-Eau-de-Parfum.jpg"
   },
   {
     "id": "p_unique_1064",
@@ -37545,7 +37545,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_1067",
-    "name": "Aura Sport Edici\u00f3n Especial",
+    "name": "Aura Sport Edición Especial",
     "brand": "Loewe",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -38245,7 +38245,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_1087",
-    "name": "Azzaro Couture La Poup\u00e9e et son Ours",
+    "name": "Azzaro Couture La Poupée et son Ours",
     "brand": "Azzaro",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -38350,7 +38350,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_1090",
-    "name": "Azzaro pour Elle Extr\u00eame",
+    "name": "Azzaro pour Elle Extrême",
     "brand": "Azzaro",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -39715,7 +39715,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_1129",
-    "name": "Baccarat Rouge 540 \u00c9dition Limit\u00e9e",
+    "name": "Baccarat Rouge 540 Édition Limitée",
     "brand": "Maison Francis Kurkdjian",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -40135,7 +40135,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_1141",
-    "name": "Baie de Geni\u00e8vre",
+    "name": "Baie de Genièvre",
     "brand": "Creed",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -40240,7 +40240,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_1144",
-    "name": "Baiser de Cin\u00e9ma",
+    "name": "Baiser de Cinéma",
     "brand": "Yves Saint Laurent",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -40345,7 +40345,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_1147",
-    "name": "Baiser Vol\u00e9 Cartier 2011 Eau de Parfum",
+    "name": "Baiser Volé Cartier 2011 Eau de Parfum",
     "brand": "Cartier",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -40380,7 +40380,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_1148",
-    "name": "Baiser Vol\u00e9 Cartier 2012 Eau de Toilette",
+    "name": "Baiser Volé Cartier 2012 Eau de Toilette",
     "brand": "Cartier",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -40415,7 +40415,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_1149",
-    "name": "Baiser Vol\u00e9 Cartier 2012 Extrait de Parfum",
+    "name": "Baiser Volé Cartier 2012 Extrait de Parfum",
     "brand": "Cartier",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -40450,7 +40450,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_1150",
-    "name": "Baiser Vol\u00e9 Cartier 2013 Essence de Parfum",
+    "name": "Baiser Volé Cartier 2013 Essence de Parfum",
     "brand": "Cartier",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -40485,7 +40485,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_1151",
-    "name": "Baiser Vol\u00e9 Cartier 2015 Eau de Parfum Fra\u00eeche",
+    "name": "Baiser Volé Cartier 2015 Eau de Parfum Fraîche",
     "brand": "Cartier",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -40520,7 +40520,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_1152",
-    "name": "Baiser Vol\u00e9 Limited Edition",
+    "name": "Baiser Volé Limited Edition",
     "brand": "Cartier",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -40555,7 +40555,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_1153",
-    "name": "Baiser Vol\u00e9 Lys Rose",
+    "name": "Baiser Volé Lys Rose",
     "brand": "Cartier",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -40590,7 +40590,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_1154",
-    "name": "Baiser Vol\u00e9 Parfum",
+    "name": "Baiser Volé Parfum",
     "brand": "Cartier",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -40835,8 +40835,8 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_1161",
-    "name": "Balafre Brun Lanc\u00f4me 1974 After-Shave",
-    "brand": "Lanc\u00f4me",
+    "name": "Balafre Brun Lancôme 1974 After-Shave",
+    "brand": "Lancôme",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -40865,13 +40865,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lanc\u00f4me. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
     "aesthetic_image": "https://piimages.parfumo.de/6/7/77184_227c73db12cb6da4d856b51c150e2adf_balafre-brun-after-shave.jpg"
   },
   {
     "id": "p_unique_1162",
-    "name": "Balafre Brun Lanc\u00f4me 1974 Eau de Toilette",
-    "brand": "Lanc\u00f4me",
+    "name": "Balafre Brun Lancôme 1974 Eau de Toilette",
+    "brand": "Lancôme",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -40900,13 +40900,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lanc\u00f4me. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
     "aesthetic_image": "https://pimages.parfumo.de/240/17066_w03frb4xst_240.jpg"
   },
   {
     "id": "p_unique_1163",
-    "name": "Balafre Lanc\u00f4me 1967 After Shave",
-    "brand": "Lanc\u00f4me",
+    "name": "Balafre Lancôme 1967 After Shave",
+    "brand": "Lancôme",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -40935,13 +40935,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lanc\u00f4me. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
     "aesthetic_image": "https://wikifragancias.com/images/perfumes/lancome/balafre-after-shave/400.webp"
   },
   {
     "id": "p_unique_1164",
-    "name": "Balafre Lanc\u00f4me 1967 Eau de Toilette",
-    "brand": "Lanc\u00f4me",
+    "name": "Balafre Lancôme 1967 Eau de Toilette",
+    "brand": "Lancôme",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -40970,13 +40970,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lanc\u00f4me. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
     "aesthetic_image": "https://pimages.parfumo.de/480/1328_img-2947-lancome-balafre_eau_de_toilette_480.jpg"
   },
   {
     "id": "p_unique_1165",
-    "name": "Balafre Vert Lanc\u00f4me 1974 After-Shave",
-    "brand": "Lanc\u00f4me",
+    "name": "Balafre Vert Lancôme 1974 After-Shave",
+    "brand": "Lancôme",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -41005,13 +41005,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lanc\u00f4me. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
     "aesthetic_image": "https://pimages.parfumo.de/480/83557_img-4903-lancome-balafre-vert-after-shave_480.jpg"
   },
   {
     "id": "p_unique_1166",
-    "name": "Balafre Vert Lanc\u00f4me 1974 Eau de Toilette",
-    "brand": "Lanc\u00f4me",
+    "name": "Balafre Vert Lancôme 1974 Eau de Toilette",
+    "brand": "Lancôme",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -41040,7 +41040,7 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lanc\u00f4me. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
     "aesthetic_image": "https://piimages.parfumo.de/2/3/14514_5a4150f5dc09d5feb666b22284d97a1f_balafre_vert.jpg"
   },
   {
@@ -42515,8 +42515,8 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_1209",
-    "name": "Bel Ami Herm\u00e8s 1986 Apr\u00e8s-Rasage",
-    "brand": "Herm\u00e8s",
+    "name": "Bel Ami Hermès 1986 Après-Rasage",
+    "brand": "Hermès",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -42545,13 +42545,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Herm\u00e8s. A compelling explorations of notes.",
+    "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
     "aesthetic_image": "https://fimgs.net/photogram/p1200/pn/lr/0VpoZLZ5W5RxWNM3.jpg"
   },
   {
     "id": "p_unique_1210",
-    "name": "Bel Ami Herm\u00e8s 1986 Eau de Toilette",
-    "brand": "Herm\u00e8s",
+    "name": "Bel Ami Hermès 1986 Eau de Toilette",
+    "brand": "Hermès",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -42580,13 +42580,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Herm\u00e8s. A compelling explorations of notes.",
+    "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
     "aesthetic_image": "https://cdn.basler-beauty.de/out/pictures/generated/product/2/1200_1200_100/2608545-HERMES-Bel-Ami-Vetiver-Eau-de-Toilette-100-ml.c44644d8.jpg"
   },
   {
     "id": "p_unique_1211",
-    "name": "Bel Ami V\u00e9tiver",
-    "brand": "Herm\u00e8s",
+    "name": "Bel Ami Vétiver",
+    "brand": "Hermès",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -42615,13 +42615,13 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Herm\u00e8s. A compelling explorations of notes.",
+    "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
     "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/744m.jpg"
   },
   {
     "id": "p_unique_1212",
     "name": "Bel Automne",
-    "brand": "Lanc\u00f4me",
+    "brand": "Lancôme",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -42650,7 +42650,7 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lanc\u00f4me. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
     "aesthetic_image": "https://thumbs.dreamstime.com/z/perfume-bottle-isolate-transparency-background-png-perfume-bottle-isolate-transparency-background-png-illustration-343459285.jpg"
   },
   {
@@ -42970,7 +42970,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_1222",
-    "name": "Belle d'Opium Yves Saint Laurent 2012 Eau de Parfum \u00c9clat",
+    "name": "Belle d'Opium Yves Saint Laurent 2012 Eau de Parfum Éclat",
     "brand": "Yves Saint Laurent",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -43216,7 +43216,7 @@ export const PERFUME_DATABASE = [
   {
     "id": "p_unique_1229",
     "name": "Benghal",
-    "brand": "Lanc\u00f4me",
+    "brand": "Lancôme",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
     "price_category": "designer",
@@ -43245,7 +43245,7 @@ export const PERFUME_DATABASE = [
     "wearing_time": "7 hours",
     "performance": "Moderate",
     "longevity": "Moderate",
-    "description": "An uncommon gem from Lanc\u00f4me. A compelling explorations of notes.",
+    "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
     "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/62744w.jpg"
   },
   {
@@ -43285,7 +43285,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_1231",
-    "name": "Benjoin Boh\u00e8me",
+    "name": "Benjoin Bohème",
     "brand": "Diptyque",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -43775,7 +43775,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_1245",
-    "name": "Biblioth\u00e8que Byredo 2017 Eau de Parfum",
+    "name": "Bibliothèque Byredo 2017 Eau de Parfum",
     "brand": "Byredo",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -43810,7 +43810,7 @@ export const PERFUME_DATABASE = [
   },
   {
     "id": "p_unique_1246",
-    "name": "Biblioth\u00e8que Byredo Hair Perfume",
+    "name": "Bibliothèque Byredo Hair Perfume",
     "brand": "Byredo",
     "gender": "unisex",
     "price_range": "Designer ($120 - $180)",
@@ -44472,6 +44472,497 @@ export const PERFUME_DATABASE = [
     "longevity": "Moderate",
     "description": "An uncommon gem from Yves Saint Laurent. A compelling explorations of notes.",
     "aesthetic_image": "https://piimages.parfumo.de/9/2/99156_4b14a19122d5c00aeab94522b8f741c5_black_opium_collector_edition_2017.jpg"
+  },
+  {
+    "id": "p_budget_1",
+    "name": "Asad",
+    "brand": "Lattafa",
+    "gender": "male",
+    "price_range": "Budget/Dupe",
+    "price_category": "budget",
+    "vibe": [
+      "Spicy & Bold",
+      "Woody & Earthy"
+    ],
+    "occasion": [
+      "Date Night/Romantic",
+      "Signature/Daily Wear"
+    ],
+    "power": [
+      "Longevity",
+      "Projection/Sillage"
+    ],
+    "context": [
+      "Cold Weather",
+      "Night"
+    ],
+    "psychology": [
+      "Compliment Factor",
+      "Brand & Presentation"
+    ],
+    "notes": [
+      "Black Pepper",
+      "Vanilla",
+      "Amber"
+    ],
+    "wearing_time": "10 hours",
+    "performance": "Strong",
+    "longevity": "Long Lasting",
+    "description": "An incredibly popular, bold and spicy budget alternative to Sauvage Elixir with fantastic performance and sweet vanilla undertones.",
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.71616.jpg"
+  },
+  {
+    "id": "p_budget_2",
+    "name": "9pm",
+    "brand": "Afnan",
+    "gender": "male",
+    "price_range": "Budget/Dupe",
+    "price_category": "budget",
+    "vibe": [
+      "Sweet & Gourmand",
+      "Spicy & Bold"
+    ],
+    "occasion": [
+      "Date Night/Romantic",
+      "Signature/Daily Wear"
+    ],
+    "power": [
+      "Longevity",
+      "Projection/Sillage"
+    ],
+    "context": [
+      "Cold Weather",
+      "Night"
+    ],
+    "psychology": [
+      "Compliment Factor",
+      "Seduction & Mystery"
+    ],
+    "notes": [
+      "Apple",
+      "Vanilla",
+      "Tonka Bean"
+    ],
+    "wearing_time": "12 hours",
+    "performance": "Beast Mode",
+    "longevity": "Eternal",
+    "description": "A sweet, loud, and irresistible nighttime fragrance that performs like a beast. The ultimate budget king for going out.",
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.64506.jpg"
+  },
+  {
+    "id": "p_budget_3",
+    "name": "Khamrah",
+    "brand": "Lattafa",
+    "gender": "unisex",
+    "price_range": "Budget/Dupe",
+    "price_category": "budget",
+    "vibe": [
+      "Sweet & Gourmand",
+      "Spicy & Bold"
+    ],
+    "occasion": [
+      "Date Night/Romantic",
+      "Signature/Daily Wear"
+    ],
+    "power": [
+      "Longevity",
+      "Projection/Sillage"
+    ],
+    "context": [
+      "Cold Weather",
+      "Night"
+    ],
+    "psychology": [
+      "Compliment Factor",
+      "Seduction & Mystery"
+    ],
+    "notes": [
+      "Cinnamon",
+      "Dates",
+      "Praline"
+    ],
+    "wearing_time": "12 hours",
+    "performance": "Beast Mode",
+    "longevity": "Eternal",
+    "description": "A luxuriously sweet and boozy gourmand masterpiece that rivals high-end niche fragrances in both scent and presentation.",
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.75805.jpg"
+  },
+  {
+    "id": "p_budget_4",
+    "name": "Yara",
+    "brand": "Lattafa",
+    "gender": "female",
+    "price_range": "Budget/Dupe",
+    "price_category": "budget",
+    "vibe": [
+      "Sweet & Gourmand",
+      "Floral"
+    ],
+    "occasion": [
+      "Signature/Daily Wear"
+    ],
+    "power": [
+      "Longevity",
+      "Projection/Sillage"
+    ],
+    "context": [
+      "All Weather",
+      "Day"
+    ],
+    "psychology": [
+      "Compliment Factor",
+      "Aesthetic & Mood"
+    ],
+    "notes": [
+      "Orchid",
+      "Vanilla",
+      "Musk"
+    ],
+    "wearing_time": "8 hours",
+    "performance": "Moderate",
+    "longevity": "Long Lasting",
+    "description": "A fluffy, sweet, and powdery strawberry-vanilla cloud. One of the most viral and beloved budget feminine fragrances on the market.",
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.65593.jpg"
+  },
+  {
+    "id": "p_budget_5",
+    "name": "Club de Nuit Milestone",
+    "brand": "Armaf",
+    "gender": "unisex",
+    "price_range": "Budget/Dupe",
+    "price_category": "budget",
+    "vibe": [
+      "Fresh & Clean",
+      "Woody & Earthy"
+    ],
+    "occasion": [
+      "Signature/Daily Wear",
+      "Office/Professional"
+    ],
+    "power": [
+      "Longevity",
+      "Projection/Sillage"
+    ],
+    "context": [
+      "Hot Weather",
+      "Day"
+    ],
+    "psychology": [
+      "Compliment Factor",
+      "Brand & Presentation"
+    ],
+    "notes": [
+      "Sea Notes",
+      "Red Fruits",
+      "Musk"
+    ],
+    "wearing_time": "8 hours",
+    "performance": "Strong",
+    "longevity": "Long Lasting",
+    "description": "A stunningly accurate and powerful budget alternative to golden niche aquatics. Salty, fruity, and highly compliment-drawing.",
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.62779.jpg"
+  },
+  {
+    "id": "p_budget_6",
+    "name": "Rich Warm Addictive",
+    "brand": "Zara",
+    "gender": "male",
+    "price_range": "Budget/Dupe",
+    "price_category": "budget",
+    "vibe": [
+      "Sweet & Gourmand",
+      "Woody & Earthy"
+    ],
+    "occasion": [
+      "Date Night/Romantic",
+      "Signature/Daily Wear"
+    ],
+    "power": [
+      "Longevity"
+    ],
+    "context": [
+      "Cold Weather",
+      "Night"
+    ],
+    "psychology": [
+      "Aesthetic & Mood",
+      "Seduction & Mystery"
+    ],
+    "notes": [
+      "Tobacco",
+      "Coconut",
+      "Honey"
+    ],
+    "wearing_time": "6 hours",
+    "performance": "Moderate",
+    "longevity": "Moderate",
+    "description": "A shockingly good budget fragrance blending sweet honey, coconut, and smooth tobacco. A cozy staple for cold weather.",
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.41323.jpg"
+  },
+  {
+    "id": "p_niche_101",
+    "name": "Baccarat Rouge 540",
+    "brand": "Maison Francis Kurkdjian",
+    "gender": "unisex",
+    "price_range": "Niche/Luxury",
+    "price_category": "niche",
+    "vibe": [
+      "Sweet & Gourmand",
+      "Woody & Earthy"
+    ],
+    "occasion": [
+      "Date Night/Romantic",
+      "Signature/Daily Wear"
+    ],
+    "power": [
+      "Longevity",
+      "Projection/Sillage"
+    ],
+    "context": [
+      "All Weather",
+      "Night"
+    ],
+    "psychology": [
+      "Brand & Presentation",
+      "Compliment Factor"
+    ],
+    "notes": [
+      "Saffron",
+      "Amberwood",
+      "Fir Resin"
+    ],
+    "wearing_time": "12+ hours",
+    "performance": "Beast Mode",
+    "longevity": "Eternal",
+    "description": "A legendary and transparent masterpiece of burnt sugar and cedarwood. The ultimate signature of modern luxury.",
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.33519.jpg"
+  },
+  {
+    "id": "p_niche_102",
+    "name": "Delina",
+    "brand": "Parfums de Marly",
+    "gender": "female",
+    "price_range": "Niche/Luxury",
+    "price_category": "niche",
+    "vibe": [
+      "Floral",
+      "Sweet & Gourmand"
+    ],
+    "occasion": [
+      "Date Night/Romantic",
+      "Signature/Daily Wear"
+    ],
+    "power": [
+      "Longevity",
+      "Projection/Sillage"
+    ],
+    "context": [
+      "All Weather",
+      "Day"
+    ],
+    "psychology": [
+      "Compliment Factor",
+      "Brand & Presentation"
+    ],
+    "notes": [
+      "Turkish Rose",
+      "Litchi",
+      "Rhubarb"
+    ],
+    "wearing_time": "10 hours",
+    "performance": "Strong",
+    "longevity": "Long Lasting",
+    "description": "A majestic blooming rose enveloped in sweet litchi and a tart rhubarb edge. The epitome of modern feminine niche elegance.",
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.43871.jpg"
+  },
+  {
+    "id": "p_niche_103",
+    "name": "Angels' Share",
+    "brand": "By Kilian",
+    "gender": "unisex",
+    "price_range": "Niche/Luxury",
+    "price_category": "niche",
+    "vibe": [
+      "Sweet & Gourmand",
+      "Spicy & Bold"
+    ],
+    "occasion": [
+      "Date Night/Romantic",
+      "Signature/Daily Wear"
+    ],
+    "power": [
+      "Longevity",
+      "Projection/Sillage"
+    ],
+    "context": [
+      "Cold Weather",
+      "Night"
+    ],
+    "psychology": [
+      "Seduction & Mystery",
+      "Brand & Presentation"
+    ],
+    "notes": [
+      "Cognac",
+      "Cinnamon",
+      "Praline"
+    ],
+    "wearing_time": "12 hours",
+    "performance": "Strong",
+    "longevity": "Long Lasting",
+    "description": "A luxurious splash of aged cognac, warm cinnamon, and praline. A highly addictive and seductive cold-weather gourmand.",
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.62615.jpg"
+  },
+  {
+    "id": "p_niche_104",
+    "name": "Naxos",
+    "brand": "Xerjoff",
+    "gender": "unisex",
+    "price_range": "Niche/Luxury",
+    "price_category": "niche",
+    "vibe": [
+      "Sweet & Gourmand",
+      "Fresh & Clean"
+    ],
+    "occasion": [
+      "Signature/Daily Wear",
+      "Office/Professional"
+    ],
+    "power": [
+      "Longevity",
+      "Projection/Sillage"
+    ],
+    "context": [
+      "Cold Weather",
+      "Day",
+      "Night"
+    ],
+    "psychology": [
+      "Compliment Factor",
+      "Brand & Presentation"
+    ],
+    "notes": [
+      "Lavender",
+      "Honey",
+      "Tobacco"
+    ],
+    "wearing_time": "14 hours",
+    "performance": "Beast Mode",
+    "longevity": "Eternal",
+    "description": "A sophisticated journey through Sicilian citrus into a heart of rich honey and smooth tobacco. Niche perfection.",
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.30529.jpg"
+  },
+  {
+    "id": "p_niche_105",
+    "name": "Oud for Greatness",
+    "brand": "Initio Parfums Prives",
+    "gender": "unisex",
+    "price_range": "Niche/Luxury",
+    "price_category": "niche",
+    "vibe": [
+      "Woody & Earthy",
+      "Spicy & Bold"
+    ],
+    "occasion": [
+      "Date Night/Romantic",
+      "Signature/Daily Wear"
+    ],
+    "power": [
+      "Longevity",
+      "Projection/Sillage"
+    ],
+    "context": [
+      "Cold Weather",
+      "Night"
+    ],
+    "psychology": [
+      "Seduction & Mystery",
+      "Brand & Presentation"
+    ],
+    "notes": [
+      "Oud",
+      "Saffron",
+      "Nutmeg"
+    ],
+    "wearing_time": "12+ hours",
+    "performance": "Beast Mode",
+    "longevity": "Eternal",
+    "description": "A powerful, commanding blend of dark oud, saffron, and mysterious spices. Projects ultimate confidence and strength.",
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.53641.jpg"
+  },
+  {
+    "id": "p_niche_106",
+    "name": "Grand Soir",
+    "brand": "Maison Francis Kurkdjian",
+    "gender": "unisex",
+    "price_range": "Niche/Luxury",
+    "price_category": "niche",
+    "vibe": [
+      "Sweet & Gourmand",
+      "Woody & Earthy"
+    ],
+    "occasion": [
+      "Date Night/Romantic"
+    ],
+    "power": [
+      "Longevity",
+      "Projection/Sillage"
+    ],
+    "context": [
+      "Cold Weather",
+      "Night"
+    ],
+    "psychology": [
+      "Seduction & Mystery",
+      "Brand & Presentation"
+    ],
+    "notes": [
+      "Amber",
+      "Vanilla",
+      "Tonka Bean"
+    ],
+    "wearing_time": "12+ hours",
+    "performance": "Strong",
+    "longevity": "Eternal",
+    "description": "The ultimate golden amber fragrance. Warm, enveloping, and unbelievably rich, perfect for an unforgettable evening.",
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.40816.jpg"
+  },
+  {
+    "id": "p_niche_107",
+    "name": "Erba Pura",
+    "brand": "Xerjoff",
+    "gender": "unisex",
+    "price_range": "Niche/Luxury",
+    "price_category": "niche",
+    "vibe": [
+      "Fresh & Clean",
+      "Sweet & Gourmand"
+    ],
+    "occasion": [
+      "Signature/Daily Wear"
+    ],
+    "power": [
+      "Longevity",
+      "Projection/Sillage"
+    ],
+    "context": [
+      "Hot Weather",
+      "Day"
+    ],
+    "psychology": [
+      "Compliment Factor",
+      "Brand & Presentation"
+    ],
+    "notes": [
+      "Musk",
+      "Sicilian Orange",
+      "Vanilla"
+    ],
+    "wearing_time": "14 hours",
+    "performance": "Beast Mode",
+    "longevity": "Eternal",
+    "description": "A massive, room-filling explosion of tropical fruits backed by sweet musk and vanilla. An absolute powerhouse.",
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.55629.jpg"
   }
 ];
 
