@@ -17,12 +17,12 @@ const PerfumeCard = ({ perfume }) => {
       <div className="decoration corner-br"></div>
       <div className="perfume-img-container">
         <img
-          src={perfume.aesthetic_image || `https://via.placeholder.com/400x500/111/9d4edd?text=${encodeURIComponent(perfume.name)}`}
+          src={perfume.aesthetic_image || 'https://images.unsplash.com/photo-1594035910387-fea47794261f?q=80&w=400&h=500&fit=crop'}
           alt={perfume.name}
           className="perfume-img"
           onError={(e) => {
             e.target.onerror = null;
-            e.target.src = `https://via.placeholder.com/400x500/111/9d4edd?text=${encodeURIComponent(perfume.name)}`;
+            e.target.src = 'https://images.unsplash.com/photo-1594035910387-fea47794261f?q=80&w=400&h=500&fit=crop';
           }}
         />
       </div>
