@@ -17,6 +17,13 @@ function App() {
   return (
     <Router>
       <div className="app-container">
+        {/* Foolproof Physical Live Wallpaper */}
+        <div className="live-wallpaper">
+          <div className="mesh-blob blob-1"></div>
+          <div className="mesh-blob blob-2"></div>
+          <div className="mesh-blob blob-3"></div>
+        </div>
+        
         <Navigation theme={theme} />
         <main className="main-content">
           <Routes>

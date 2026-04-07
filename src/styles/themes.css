@@ -16,7 +16,7 @@
   /* HIGH-CONTRAST MESH COLORS */
   --mesh-1: #1a1a3a;
   --mesh-2: #2d0b5e;
-  --mesh-3: #040406;
+  --mesh-3: #3c096c;
   
   --font-serif: 'Cinzel', serif;
   --font-sans: 'Montserrat', sans-serif;
@@ -36,7 +36,7 @@
   
   --mesh-1: #003566;
   --mesh-2: #001d3d;
-  --mesh-3: #020305;
+  --mesh-3: #005f73;
 }
 
 /* Female Theme (Bloom Flow - Vivid) */
@@ -52,5 +52,5 @@
   
   --mesh-1: #590d22;
   --mesh-2: #800f2f;
-  --mesh-3: #080103;
+  --mesh-3: #9b2242;
 }

@@ -1,4 +1,4 @@
-/* --- THE BREATHING GRIMOIRE (Vivid Edition) --- */
+/* --- THE BREATHING GRIMOIRE (Guaranteed Animation Edition) --- */
 
 .app-container {
   min-height: 100vh;
@@ -7,14 +7,61 @@
   position: relative;
   overflow-x: hidden;
   transition: all var(--transition-speed);
-  /* Force distinct background properties to avoid shorthand resets */
   background-color: var(--bg-primary) !important;
-  background-image: 
-    radial-gradient(circle at 10% 20%, var(--mesh-1) 0%, transparent 45%),
-    radial-gradient(circle at 90% 80%, var(--mesh-2) 0%, transparent 50%),
-    radial-gradient(circle at 50% 50%, var(--mesh-3) 0%, transparent 100%) !important;
-  background-size: 200% 200% !important;
-  animation: meshFlow 15s ease-in-out infinite alternate !important;
+}
+
+/* Explicit Moving Mesh Gradient */
+.live-wallpaper {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.mesh-blob {
+  position: absolute;
+  filter: blur(90px);
+  border-radius: 50%;
+  animation: blobFlow 20s infinite alternate cubic-bezier(0.4, 0, 0.2, 1);
+  opacity: 0.85;
+}
+
+.blob-1 {
+  width: 65vw;
+  height: 65vw;
+  background: var(--mesh-1);
+  top: -20%;
+  left: -20%;
+  animation-duration: 25s;
+}
+
+.blob-2 {
+  width: 70vw;
+  height: 50vw;
+  background: var(--mesh-2);
+  bottom: -10%;
+  right: -20%;
+  animation-duration: 22s;
+  animation-delay: -5s;
+  animation-direction: alternate-reverse;
+}
+
+.blob-3 {
+  width: 50vw;
+  height: 70vw;
+  background: var(--mesh-3);
+  top: 10%;
+  left: 30%;
+  animation-duration: 28s;
+  animation-delay: -10s;
+}
+
+@keyframes blobFlow {
+  0% { transform: translate(0, 0) scale(1) rotate(0deg); }
+  33% { transform: translate(15vw, 15vh) scale(1.1) rotate(15deg); }
+  66% { transform: translate(-10vw, 20vh) scale(0.9) rotate(-15deg); }
+  100% { transform: translate(5vw, -10vh) scale(1.2) rotate(5deg); }
 }
 
 /* Atmospheric Particle System (High Visibility) */
