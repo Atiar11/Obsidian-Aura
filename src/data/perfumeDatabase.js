@@ -45290,114 +45290,6 @@ export const PERFUME_DATABASE = [
     "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.67204.jpg"
   },
   {
-    "id": "p_budget_rasasi_1",
-    "name": "Hawas for Him",
-    "brand": "Rasasi",
-    "gender": "male",
-    "price_range": "Budget/Dupe",
-    "price_category": "budget",
-    "vibe": [
-      "Fresh & Clean",
-      "Sweet & Gourmand"
-    ],
-    "occasion": [
-      "Signature/Daily Wear",
-      "Gym/Sport"
-    ],
-    "power": [
-      "Projection/Sillage",
-      "Longevity"
-    ],
-    "context": [
-      "Hot Weather",
-      "Day"
-    ],
-    "psychology": [
-      "Compliment Factor"
-    ],
-    "notes": [
-      "Plum",
-      "Cardamom",
-      "Aquatic Notes"
-    ],
-    "wearing_time": "12 hours",
-    "performance": "Beast Mode",
-    "longevity": "Eternal",
-    "description": "The ultimate sweet-aquatic compliment magnet. Famous for its extreme performance and modern bubblegum-plum sweetness.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.43360.jpg"
-  },
-  {
-    "id": "p_budget_rasasi_2",
-    "name": "Hawas for Her",
-    "brand": "Rasasi",
-    "gender": "female",
-    "price_range": "Budget/Dupe",
-    "price_category": "budget",
-    "vibe": [
-      "Floral",
-      "Fresh & Clean"
-    ],
-    "occasion": [
-      "Signature/Daily Wear",
-      "Date Night/Romantic"
-    ],
-    "power": [
-      "Longevity"
-    ],
-    "context": [
-      "Hot Weather",
-      "Day"
-    ],
-    "psychology": [
-      "Aesthetic & Mood"
-    ],
-    "notes": [
-      "Apple",
-      "Iris",
-      "Praline"
-    ],
-    "wearing_time": "8 hours",
-    "performance": "Moderate",
-    "longevity": "Long Lasting",
-    "description": "A beautiful, fresh, and slightly sweet floral fragrance that perfectly balances elegance with casual wear.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.43355.jpg"
-  },
-  {
-    "id": "p_budget_rasasi_3",
-    "name": "Hawas Ice",
-    "brand": "Rasasi",
-    "gender": "male",
-    "price_range": "Budget/Dupe",
-    "price_category": "budget",
-    "vibe": [
-      "Fresh & Clean"
-    ],
-    "occasion": [
-      "Gym/Sport",
-      "Signature/Daily Wear"
-    ],
-    "power": [
-      "Projection/Sillage"
-    ],
-    "context": [
-      "Hot Weather",
-      "Day"
-    ],
-    "psychology": [
-      "Compliment Factor"
-    ],
-    "notes": [
-      "Frozen Apple",
-      "Mint",
-      "Musk"
-    ],
-    "wearing_time": "10 hours",
-    "performance": "Beast Mode",
-    "longevity": "Long Lasting",
-    "description": "An upgraded, modernized, and frozen minty take on the legendary original Hawas DNA.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.86536.jpg"
-  },
-  {
     "id": "p_budget_rasasi_4",
     "name": "La Yuqawam Pour Homme",
     "brand": "Rasasi",
@@ -65796,6 +65688,367 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Long Lasting",
     "description": "An exceptional creation by Rasasi. A true gem perfectly crafted for those who demand excellence."
+  },
+  {
+    "id": "p_hawas_1",
+    "name": "Hawas for Him",
+    "brand": "Rasasi",
+    "gender": "male",
+    "price_range": "Budget/Dupe",
+    "price_category": "budget",
+    "vibe": [
+      "Fresh & Clean",
+      "Sweet & Gourmand"
+    ],
+    "occasion": [
+      "Signature/Daily Wear",
+      "Gym/Sport"
+    ],
+    "power": [
+      "Projection/Sillage",
+      "Longevity"
+    ],
+    "context": [
+      "Hot Weather",
+      "Day"
+    ],
+    "psychology": [
+      "Compliment Factor"
+    ],
+    "notes": [
+      "Plum",
+      "Cardamom",
+      "Aquatic Notes"
+    ],
+    "wearing_time": "12 hours",
+    "performance": "Beast Mode",
+    "longevity": "Eternal",
+    "description": "The ultimate sweet-aquatic compliment magnet. Famous for its extreme performance and modern bubblegum-plum sweetness.",
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.43360.jpg"
+  },
+  {
+    "id": "p_hawas_2",
+    "name": "Hawas for Her",
+    "brand": "Rasasi",
+    "gender": "female",
+    "price_range": "Budget/Dupe",
+    "price_category": "budget",
+    "vibe": [
+      "Floral",
+      "Fresh & Clean"
+    ],
+    "occasion": [
+      "Signature/Daily Wear",
+      "Date Night/Romantic"
+    ],
+    "power": [
+      "Longevity"
+    ],
+    "context": [
+      "Hot Weather",
+      "Day"
+    ],
+    "psychology": [
+      "Aesthetic & Mood"
+    ],
+    "notes": [
+      "Apple",
+      "Iris",
+      "Praline"
+    ],
+    "wearing_time": "8 hours",
+    "performance": "Moderate",
+    "longevity": "Long Lasting",
+    "description": "A beautiful, fresh, and slightly sweet floral fragrance that perfectly balances elegance with casual wear.",
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.43355.jpg"
+  },
+  {
+    "id": "p_hawas_3",
+    "name": "Hawas Ice",
+    "brand": "Rasasi",
+    "gender": "male",
+    "price_range": "Budget/Dupe",
+    "price_category": "budget",
+    "vibe": [
+      "Fresh & Clean"
+    ],
+    "occasion": [
+      "Gym/Sport",
+      "Signature/Daily Wear"
+    ],
+    "power": [
+      "Projection/Sillage"
+    ],
+    "context": [
+      "Hot Weather",
+      "Day"
+    ],
+    "psychology": [
+      "Compliment Factor"
+    ],
+    "notes": [
+      "Frozen Apple",
+      "Mint",
+      "Musk"
+    ],
+    "wearing_time": "10 hours",
+    "performance": "Beast Mode",
+    "longevity": "Long Lasting",
+    "description": "An upgraded, modernized, and frozen minty take on the legendary original Hawas DNA. Absolutely icy.",
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.86536.jpg"
+  },
+  {
+    "id": "p_pride_1",
+    "name": "Pride Nebras",
+    "brand": "Lattafa Pride",
+    "gender": "unisex",
+    "price_range": "Budget/Dupe",
+    "price_category": "budget",
+    "vibe": [
+      "Sweet & Gourmand"
+    ],
+    "occasion": [
+      "Date Night/Romantic",
+      "Signature/Daily Wear"
+    ],
+    "power": [
+      "Longevity"
+    ],
+    "context": [
+      "Cold Weather",
+      "Night"
+    ],
+    "psychology": [
+      "Compliment Factor",
+      "Seduction & Mystery"
+    ],
+    "notes": [
+      "Berries",
+      "Vanilla",
+      "Cacao"
+    ],
+    "wearing_time": "10 hours",
+    "performance": "Strong",
+    "longevity": "Long Lasting",
+    "description": "A deliciously cozy and addictive chocolate, vanilla, and berry gourmand bomb from the luxury Pride line.",
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.80373.jpg"
+  },
+  {
+    "id": "p_pride_2",
+    "name": "Pride Ishq Al Shuyukh Gold",
+    "brand": "Lattafa Pride",
+    "gender": "unisex",
+    "price_range": "Budget/Dupe",
+    "price_category": "budget",
+    "vibe": [
+      "Sweet & Gourmand",
+      "Woody & Earthy"
+    ],
+    "occasion": [
+      "Date Night/Romantic",
+      "Signature/Daily Wear"
+    ],
+    "power": [
+      "Projection/Sillage"
+    ],
+    "context": [
+      "Cold Weather",
+      "Night"
+    ],
+    "psychology": [
+      "Seduction & Mystery"
+    ],
+    "notes": [
+      "Caramel",
+      "Saffron",
+      "Leather"
+    ],
+    "wearing_time": "12 hours",
+    "performance": "Beast Mode",
+    "longevity": "Eternal",
+    "description": "An opulent, incredibly rich luxury gourmand blending sweet caramel and saffron with smooth suede.",
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.75806.jpg"
+  },
+  {
+    "id": "p_pride_3",
+    "name": "Pride Ishq Al Shuyukh Silver",
+    "brand": "Lattafa Pride",
+    "gender": "male",
+    "price_range": "Budget/Dupe",
+    "price_category": "budget",
+    "vibe": [
+      "Fresh & Clean",
+      "Woody & Earthy"
+    ],
+    "occasion": [
+      "Signature/Daily Wear",
+      "Office/Professional"
+    ],
+    "power": [
+      "Versatility"
+    ],
+    "context": [
+      "All Weather",
+      "Day"
+    ],
+    "psychology": [
+      "Brand & Presentation"
+    ],
+    "notes": [
+      "Pineapple",
+      "Cedarwood",
+      "Patchouli"
+    ],
+    "wearing_time": "8 hours",
+    "performance": "Strong",
+    "longevity": "Long Lasting",
+    "description": "A fantastic, fruity-woody hybrid (often compared to 1 Million Lucky) blending crisp pineapple with luxurious woods.",
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.75804.jpg"
+  },
+  {
+    "id": "p_pride_4",
+    "name": "Pride Hala",
+    "brand": "Lattafa Pride",
+    "gender": "unisex",
+    "price_range": "Budget/Dupe",
+    "price_category": "budget",
+    "vibe": [
+      "Spicy & Bold",
+      "Woody & Earthy"
+    ],
+    "occasion": [
+      "Signature/Daily Wear",
+      "Date Night/Romantic"
+    ],
+    "power": [
+      "Longevity"
+    ],
+    "context": [
+      "Cold Weather",
+      "Night"
+    ],
+    "psychology": [
+      "Seduction & Mystery"
+    ],
+    "notes": [
+      "Nutmeg",
+      "Pepper",
+      "Cedar"
+    ],
+    "wearing_time": "10 hours",
+    "performance": "Strong",
+    "longevity": "Long Lasting",
+    "description": "A powerful, peppery, and rich woody scent. An undiscovered gem in the premium Pride Collection.",
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.86431.jpg"
+  },
+  {
+    "id": "p_pride_5",
+    "name": "Pride Shaheen Gold",
+    "brand": "Lattafa Pride",
+    "gender": "unisex",
+    "price_range": "Budget/Dupe",
+    "price_category": "budget",
+    "vibe": [
+      "Sweet & Gourmand",
+      "Floral"
+    ],
+    "occasion": [
+      "Date Night/Romantic",
+      "Signature/Daily Wear"
+    ],
+    "power": [
+      "Longevity",
+      "Projection/Sillage"
+    ],
+    "context": [
+      "Cold Weather",
+      "Day"
+    ],
+    "psychology": [
+      "Compliment Factor"
+    ],
+    "notes": [
+      "Pineapple",
+      "Vanilla",
+      "Fig"
+    ],
+    "wearing_time": "12 hours",
+    "performance": "Beast Mode",
+    "longevity": "Eternal",
+    "description": "An unbelievably potent, syrupy, fruity vanilla bomb that projects across the room.",
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.86435.jpg"
+  },
+  {
+    "id": "p_pride_6",
+    "name": "Pride Al Qiam Silver",
+    "brand": "Lattafa Pride",
+    "gender": "male",
+    "price_range": "Budget/Dupe",
+    "price_category": "budget",
+    "vibe": [
+      "Fresh & Clean",
+      "Woody & Earthy"
+    ],
+    "occasion": [
+      "Signature/Daily Wear",
+      "Office/Professional"
+    ],
+    "power": [
+      "Versatility"
+    ],
+    "context": [
+      "All Weather",
+      "Day"
+    ],
+    "psychology": [
+      "Compliment Factor"
+    ],
+    "notes": [
+      "Grapefruit",
+      "Ginger",
+      "Ambroxan"
+    ],
+    "wearing_time": "8 hours",
+    "performance": "Moderate",
+    "longevity": "Long Lasting",
+    "description": "A brilliant, sharp, and modern fresh signature scent pulling inspiration from Tygar.",
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.75807.jpg"
+  },
+  {
+    "id": "p_pride_7",
+    "name": "Pride Masa",
+    "brand": "Lattafa Pride",
+    "gender": "unisex",
+    "price_range": "Budget/Dupe",
+    "price_category": "budget",
+    "vibe": [
+      "Woody & Earthy",
+      "Spicy & Bold"
+    ],
+    "occasion": [
+      "Date Night/Romantic",
+      "Signature/Daily Wear"
+    ],
+    "power": [
+      "Projection/Sillage"
+    ],
+    "context": [
+      "Cold Weather",
+      "Night"
+    ],
+    "psychology": [
+      "Seduction & Mystery"
+    ],
+    "notes": [
+      "Mango",
+      "Saffron",
+      "Suede"
+    ],
+    "wearing_time": "10 hours",
+    "performance": "Strong",
+    "longevity": "Long Lasting",
+    "description": "A deeply unusual and luxurious blend of rich green mango, leather, and exotic saffron.",
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.88049.jpg"
   }
 ];
 
