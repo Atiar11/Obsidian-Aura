@@ -35,7 +35,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Dior craftsmanship. A world-class fresh & clean, spicy & bold masterpiece.",
-    "aesthetic_image": "https://trendparfum.de/media/image/product/135693/lg/dior-sauvage-set-60-ml-edp-50-ml-sg-20-ml-cream.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.31861.jpg"
   },
   {
     "id": "p_radiant_1",
@@ -74,7 +74,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Chanel craftsmanship. A world-class fresh & clean, woody & earthy masterpiece.",
-    "aesthetic_image": "https://puls-img.chanel.com/1715679179877-onepdpeditopushdesktopmobile021080x1439pxjpg_1439x1080.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.49912.jpg"
   },
   {
     "id": "p_radiant_2",
@@ -112,7 +112,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Creed craftsmanship. A world-class fresh & clean, woody & earthy masterpiece.",
-    "aesthetic_image": "https://i.pinimg.com/736x/31/56/6d/31566d9acec2fa4f0b7a406587c56712.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.9828.jpg"
   },
   {
     "id": "p_radiant_3",
@@ -149,7 +149,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Giorgio Armani craftsmanship. A world-class fresh & clean masterpiece.",
-    "aesthetic_image": "https://piimages.parfumo.de/2/8/56294_05e8341af01520f77b58b5c2ca9c7b5f_acqua_di_gio_profumo.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.419.jpg"
   },
   {
     "id": "p_radiant_4",
@@ -187,7 +187,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Yves Saint Laurent craftsmanship. A world-class fresh & clean, sweet & gourmand masterpiece.",
-    "aesthetic_image": "https://fimgs.net/images/secundar/o.55670.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.50743.jpg"
   },
   {
     "id": "p_radiant_5",
@@ -225,7 +225,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Jean Paul Gaultier craftsmanship. A world-class sweet & gourmand, spicy & bold masterpiece.",
-    "aesthetic_image": "https://www.perfumeelegance.ca/wp-content/uploads/2023/12/Jean-Paul-Gaultier-Le-Male-Elixir-Perfume.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.430.jpg"
   },
   {
     "id": "p_radiant_6",
@@ -263,7 +263,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Versace craftsmanship. A world-class sweet & gourmand, fresh & clean masterpiece.",
-    "aesthetic_image": "https://i.pinimg.com/originals/ed/c4/01/edc40115541e5b7309717237f051686c.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.62761.jpg"
   },
   {
     "id": "p_radiant_7",
@@ -301,7 +301,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Azzaro craftsmanship. A world-class sweet & gourmand, spicy & bold masterpiece.",
-    "aesthetic_image": "https://theperfumestore.lk/wp-content/uploads/2024/01/Azzaro-most-wanted-eau-de-parfum-intense-edp-intense-for-man-branded-Original-fragrance-Perfume-in-Sri-Lanka-Best-authentic-fragrance-store-in-sri-lanka.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_radiant_8",
@@ -339,7 +339,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Paco Rabanne craftsmanship. A world-class sweet & gourmand, woody & earthy masterpiece.",
-    "aesthetic_image": "https://ifragranceofficial.com/wp-content/uploads/2023/04/1-million-royal.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.3747.jpg"
   },
   {
     "id": "p_radiant_9",
@@ -377,7 +377,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Viktor&Rolf craftsmanship. A world-class spicy & bold, sweet & gourmand masterpiece.",
-    "aesthetic_image": "https://cosmeticfact.com.au/wp-content/uploads/2023/08/Viktor-Rolf-SpViktor-Rolf-Spicebomb-Extremeicebomb-Extreme-1.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.30499.jpg"
   },
   {
     "id": "p_radiant_10",
@@ -415,7 +415,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Dior craftsmanship. A world-class floral, woody & earthy masterpiece.",
-    "aesthetic_image": "https://www.world-perfume.com/wp-content/uploads/2025/09/man-94.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_radiant_11",
@@ -453,7 +453,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Givenchy craftsmanship. A world-class woody & earthy, sweet & gourmand masterpiece.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/81153m.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_radiant_12",
@@ -492,7 +492,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Parfums de Marly craftsmanship. A world-class sweet & gourmand, spicy & bold masterpiece.",
-    "aesthetic_image": "https://www.fragrancereview.com/php_assets/uploads/2022/09/Perfume-Dupes-Similar-To-Parfum-de-Marly-Layton-1536x1024.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.39314.jpg"
   },
   {
     "id": "p_radiant_13",
@@ -530,7 +530,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Nishane craftsmanship. A world-class fresh & clean, woody & earthy masterpiece.",
-    "aesthetic_image": "https://www.fragranceshop.com/wp-content/uploads/2025/07/fs192706.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_radiant_14",
@@ -568,7 +568,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Creed craftsmanship. A world-class fresh & clean, woody & earthy masterpiece.",
-    "aesthetic_image": "https://fragrancebd.com/wp-content/uploads/2019/08/Creed-Silver-Mountain-Water-EDP-100mL-e1566142261515.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.472.jpg"
   },
   {
     "id": "p_radiant_15",
@@ -605,7 +605,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Bvlgari craftsmanship. A world-class fresh & clean masterpiece.",
-    "aesthetic_image": "https://perfumegallery.lk/wp-content/uploads/Bvlgari-Man-Glacial-Essence-Bvlgari-for-men.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_radiant_16",
@@ -642,7 +642,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Davidoff craftsmanship. A world-class fresh & clean masterpiece.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/cww34t.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_radiant_17",
@@ -680,7 +680,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Rasasi craftsmanship. A world-class fresh & clean, sweet & gourmand masterpiece.",
-    "aesthetic_image": "https://ifragranceofficial.com/wp-content/uploads/2025/06/hawas-tropical.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_radiant_18",
@@ -718,7 +718,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Montblanc craftsmanship. A world-class fresh & clean, woody & earthy masterpiece.",
-    "aesthetic_image": "https://perfumediary.com/media/reviews/photos/original/c2/4c/5e/montblanc-explorer-perfume-3-1548149477.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_radiant_19",
@@ -756,7 +756,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Armaf craftsmanship. A world-class fresh & clean, woody & earthy masterpiece.",
-    "aesthetic_image": "https://theperfumestore.lk/wp-content/uploads/2023/06/Armaf-club-de-nuit-intense-man-limited-edition-eau-de-parfum-for-men-branded-Original-fragrance-Perfume-in-Sri-Lanka-best-authentic-fragrance-store-in-sri-lanka-1536x1536.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.34696.jpg"
   },
   {
     "id": "p_radiant_20",
@@ -793,7 +793,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Calvin Klein craftsmanship. A world-class fresh & clean masterpiece.",
-    "aesthetic_image": "https://ifragranceofficial.com/wp-content/uploads/2023/02/CK-One-Reflections-Calvin-Klein.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_radiant_21",
@@ -831,7 +831,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Chanel craftsmanship. A world-class floral, fresh & clean masterpiece.",
-    "aesthetic_image": "https://meowsold.com/image/cache/catalog/Agnes/monika/5.13.23/screenshot2023-11-08223838-1024x1024.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_radiant_22",
@@ -869,7 +869,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Chanel craftsmanship. A world-class floral, fresh & clean masterpiece.",
-    "aesthetic_image": "https://puls-img.chanel.com/1709132819387-ccm24editobanner974x1298rangejpg_2596x1948.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_radiant_23",
@@ -906,7 +906,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Dior craftsmanship. A world-class floral masterpiece.",
-    "aesthetic_image": "https://i.pinimg.com/originals/db/23/c7/db23c7da2f6d4f091ef07d7ddafc8f50.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_radiant_24",
@@ -944,7 +944,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Yves Saint Laurent craftsmanship. A world-class floral, sweet & gourmand masterpiece.",
-    "aesthetic_image": "https://splashfragrance.in/wp-content/uploads/2022/11/libre-intense-min.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.56077.jpg"
   },
   {
     "id": "p_radiant_25",
@@ -982,7 +982,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Yves Saint Laurent craftsmanship. A world-class sweet & gourmand, spicy & bold masterpiece.",
-    "aesthetic_image": "https://cosmeticfact.com.au/wp-content/uploads/2023/09/Yves-Saint-Lauren-Black-Opium.webp"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.25324.jpg"
   },
   {
     "id": "p_radiant_26",
@@ -1020,7 +1020,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Lancome craftsmanship. A world-class floral, sweet & gourmand masterpiece.",
-    "aesthetic_image": "https://i.pinimg.com/originals/7b/d4/f8/7bd4f820479cfa4e256567d9150a2a51.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_radiant_27",
@@ -1058,7 +1058,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Carolina Herrera craftsmanship. A world-class sweet & gourmand, floral masterpiece.",
-    "aesthetic_image": "https://i.pinimg.com/originals/5d/6e/b2/5d6eb2e591db73f5c63aac0dd7d3f905.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.39681.jpg"
   },
   {
     "id": "p_radiant_28",
@@ -1096,7 +1096,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Viktor&Rolf craftsmanship. A world-class floral, sweet & gourmand masterpiece.",
-    "aesthetic_image": "https://i.pinimg.com/originals/0c/0e/c5/0c0ec5fa75049c80b277dc95806e6a0a.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_radiant_29",
@@ -1134,7 +1134,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Parfums de Marly craftsmanship. A world-class floral, sweet & gourmand masterpiece.",
-    "aesthetic_image": "https://i.pinimg.com/originals/ef/e7/ae/efe7aebff488509f06221f774eb3d853.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.43871.jpg"
   },
   {
     "id": "p_radiant_30",
@@ -1172,7 +1172,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Dior craftsmanship. A world-class floral, fresh & clean masterpiece.",
-    "aesthetic_image": "https://i.pinimg.com/originals/36/cb/4a/36cb4ae34e522e195480218a03e7012c.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_radiant_31",
@@ -1211,7 +1211,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Maison Francis Kurkdjian craftsmanship. A world-class sweet & gourmand, woody & earthy masterpiece.",
-    "aesthetic_image": "https://www.byrdie.com/thmb/vW47KDWbWufAMi-zQu2sMrBQbfo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Baccarat-09c5238c53d24692a3497d56701a5086.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.33519.jpg"
   },
   {
     "id": "p_radiant_32",
@@ -1248,7 +1248,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Ariana Grande craftsmanship. A world-class sweet & gourmand masterpiece.",
-    "aesthetic_image": "https://www.bigw.com.au/medias/sys_master/images/images/h67/h43/61747695845406.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_radiant_33",
@@ -1286,7 +1286,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Burberry craftsmanship. A world-class sweet & gourmand, floral masterpiece.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/burbun.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_radiant_34",
@@ -1324,7 +1324,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Prada craftsmanship. A world-class floral, sweet & gourmand masterpiece.",
-    "aesthetic_image": "http://www.theperfumegirl.com/perfumes/fragrances/prada/prada-paradoxe/images/prada-paradoxe-x.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_radiant_35",
@@ -1362,7 +1362,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Marc Jacobs craftsmanship. A world-class fresh & clean, floral masterpiece.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/70261w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_radiant_36",
@@ -1399,7 +1399,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Dolce & Gabbana craftsmanship. A world-class fresh & clean masterpiece.",
-    "aesthetic_image": "https://i.pinimg.com/736x/96/1e/7b/961e7bb65fc84194f6cd65ea9f2857eb.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_radiant_37",
@@ -1437,7 +1437,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Gucci craftsmanship. A world-class floral, sweet & gourmand masterpiece.",
-    "aesthetic_image": "https://i.pinimg.com/736x/7a/24/3c/7a243c8dfaf0b3c8a2e7eea50574c376.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_radiant_38",
@@ -1475,7 +1475,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Chloe craftsmanship. A world-class floral, fresh & clean masterpiece.",
-    "aesthetic_image": "https://cosmeticfact.com.au/wp-content/uploads/2023/08/chloe-rose-naturelle-intense.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_radiant_39",
@@ -1512,7 +1512,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Maison Margiela craftsmanship. A world-class fresh & clean masterpiece.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/RepMK8.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_radiant_40",
@@ -1550,7 +1550,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Glossier craftsmanship. A world-class spicy & bold, fresh & clean masterpiece.",
-    "aesthetic_image": "https://i.pinimg.com/originals/d0/5e/f4/d05ef41bf1511cc02fe8528bd725189b.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_radiant_41",
@@ -1587,7 +1587,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Sol de Janeiro craftsmanship. A world-class sweet & gourmand masterpiece.",
-    "aesthetic_image": "https://cdn1.feelunique.com/img/products/185145/sol_de_janeiro_cheirosa_62_perfume_mist_90ml_cheirosa_68_perfume_mist_90ml_cheirosa_40_hair_body_fra_1731007819.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_42",
@@ -1624,7 +1624,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "The definitive expression of Dolce & Gabbana craftsmanship. A world-class fresh & clean masterpiece.",
-    "aesthetic_image": "http://perfumehousebd.com/wp-content/uploads/2023/07/DOLCE-GABBANA-LIGHT-BLUE-FOREVER-POUR-HOMME-EDP-100ML-1.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_43",
@@ -1661,7 +1661,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "The definitive expression of Nautica craftsmanship. A world-class fresh & clean masterpiece.",
-    "aesthetic_image": "https://i.pinimg.com/originals/e4/88/a4/e488a427cf99f922918f39dda0ba58b3.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_44",
@@ -1698,7 +1698,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "The definitive expression of Lattafa craftsmanship. A world-class spicy & bold masterpiece.",
-    "aesthetic_image": "https://biamse.com/wp-content/uploads/2023/09/IMG_05092023_065128_2000_x_2000_pixel.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_45",
@@ -1736,7 +1736,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "The definitive expression of Prada craftsmanship. A world-class floral, sweet & gourmand masterpiece.",
-    "aesthetic_image": "https://img.ltwebstatic.com/images3_spmp/2024/08/13/e2/17235627434fe116b05eed355dd9b4b94d96963517.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_46",
@@ -1773,7 +1773,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "The definitive expression of Le Labo craftsmanship. A world-class woody & earthy masterpiece.",
-    "aesthetic_image": "https://i.pinimg.com/originals/b6/33/c2/b633c254fbf7c145ff57cde3edaf1c90.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_47",
@@ -1810,7 +1810,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "The definitive expression of Philosophy craftsmanship. A world-class fresh & clean masterpiece.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/pgraph2ozw.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_48",
@@ -1848,7 +1848,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "The definitive expression of Mugler craftsmanship. A world-class floral, woody & earthy masterpiece.",
-    "aesthetic_image": "https://www.fragrancesamplesuk.com/media/catalog/product/cache/0ac0516e26f0560d9a76e8e2dd4b6632/a/l/aliengoddess.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.707.jpg"
   },
   {
     "id": "p_unique_49",
@@ -1886,7 +1886,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "The definitive expression of Le Labo craftsmanship. A world-class woody & earthy, spicy & bold masterpiece.",
-    "aesthetic_image": "https://cosmeticfact.com.au/wp-content/uploads/2023/09/ssantal-33-le-labo-1-1024x828.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_50",
@@ -1924,7 +1924,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "The definitive expression of Tom Ford craftsmanship. A world-class woody & earthy, spicy & bold masterpiece.",
-    "aesthetic_image": "https://i.pinimg.com/736x/f8/ca/e7/f8cae7db3126d8a0eef0eb5c2be3518d.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.1014.jpg"
   },
   {
     "id": "p_unique_51",
@@ -1962,7 +1962,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "The definitive expression of Tom Ford craftsmanship. A world-class sweet & gourmand, spicy & bold masterpiece.",
-    "aesthetic_image": "https://i.etsystatic.com/34432332/r/il/f6cef8/3701475366/il_fullxfull.3701475366_skkh.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.1825.jpg"
   },
   {
     "id": "p_unique_52",
@@ -2000,7 +2000,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "The definitive expression of Tom Ford craftsmanship. A world-class sweet & gourmand, floral masterpiece.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/76701w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_53",
@@ -2039,7 +2039,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Kilian craftsmanship. A world-class sweet & gourmand, spicy & bold masterpiece.",
-    "aesthetic_image": "https://i.pinimg.com/originals/f2/4d/0d/f24d0df4b5fdd2d656059e663abeb55e.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.62615.jpg"
   },
   {
     "id": "p_unique_54",
@@ -2078,7 +2078,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Kilian craftsmanship. A world-class sweet & gourmand, floral masterpiece.",
-    "aesthetic_image": "https://i.pinimg.com/736x/13/7d/37/137d377e6355b8fa714c5950da78bc97.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_55",
@@ -2117,7 +2117,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Xerjoff craftsmanship. A world-class sweet & gourmand, spicy & bold masterpiece.",
-    "aesthetic_image": "https://infinityfragrant.com/wp-content/uploads/2025/04/XerjoffNaxosEDP3.4oz_Box_900x.webp"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.30529.jpg"
   },
   {
     "id": "p_unique_56",
@@ -2157,7 +2157,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Xerjoff craftsmanship. A world-class sweet & gourmand, fresh & clean masterpiece.",
-    "aesthetic_image": "https://www.fragrancesamplesuk.com/media/catalog/product/cache/58bade480dd5558294577e111fa45fa4/e/r/erba.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.55629.jpg"
   },
   {
     "id": "p_unique_57",
@@ -2195,7 +2195,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "The definitive expression of Nishane craftsmanship. A world-class sweet & gourmand, spicy & bold masterpiece.",
-    "aesthetic_image": "https://i.pinimg.com/736x/a4/e9/6f/a4e96f099110b67a0edcaf114e68e024.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_58",
@@ -2234,7 +2234,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Initio craftsmanship. A world-class woody & earthy, spicy & bold masterpiece.",
-    "aesthetic_image": "https://thevelvetlife.com/wp-content/uploads/2023/10/InitioParfumsOudForGreatness-0083.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.53641.jpg"
   },
   {
     "id": "p_unique_59",
@@ -2273,7 +2273,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Initio craftsmanship. A world-class spicy & bold, sweet & gourmand masterpiece.",
-    "aesthetic_image": "https://testscent.com/wp-content/uploads/2024/02/sideeffect2.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_60",
@@ -2311,7 +2311,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "The definitive expression of Frederic Malle craftsmanship. A world-class floral, spicy & bold masterpiece.",
-    "aesthetic_image": "https://i.pinimg.com/736x/25/52/2f/25522fc99d1284d5074d55e6b5442573.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_61",
@@ -2349,7 +2349,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "The definitive expression of Frederic Malle craftsmanship. A world-class spicy & bold, sweet & gourmand masterpiece.",
-    "aesthetic_image": "https://www.fragrancesamplesuk.com/media/catalog/product/cache/0ac0516e26f0560d9a76e8e2dd4b6632/o/b/ob-306_848c5291-b354-4892-8cf2-0925b4d74e3a.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_62",
@@ -2388,7 +2388,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Amouage craftsmanship. A world-class floral, fresh & clean masterpiece.",
-    "aesthetic_image": "https://luxury-fragrance.eu/wp-content/uploads/2024/10/Duo_Side_Reflection_Man_000.png-1-1024x1024.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_63",
@@ -2427,7 +2427,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "The definitive expression of Amouage craftsmanship. A world-class spicy & bold, woody & earthy masterpiece.",
-    "aesthetic_image": "https://www.ifragrance.pk/wp-content/uploads/2024/09/Amouage-Interlude-Man-EDP-100ml.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_64",
@@ -2465,7 +2465,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "The definitive expression of Lattafa craftsmanship. A world-class sweet & gourmand, floral masterpiece.",
-    "aesthetic_image": "https://i.pinimg.com/736x/8d/26/83/8d26835486b61c916513fbadef63a5c1.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_65",
@@ -2503,7 +2503,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "The definitive expression of Lattafa craftsmanship. A world-class sweet & gourmand, spicy & bold masterpiece.",
-    "aesthetic_image": "https://elshaddai.net.za/wp-content/uploads/2025/01/Lattafa-Khamrah-768x768.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_66",
@@ -2541,7 +2541,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "The definitive expression of Afnan craftsmanship. A world-class sweet & gourmand, spicy & bold masterpiece.",
-    "aesthetic_image": "https://i.pinimg.com/originals/fa/d3/4e/fad34e0cda90d94596807cfa88b67ee8.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_67",
@@ -2576,7 +2576,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Rasasi. A compelling explorations of notes.",
-    "aesthetic_image": "https://fraguru.com/mdimg/perfume/375x500.79605.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_68",
@@ -2611,7 +2611,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.67629.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_69",
@@ -2646,7 +2646,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://spcdn.shortpixel.ai/spio/ret_img,q_cdnize,to_auto,s_webp:avif/www.perfumestars.com/wp-content/uploads/2025/10/roasted-vanilla-edp-is-an-addictive-fragrance-based-on-contrasted-notes-of-vanilla-and-oakwood.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_70",
@@ -2681,7 +2681,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://meperfume.vn/uploads/68224df3d999a_1747078643.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_71",
@@ -2716,7 +2716,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://thumbs.dreamstime.com/b/bottle-perfume-men-s-eau-de-parfum-beautiful-glass-fragrance-spray-265235719.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_72",
@@ -2751,7 +2751,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.perfumesloewe.com/on/demandware.static/-/Sites-loewe-storefront-catalog/default/dw711b3411/250507_woman_uppm_FLY.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_73",
@@ -2786,7 +2786,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Dolce & Gabbana. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/sku/large/lebat1w3.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_74",
@@ -2821,7 +2821,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Paco Rabanne. A compelling explorations of notes.",
-    "aesthetic_image": "https://inspiredfragrance.co.za/wp-content/uploads/2024/09/ladies-fruit-bottle-min.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_75",
@@ -2856,7 +2856,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Paco Rabanne. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.pinimg.com/originals/cd/2c/d4/cd2cd45cce47160de26d40cb72100b00.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_76",
@@ -2891,7 +2891,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Paco Rabanne. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/lmag27u.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_77",
@@ -2926,7 +2926,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Paco Rabanne. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/8/8/96419_a81fd830f5f80db62cd269601ea68a8f_1_million_collector_s_edition_2017.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_78",
@@ -2961,7 +2961,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Paco Rabanne. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/09/1-Million-Cologne-by-Paco-Rabanne.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_79",
@@ -2996,7 +2996,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Paco Rabanne. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.ilft.com/i/29755-th.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_80",
@@ -3031,7 +3031,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Paco Rabanne. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.fragrancesamplesuk.com/media/catalog/product/cache/58bade480dd5558294577e111fa45fa4/1/m/1millionoud.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_81",
@@ -3066,7 +3066,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Paco Rabanne. A compelling explorations of notes.",
-    "aesthetic_image": "https://cdn.luxatic.com/wp-content/uploads/2013/02/Paco-Rabanne-1-Million-Intense.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_82",
@@ -3101,7 +3101,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Paco Rabanne. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.world-perfume.com/wp-content/uploads/2025/09/man-123.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_83",
@@ -3136,7 +3136,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Paco Rabanne. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/11/1-million-monopoly-collector-edition-by-pr-1.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_84",
@@ -3171,7 +3171,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Paco Rabanne. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.eshtir.com/wp-content/uploads/2021/12/paco-rabanne-1-million-men-eau-de-toilette-100ml-in-uae.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_85",
@@ -3206,7 +3206,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Paco Rabanne. A compelling explorations of notes.",
-    "aesthetic_image": "https://feerie.tn/media/catalog/product/cache/6b90e4a3392696f1d8c74242916b701c/t/_/t_l_chargement_1_.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_86",
@@ -3241,7 +3241,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Paco Rabanne. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/secundar/o.69789.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_87",
@@ -3276,7 +3276,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Paco Rabanne. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.fragrancesamplesuk.com/media/catalog/product/cache/0ac0516e26f0560d9a76e8e2dd4b6632/o/b/ob-667_d50361e2-5139-4218-ad10-4f7e7b83454b.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_88",
@@ -3311,7 +3311,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Paco Rabanne. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/01/1-million-royal-parfum-by-pr.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_89",
@@ -3346,7 +3346,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Paco Rabanne. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/128014_img-5229-paco_rabanne-1_million_x_pac_man_collector_edition_2019_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_90",
@@ -3381,7 +3381,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Dolce & Gabbana. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/65906w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_91",
@@ -3416,7 +3416,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Kenzo. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/11/7-15-am-in-bali-by-kenzo-1.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_92",
@@ -3451,7 +3451,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Ex Nihilo. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/0/5/138546_2ca0e801956b07f6e9fc096371f8d4c6_10019-wonders.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_93",
@@ -3486,7 +3486,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Dolce & Gabbana. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/66639w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_94",
@@ -3521,7 +3521,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Dolce & Gabbana. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/qbydsc.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_95",
@@ -3556,7 +3556,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Marcel Guerlain / Hughes Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://rlalique.com/Sections/AuctionItems/lalique-auction-photo/ambre-perfume-bottle-for-isabey-marcel-guerlain-rene-lalique-7-8-14.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_96",
@@ -3591,7 +3591,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Jo Malone. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.pinimg.com/originals/e6/51/d5/e651d528356f93dd870c191310df015f.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_97",
@@ -3626,7 +3626,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Dolce & Gabbana. A compelling explorations of notes.",
-    "aesthetic_image": "https://image.femaledaily.com/dyn/210/images/prod-pics/1455119068-Dolce_Gabbana-La_Lune_18.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_98",
@@ -3661,7 +3661,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/08/180-Ans-de-Creations-1828-2008-by-Guerlain.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_99",
@@ -3696,7 +3696,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/photogram/p1200/dk/m8/qUVoql00OC3emxPs.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_100",
@@ -3731,7 +3731,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from XerJoff. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.pinimg.com/originals/e7/25/7f/e7257f13cbab2d136872a995e9b5ff16.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_101",
@@ -3766,7 +3766,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Gucci. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.pinimg.com/originals/b8/b2/5a/b8b25aae70fef71c3c06207c618d4bfb.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_102",
@@ -3801,7 +3801,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Chanel. A compelling explorations of notes.",
-    "aesthetic_image": "https://thumbs.dreamstime.com/b/eau-de-toilette-perfume-bottle-isolated-white-background-eau-de-toilette-perfume-bottle-isolated-white-background-close-up-324281535.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_103",
@@ -3836,7 +3836,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Chanel. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.chanel.com/puls-img/1738233021292-push1deskjpg_1476x2360.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_104",
@@ -3871,7 +3871,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Chanel. A compelling explorations of notes.",
-    "aesthetic_image": "https://perfumediary.com/wp-content/uploads/2018/11/chanel-chance-eau-tendre-eau-de-parfum-28-1541664209.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_105",
@@ -3906,7 +3906,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Chanel. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.chanel.com/puls-img/1744104826933-onelandingpageeditopushdesktopmobile01974x1298pxpackshot1jpg_1298x974.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_106",
@@ -3941,7 +3941,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from XerJoff. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/xerxbs.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_107",
@@ -3976,7 +3976,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Byredo. A compelling explorations of notes.",
-    "aesthetic_image": "https://cdn.notinoimg.com/detail_thumb/byredo/7340032810141_01-o/byredo-1996-inez-vinoodh-eau-de-parfum-unisex___16.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_108",
@@ -4011,7 +4011,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Byredo. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/171988_img-1533-byredo-1996-inez-vinoodh-hair-perfume_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_109",
@@ -4046,7 +4046,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
-    "aesthetic_image": "https://static.vecteezy.com/system/resources/previews/049/158/589/original/elegant-blue-perfume-bottle-showcasing-modern-design-perfect-for-fragrance-advertisements-and-beauty-promotions-png.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_110",
@@ -4081,7 +4081,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Creed. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/599w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_111",
@@ -4116,7 +4116,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Dolce & Gabbana. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/sku/large/lf21tst.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_112",
@@ -4151,7 +4151,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lattafa / لطافة. A compelling explorations of notes.",
-    "aesthetic_image": "https://vanillaperfume.ir/wp-content/uploads/2024/06/Lattafa-24-Carat-Pure-Gold-2.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_113",
@@ -4186,7 +4186,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lattafa / لطافة. A compelling explorations of notes.",
-    "aesthetic_image": "http://fragranceofaroma.com/wp-content/uploads/2023/11/lattafa-24-carat-white-gold.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_114",
@@ -4221,7 +4221,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/08/24-Faubourg-Edition-Limitee-Eperon-DOr-by-Hermes.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_115",
@@ -4256,7 +4256,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/6/5/256339_abb262489ecd9c72ff087ec43bbee19d_delina-limited-edition.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_116",
@@ -4291,7 +4291,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.93579.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_117",
@@ -4326,7 +4326,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
-    "aesthetic_image": "https://fraguru.com/mdimg/perfume/375x500.22498.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_118",
@@ -4361,7 +4361,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
-    "aesthetic_image": "https://vinvoy.com/wa-data/public/shop/products/85/08/40885/images/336393/336393.1500.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_119",
@@ -4396,7 +4396,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/08/24-Faubourg-Edition-Limitee-Eperon-DOr-by-Hermes.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_120",
@@ -4431,7 +4431,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
-    "aesthetic_image": "https://assets.hermes.com/is/image/hermesproduct/quadrige-earrings--454418FEC6-front-wm-2-0-0-1000-1000_g.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_121",
@@ -4466,7 +4466,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
-    "aesthetic_image": "https://thumbs.dreamstime.com/b/eau-de-toilette-perfume-bottle-isolated-white-background-eau-de-toilette-perfume-bottle-isolated-white-background-close-up-324281535.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_122",
@@ -4501,7 +4501,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/images/perfume/social.29590.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_123",
@@ -4536,7 +4536,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
-    "aesthetic_image": "https://luxurious-fragrances.com/wp-content/uploads/2024/05/eau-de-parfum-el-nabil-soleil-d-arabie-1.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_124",
@@ -4571,7 +4571,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/6/2/74925_6ee5f3323d7dbdf90cfabc39a9b15c71_butterfly_hanae_mori_1995_eau_de_parfum.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_125",
@@ -4606,7 +4606,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.43507.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_126",
@@ -4641,7 +4641,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
-    "aesthetic_image": "https://thumbs.dreamstime.com/b/eau-de-toilette-perfume-bottle-isolated-white-background-eau-de-toilette-perfume-bottle-isolated-white-background-close-up-324281535.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_127",
@@ -4676,7 +4676,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
-    "aesthetic_image": "https://ifragranceofficial.com/wp-content/uploads/2024/07/hermes-barenia.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_128",
@@ -4711,7 +4711,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/109531_img-4317-elsa-schiaparelli-shocking-you-parfum-bijou-botticelliana_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_129",
@@ -4746,7 +4746,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Chanel. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.notino.com/view/chanel/chan28w_aedt15_02__14.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_130",
@@ -4781,7 +4781,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Zaharoff. A compelling explorations of notes.",
-    "aesthetic_image": "https://splashfragrance.in/wp-content/uploads/2023/05/2ND-SOUL-By-ZAHAROFF-EDP-Perfume-min.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_131",
@@ -4816,7 +4816,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Chanel. A compelling explorations of notes.",
-    "aesthetic_image": "https://thumbs.dreamstime.com/b/eau-de-toilette-perfume-bottle-isolated-white-background-eau-de-toilette-perfume-bottle-isolated-white-background-close-up-324281535.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_132",
@@ -4851,7 +4851,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Chanel. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.chanel.com/us/img/q_auto,fl_lossy,dpr_2,f_jpg/w_960/prd-emea/sys-master/content/h38/hc7/8848655155230-les_exclusifs_31_rue_cambon.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_133",
@@ -4886,7 +4886,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Diptyque. A compelling explorations of notes.",
-    "aesthetic_image": "https://dynamic.zacdn.com/RdX6v2nTjksrwWMiTf0WabXAQoY=/filters:quality(70):format(webp)/https://static-sg.zacdn.com/p/diptyque-7063-2876863-1.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_134",
@@ -4921,7 +4921,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Diptyque. A compelling explorations of notes.",
-    "aesthetic_image": "https://media.parfumo.com/perfume_imagery/ab/ab076a_34-boulevard-saint-germain-parfum-solide-diptyque_1200.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_135",
@@ -4956,7 +4956,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Diptyque. A compelling explorations of notes.",
-    "aesthetic_image": "https://dynamic.zacdn.com/RdX6v2nTjksrwWMiTf0WabXAQoY=/filters:quality(70):format(webp)/https://static-sg.zacdn.com/p/diptyque-7063-2876863-1.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_136",
@@ -4991,7 +4991,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Dolce & Gabbana. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/68272m.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_137",
@@ -5026,7 +5026,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from XerJoff. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/40kxw344m.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_138",
@@ -5061,7 +5061,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from XerJoff. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.pinimg.com/originals/e7/25/7f/e7257f13cbab2d136872a995e9b5ff16.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_139",
@@ -5096,7 +5096,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Kenzo. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/67656w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_140",
@@ -5131,7 +5131,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Roja Parfums. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/77727w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_141",
@@ -5166,7 +5166,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Roja Parfums. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/480/67733_cnwido_51_pour_homme_480.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_142",
@@ -5201,7 +5201,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Roja Parfums. A compelling explorations of notes.",
-    "aesthetic_image": "https://media.parfumo.com/perfume_imagery/4e/4e6e77_elysium-parfum-cologne-eau-de-parfum-roja-parfums_1200.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_143",
@@ -5236,7 +5236,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Roja Parfums. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/228080_img-9624-roja-parfums-elixir-eau-de-parfum_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_144",
@@ -5271,7 +5271,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Roja Parfums. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/RAOJAOUP.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_145",
@@ -5306,7 +5306,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Roja Parfums. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/228080_img-9624-roja-parfums-elixir-eau-de-parfum_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_146",
@@ -5341,7 +5341,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Roja Parfums. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.notino.com/zoomMobile/roja-parfums/rojroju_apar10_03__6.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_147",
@@ -5376,7 +5376,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Dolce & Gabbana. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/qbydsc.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_148",
@@ -5411,7 +5411,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://acbuy-spreadsheet-2025.com/media/product_images/20250615154635_0.jpg.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_149",
@@ -5446,7 +5446,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.etsystatic.com/15944260/r/il/6db934/4875054218/il_570xN.4875054218_2l6k.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_150",
@@ -5481,7 +5481,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/115763_img-5318-loewe-loewe-pour-homme-edicion-120-aniversario-juan-de-la-cierva_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_151",
@@ -5516,7 +5516,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Marcel Guerlain / Hughes Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://magnifissance.com/wp-content/uploads/2022/11/Perfume-bottle-3.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_152",
@@ -5551,7 +5551,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://wikifragancias.com/images/perfumes/loewe/7-loewe-after-shave/400.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_153",
@@ -5586,7 +5586,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://thumbs.dreamstime.com/b/eau-de-toilette-perfume-bottle-isolated-white-background-eau-de-toilette-perfume-bottle-isolated-white-background-close-up-324281535.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_154",
@@ -5621,7 +5621,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.perfumediary.com/wp-content/uploads/2012/06/Loewe7NaturalFragrance.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_155",
@@ -5656,7 +5656,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://uperfume.ae/wp-content/uploads/2024/01/loewe-7-plata.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_156",
@@ -5691,7 +5691,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://parfumistas.com/wp-content/uploads/2024/08/loewe_7_loewe_sport_edicion_especial_b.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_157",
@@ -5726,7 +5726,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/09/Loewe-7-Sport-by-Loewe-1.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_158",
@@ -5761,7 +5761,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Kenzo. A compelling explorations of notes.",
-    "aesthetic_image": "http://cdn.fragrancenet.com/images/photos/250x250/161619.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_159",
@@ -5796,7 +5796,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Maison Francis Kurkdjian. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/224501_img-8204-maison-francis-kurkdjian-724-brume-cheveux_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_160",
@@ -5831,7 +5831,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Maison Francis Kurkdjian. A compelling explorations of notes.",
-    "aesthetic_image": "https://lesfacons.com/wp-content/uploads/2022/08/MAISON-FRANCIS-KURKDJIAN-724-EAU-DE-PARFUM-COLLECTION.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_161",
@@ -5866,7 +5866,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Maison Francis Kurkdjian. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.hopkicks.pk/image/cache/catalog/NOVEMBER 22/PERFUMES/Maison Francis Kurkdjian Paris Baccarat Rouge 540/2-1100x1100.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_162",
@@ -5901,7 +5901,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Maison Francis Kurkdjian. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.perfumelounge.co.za/wp-content/uploads/2022/11/Maison-Francis-Kurkdjian-Baccarat-Rouge-540-Extrait-De-Parfum-70ml.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_163",
@@ -5936,7 +5936,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Marcel Guerlain / Hughes Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.pinimg.com/736x/3d/da/a6/3ddaa6b0cc305404b86e9a29b9a9309b.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_164",
@@ -5971,7 +5971,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Afnan Perfumes. A compelling explorations of notes.",
-    "aesthetic_image": "https://cdn.ecommercedns.uk/files/7/254947/4/47819094/065f2df8-c759-4f41-a213-5b719475883a.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_165",
@@ -6006,7 +6006,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Afnan Perfumes. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/193047_img-6596-afnan-perfumes-9am-dive_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_166",
@@ -6041,7 +6041,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Afnan Perfumes. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/81331w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_167",
@@ -6076,7 +6076,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Afnan Perfumes. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/188424_img-9131-afnan-perfumes-9pm-pour-femme_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_168",
@@ -6111,7 +6111,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Afnan Perfumes. A compelling explorations of notes.",
-    "aesthetic_image": "https://luxurious-fragrances.com/wp-content/uploads/2024/08/parfum-9pm-afnan.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_169",
@@ -6146,7 +6146,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Penhaligon's. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.84257.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_170",
@@ -6181,7 +6181,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Gucci. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.fragrancesamplesuk.com/media/catalog/product/cache/e711dcb34644d551e09c93636beab09b/n/y/nymph.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_171",
@@ -6216,7 +6216,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Issey Miyake. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/secundar/o.129259.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_172",
@@ -6251,7 +6251,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Issey Miyake. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.isseymiyakeparfums.com/on/demandware.static/-/Library-Sites-isseymiyake-shared-library/default/dw944f2991/instagram/Issey-Miyake-parfums-eau-issey-men-1.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_173",
@@ -6286,7 +6286,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Issey Miyake. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.isseymiyakeparfums.com/on/demandware.static/-/Library-Sites-isseymiyake-shared-library/default/dw9cd5985d/instagram/Issey-Miyake-parfums-eau-issey-men-1.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_174",
@@ -6321,7 +6321,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Gucci. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/07/a-floral-verse-by-gucci.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_175",
@@ -6356,7 +6356,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Gucci. A compelling explorations of notes.",
-    "aesthetic_image": "https://valorya.by/api/public/perfume/gucci-a-forgotten-rose-perfume-oil.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_176",
@@ -6391,7 +6391,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Gucci. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.fragrancesamplesuk.com/media/catalog/product/cache/58bade480dd5558294577e111fa45fa4/g/l/gloaming.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_177",
@@ -6426,7 +6426,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Roja Parfums. A compelling explorations of notes.",
-    "aesthetic_image": "http://cdn.fragrancenet.com/images/photos/250x250/448356.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_178",
@@ -6461,7 +6461,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Kilian. A compelling explorations of notes.",
-    "aesthetic_image": "https://btega.com/wp-content/uploads/2023/03/KILIAN-A-KISS-FROM-A-ROSE-EDP-50ML-1.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_179",
@@ -6496,7 +6496,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Gucci. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/07/a-kiss-from-violet-perfume-oil-by-gucci.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_180",
@@ -6531,7 +6531,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Penhaligon's. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.84256.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_181",
@@ -6566,7 +6566,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/amiarw34.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_182",
@@ -6601,7 +6601,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Gucci. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.fragrancesamplesuk.com/media/catalog/product/cache/941cc4aafc393e51030de7f9553c8b84/g/u/guccimidnight.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_183",
@@ -6636,7 +6636,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Roja Parfums. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.fragrancesamplesuk.com/media/catalog/product/cache/58bade480dd5558294577e111fa45fa4/m/i/midsummer.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_184",
@@ -6671,7 +6671,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Gucci. A compelling explorations of notes.",
-    "aesthetic_image": "http://cdn.fragrancenet.com/images/photos/250x250/377506.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_185",
@@ -6706,7 +6706,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Gucci. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.fragrancesamplesuk.com/media/catalog/product/cache/58bade480dd5558294577e111fa45fa4/r/e/reason_to_love.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_186",
@@ -6741,7 +6741,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Issey Miyake. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/as13ps.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_187",
@@ -6776,7 +6776,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Issey Miyake. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.pinimg.com/originals/28/ab/86/28ab86245986e873ff5e270c1b4e2659.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_188",
@@ -6811,7 +6811,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Issey Miyake. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/74908w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_189",
@@ -6846,7 +6846,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Gucci. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/80651w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_190",
@@ -6881,7 +6881,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Kilian. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.parfumevi.com.tr/by-kilian-by-kilian-a-taste-of-heaven-absinthe-verte-parfum-14136-14-B.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_191",
@@ -6916,7 +6916,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Kilian. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.parfumevi.com.tr/by-kilian-by-kilian-a-taste-of-heaven-absinthe-verte-parfum-14136-14-B.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_192",
@@ -6951,7 +6951,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Gucci. A compelling explorations of notes.",
-    "aesthetic_image": "http://cdn.fragrancenet.com/images/photos/250x250/435427.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_193",
@@ -6986,7 +6986,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.le-parfum.fr/2424-large_frag_2x/amen-le-gout-du-parfum-thierry-mugler-2011.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_194",
@@ -7021,7 +7021,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancebd.com/wp-content/uploads/2024/04/Mugler-Angel-Men-EDT-100mL.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_195",
@@ -7056,7 +7056,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://ifragranceofficial.com/wp-content/uploads/2024/05/A-Men-Fantasm-Mugler-for-Men.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_196",
@@ -7091,7 +7091,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fraguru.com/mdimg/perfume/375x500.16885.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_197",
@@ -7126,7 +7126,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://splashfragrance.in/wp-content/uploads/2018/09/kryp-500x500-product_thumb.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_198",
@@ -7161,7 +7161,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/10/a-men-pure-coffee-by-mugler-1.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_199",
@@ -7196,7 +7196,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.fragrancesamplesuk.com/media/catalog/product/cache/58bade480dd5558294577e111fa45fa4/o/b/ob-612_89ecd962-c546-42bf-b93a-c803d81094c2.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_200",
@@ -7231,7 +7231,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.fragrancesamplesuk.com/media/catalog/product/cache/58bade480dd5558294577e111fa45fa4/o/b/ob-612_89ecd962-c546-42bf-b93a-c803d81094c2.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_201",
@@ -7266,7 +7266,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://3.imimg.com/data3/FL/KO/MY-8090908/thierry-mugler-amen-pure-malt-2013-creations-perfume-500x500.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_202",
@@ -7301,7 +7301,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/10/a-men-pure-malt-1.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_203",
@@ -7336,7 +7336,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.18982.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_204",
@@ -7371,7 +7371,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/10/a-men-pure-tonka-by-mugler-1.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_205",
@@ -7406,7 +7406,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://splashfragrance.in/wp-content/uploads/2018/09/http-kartrocket-mtp.s3.amazonaws.com-all-stores-image_splashfragnance12-data-TM5-500x500-product_thumb.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_206",
@@ -7441,7 +7441,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://mania.by/wp-content/uploads/2024/04/thierry_mugler_amen_summer_flash-860x860.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_207",
@@ -7476,7 +7476,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.8192.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_208",
@@ -7511,7 +7511,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://splashfragrance.in/wp-content/uploads/2020/10/product-logo-website-editing-4-3.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_209",
@@ -7546,7 +7546,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://splashfragrance.in/wp-content/uploads/2018/09/TM9-500x500-product_thumb.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_210",
@@ -7581,7 +7581,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.49914.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_211",
@@ -7616,7 +7616,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Kenzo. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.perfumestars.com/wp-content/uploads/2024/06/a-frozen-symphony-in-a-bottle-exploring-kenzos-latest-aromatic-masterpiece-leau-kenzo-glacee-pour-femme-720x380.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_212",
@@ -7651,7 +7651,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://media.parfumo.com/user_imagery/f6/f6_90248_1d66234283131c79916671b9cb3c1d2f_1200.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_213",
@@ -7686,7 +7686,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/68904w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_214",
@@ -7721,7 +7721,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/11808_r6twcz_o_de_lancome_intense_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_215",
@@ -7756,7 +7756,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/6/6/32758_1cb7968069bb8be2920d5f592b7e5a02_eau_de_calandre.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_216",
@@ -7791,7 +7791,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/09/O-de-Lancome-Eau-Fraiche-by-Lancome.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_217",
@@ -7826,7 +7826,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
-    "aesthetic_image": "https://perfumediary.com/wp-content/uploads/2011/03/Lancome-O-lorangeri-lancome.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_218",
@@ -7861,7 +7861,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
-    "aesthetic_image": "https://miniaturasperfume.com/wp-content/uploads/Lancome-Oui-edt-768x768.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_219",
@@ -7896,7 +7896,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
-    "aesthetic_image": "https://thumbs.dreamstime.com/b/eau-de-toilette-perfume-bottle-isolated-white-background-eau-de-toilette-perfume-bottle-isolated-white-background-close-up-324281535.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_220",
@@ -7931,7 +7931,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/73028_img-1187-lacoste-pour_homme_lotion_apres_rasage_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_221",
@@ -7966,7 +7966,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Diptyque. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/9/9/63871_0f497ce896bd5603a41140c5c1670cdb_opone_eau_de_parfum.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_222",
@@ -8001,7 +8001,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/10/oud-ambroisie-by-lancome-1.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_223",
@@ -8036,7 +8036,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/09/Oud-Bouquet-2014-by-Lancome.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_224",
@@ -8071,7 +8071,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Maison Francis Kurkdjian. A compelling explorations of notes.",
-    "aesthetic_image": "https://dimg.dillards.com/is/image/DillardsZoom/zoom/maison-francis-kurkdjian-a-la-rose-eau-de-parfum/00000001_zi_20521439.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_225",
@@ -8106,7 +8106,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Maison Francis Kurkdjian. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/94896_img-9274-maison_francis_kurkdjian-_la_rose_brume_parfumante_cheveux_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_226",
@@ -8141,7 +8141,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Maison Francis Kurkdjian. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.pinimg.com/originals/0d/30/5f/0d305f187b49dbb3d141275e0228106e.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_227",
@@ -8176,7 +8176,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/08/A-Travers-Champs-by-Guerlain.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_228",
@@ -8211,7 +8211,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Kenzo. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/1/2/72550_e516703d23dc75cf6836c74adfccef4d_a_sent_beau_kenzo_eau_de_parfum.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_229",
@@ -8246,7 +8246,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Kenzo. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/9/2/2064_43dc2e6d3866b4be042c59629b8caefa_a_sent_beau_kenzo_eau_de_toilette.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_230",
@@ -8281,7 +8281,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Tom Ford. A compelling explorations of notes.",
-    "aesthetic_image": "https://lidomaperfume.ir/wp-content/uploads/2025/01/Tom-Ford-Ebene-Fume-Fragrance-World-7.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_231",
@@ -8316,7 +8316,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Givenchy. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/08/songe-precieux-by-givenchy.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_232",
@@ -8351,7 +8351,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://spcdn.shortpixel.ai/spio/ret_img,q_cdnize,to_auto,s_webp:avif/www.perfumestars.com/wp-content/uploads/2025/08/234567887654345678987654.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_233",
@@ -8386,7 +8386,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
-    "aesthetic_image": "https://media.parfumo.com/perfume_imagery/2c/2c64f9-edition-speciale-de-l-eau-d-hermes-pour-la-celebration-du-couronnement-de-sa-majeste-l-empereur-du-japon-hermes_1200.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_234",
@@ -8421,7 +8421,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Chanel. A compelling explorations of notes.",
-    "aesthetic_image": "https://cdn.skincare.com.vn/nuoc-hoa/p/chanel-n5-leau-recharges-vaporisateur-de-sac-eau-de-toilette-spray-1.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_235",
@@ -8456,7 +8456,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Chanel. A compelling explorations of notes.",
-    "aesthetic_image": "https://cdn.notinoimg.com/detail_thumb/chanel/chabdcm_dasw/chanel-bleu-de-chanel-lotion-apres-rasage-pour-homme___25.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_236",
@@ -8491,7 +8491,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Chanel. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.pinimg.com/736x/7e/0f/9c/7e0f9c4824ed5ee522bf741574e96067.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_237",
@@ -8526,7 +8526,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Dior. A compelling explorations of notes.",
-    "aesthetic_image": "https://scottishantiques.com/wp-content/uploads/2024/03/sa21343_0007-600x600.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_238",
@@ -8561,7 +8561,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Dior. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.wikiscents.com/uploads/1-15-09-2022-13-02-07-Jasmin-elixir-precieux.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_239",
@@ -8596,7 +8596,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Dior. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/secundar/o.25124.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_240",
@@ -8631,7 +8631,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Dior. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/5/3/38669_f7b845f0445bc2eedadf40c71efe589b.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_241",
@@ -8666,7 +8666,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Dior. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.mundodosdecants.com.br/wp-content/uploads/2023/04/Dior-Patchouli-Elixir-Precieux.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_242",
@@ -8701,7 +8701,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Dior. A compelling explorations of notes.",
-    "aesthetic_image": "https://splashfragrance.in/wp-content/uploads/2025/01/Dior-Rose-Elixir-Oil.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_243",
@@ -8736,7 +8736,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
-    "aesthetic_image": "https://thumbs.dreamstime.com/b/perfume-bottle-marine-style-summer-fragrance-perfumery-sea-theme-created-generative-ai-technology-perfume-bottle-272436289.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_244",
@@ -8771,7 +8771,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://newfragrance.com/resources/content/product/gallery/pices-exquises-guerlain-167291.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_245",
@@ -8806,7 +8806,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://parfumistas.com/wp-content/uploads/2024/08/perfume_arsene_lupindandy_guerlain_3.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_246",
@@ -8841,7 +8841,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mizensir. A compelling explorations of notes.",
-    "aesthetic_image": "https://parfumistas.com/wp-content/uploads/2024/08/mizensir_epine_de_rose_b.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_247",
@@ -8876,7 +8876,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Givenchy. A compelling explorations of notes.",
-    "aesthetic_image": "https://thumbs.dreamstime.com/z/gentleman-fragrance-givenchy-famous-brand-original-perfume-bottle-package-241392787.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_248",
@@ -8911,7 +8911,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
-    "aesthetic_image": "https://assets.catawiki.nl/assets/2024/2/27/e/c/0/ec0bcb51-4c87-4081-8658-6f7aac0a3d55.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_249",
@@ -8946,7 +8946,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/social.99757.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_250",
@@ -8981,7 +8981,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lattafa / لطافة. A compelling explorations of notes.",
-    "aesthetic_image": "https://arabicperfumeshop.ie/wp-content/uploads/2025/05/Lattafa-Abaan-Ireland.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_251",
@@ -9016,7 +9016,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Tiziana Terenzi. A compelling explorations of notes.",
-    "aesthetic_image": "https://ifragranceofficial.com/wp-content/uploads/2025/10/Tiziana-Terenzi-abbrivio-new-perfume-e1687083993259.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_252",
@@ -9051,7 +9051,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Rasasi. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2024/02/Abeer-by-Rasasi.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_253",
@@ -9086,7 +9086,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Creed. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/abecwm.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_254",
@@ -9121,7 +9121,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Afnan Perfumes. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/8/5/40465_eea6de4bbbb20bea1f2caa1ffc07267b_abraaj.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_255",
@@ -9156,7 +9156,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lattafa / لطافة. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/0/9/55934_cc7977d016cc2045b91b3c3eb9ff5fa2_absherk.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_256",
@@ -9191,7 +9191,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Creed. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancebd.com/wp-content/uploads/2023/12/Creed-Absolu-Aventus-75mL-Perfume.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.9828.jpg"
   },
   {
     "id": "p_unique_257",
@@ -9226,7 +9226,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/social.94910.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_258",
@@ -9261,7 +9261,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/secundar/o.118475.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_259",
@@ -9296,7 +9296,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
-    "aesthetic_image": "https://fraguru.com/mdimg/perfume/375x500.94912.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_260",
@@ -9331,7 +9331,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.94913.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_261",
@@ -9366,7 +9366,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.94914.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_262",
@@ -9401,7 +9401,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
-    "aesthetic_image": "https://fraguru.com/mdimg/perfume/375x500.94915.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_263",
@@ -9436,7 +9436,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
-    "aesthetic_image": "https://fraguru.com/mdimg/perfume/375x500.94916.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_264",
@@ -9471,7 +9471,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.fragrancesamplesuk.com/media/catalog/product/cache/58bade480dd5558294577e111fa45fa4/b/o/bouquet_absolue.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_265",
@@ -9506,7 +9506,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.94918.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_266",
@@ -9541,7 +9541,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.94919.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_267",
@@ -9576,7 +9576,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/social.94920.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_268",
@@ -9611,7 +9611,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Maison Francis Kurkdjian. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/77862w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_269",
@@ -9646,7 +9646,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Maison Francis Kurkdjian. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/77859w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_270",
@@ -9681,7 +9681,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Initio. A compelling explorations of notes.",
-    "aesthetic_image": "https://splashfragrance.in/wp-content/uploads/2019/08/absolu-aph.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_271",
@@ -9716,7 +9716,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Bvlgari. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/23384w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_272",
@@ -9751,7 +9751,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Givenchy. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/63207w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_273",
@@ -9786,7 +9786,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Givenchy. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/63207w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_274",
@@ -9821,7 +9821,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Rasasi. A compelling explorations of notes.",
-    "aesthetic_image": "https://media.parfoom.com/products/rasasi-luban-absolute-e84f0286-thumbnail.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_275",
@@ -9856,7 +9856,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Rasasi. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2024/02/Abyan-Pour-Homme-by-Rasasi.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_276",
@@ -9891,7 +9891,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Gucci. A compelling explorations of notes.",
-    "aesthetic_image": "https://images.ctchealth.ca/Gucci_Guilty_Elixir_de_Parfum_for_Men___Woody_Amber_Leather_Fragrance_in_Sophisticated_Green_Bottle_3616304175893_1.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_277",
@@ -9926,7 +9926,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Gucci. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/images/secundar/o.33559.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_278",
@@ -9961,7 +9961,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Sospiro. A compelling explorations of notes.",
-    "aesthetic_image": "https://cdn.aromo.ru/upload/resize_cache/iblock/0e8/hyi6erd1g81i35oalctvzg9bkt9tvowt/450_450_040cd750bba9870f18aada2478b24840a/sospiro-perfumes-accento-luminoso-2020-unisex-2435427.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_279",
@@ -9996,7 +9996,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from XerJoff. A compelling explorations of notes.",
-    "aesthetic_image": "https://l.fimgs.net/news/en/16628/news.16628-120x120.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_280",
@@ -10031,7 +10031,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from XerJoff. A compelling explorations of notes.",
-    "aesthetic_image": "https://sublimefragrance.com.py/wp-content/uploads/2025/03/Xerjoff-accento-overdose.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_281",
@@ -10066,7 +10066,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Sospiro. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/social.101709.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_282",
@@ -10101,7 +10101,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from XerJoff. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/xerxwd.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_283",
@@ -10136,7 +10136,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Byredo. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/71733w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_284",
@@ -10171,7 +10171,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Givenchy. A compelling explorations of notes.",
-    "aesthetic_image": "https://fraguru.com/mdimg/perfume/375x500.60357.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_285",
@@ -10206,7 +10206,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Sospiro. A compelling explorations of notes.",
-    "aesthetic_image": "https://5.imimg.com/data5/AK/GS/BL/SELLER-81044663/fantasia-perfume-chemical-500x500.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_286",
@@ -10241,7 +10241,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Creed. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.7498.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_287",
@@ -10276,7 +10276,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.pinimg.com/originals/f9/06/cc/f906cc5dcbf77eefd8500e31a4b2adcd.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_288",
@@ -10311,7 +10311,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://perfumediary.com/wp-content/uploads/2019/02/Giorgio-Armani-Acqua-di-Gio-Absolu-Instinct-.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_289",
@@ -10346,7 +10346,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://assets.armani.com/image/upload/f_auto,q_auto:good,w_1125,h_1428,c_fill/v1729279771/LE311500_NLP_100ML_F_FW2024.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_290",
@@ -10381,7 +10381,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://assets.armani.com/image/upload/f_auto,q_auto:good,w_1125,h_1428,c_fill/v1729279771/LE311500_NLP_100ML_F_FW2024.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_291",
@@ -10416,7 +10416,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://assets.armani.com/image/upload/f_auto,q_auto:good,w_1125,h_1428,c_fill/v1729279771/LE311500_NLP_100ML_F_FW2024.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_292",
@@ -10451,7 +10451,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/49098_7i7rz4_acqua_di_gio_pour_homme_blue_edition_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_293",
@@ -10486,7 +10486,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/0/7/39_0e660ed9043959aa6965aadddad763db_acqua_di_gio_pour_homme.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_294",
@@ -10521,7 +10521,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/480/72060_xbjoi6_acqua_di_gio_pour_homme_lotion_apres_rasage_480.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_295",
@@ -10556,7 +10556,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/9/5/160300_893564eea5a32da2d490e556987fa313_acqua-di-gio-pour-homme-eau-de-parfum.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_296",
@@ -10591,7 +10591,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://assets.armani.com/image/upload/f_auto,q_auto:best,ar_4:5,w_1350,c_fill/LB304200_NLP_125ML_F_FW2024.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_297",
@@ -10626,7 +10626,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://assets.armani.com/image/upload/f_auto,q_auto:best,ar_4:5,w_1350,c_fill/LB304200_NLP_125ML_F_FW2024.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_298",
@@ -10661,7 +10661,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/secundar/o.82282.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_299",
@@ -10696,7 +10696,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://fraguru.com/mdimg/perfume/375x500.90451.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_300",
@@ -10731,7 +10731,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://assets.armani.com/image/upload/f_auto,q_auto:good,w_1125,h_1428,c_fill/v1729279771/LE311500_NLP_100ML_F_FW2024.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.29727.jpg"
   },
   {
     "id": "p_unique_301",
@@ -10766,7 +10766,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.ltwebstatic.com/images3_spmp/2024/08/10/56/1723229304707f765fa871407c19bc69cbbdda35b1.webp"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.29727.jpg"
   },
   {
     "id": "p_unique_302",
@@ -10801,7 +10801,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://life.ba/wp-content/uploads/2022/08/Acqua-Di-Gio-Profumo-Special-Blend.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.29727.jpg"
   },
   {
     "id": "p_unique_303",
@@ -10836,7 +10836,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.mywomenstuff.com/wp-content/uploads/2010/07/ga_acquadigioa.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.419.jpg"
   },
   {
     "id": "p_unique_304",
@@ -10871,7 +10871,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://assets.armani.com/image/upload/f_auto,q_auto:good,w_1125,h_1428,c_fill/v1749582228/LE646100_NLP_50ML_D_FW2025.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.419.jpg"
   },
   {
     "id": "p_unique_305",
@@ -10906,7 +10906,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://assets-cf.armani.com/image/upload/f_auto,q_auto:good,w_1125,h_1428,c_fill/v1749579664/115550_EDP100ML_VAPO_F_FW2025.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.419.jpg"
   },
   {
     "id": "p_unique_306",
@@ -10941,7 +10941,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://assets.armani.com/image/upload/f_auto,q_auto:good,w_1125,h_1428,c_fill/v1749582228/LE646100_NLP_50ML_D_FW2025.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.419.jpg"
   },
   {
     "id": "p_unique_307",
@@ -10976,7 +10976,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://assets-cf.armani.com/image/upload/f_auto,q_auto:good,w_1125,h_1428,c_fill/v1749579664/115550_EDP100ML_VAPO_F_FW2025.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.419.jpg"
   },
   {
     "id": "p_unique_308",
@@ -11011,7 +11011,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/134444_img-2915-giorgio-armani-acqua-di-gioia-brume-cheveux_720.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.419.jpg"
   },
   {
     "id": "p_unique_309",
@@ -11046,7 +11046,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.mdel.net/i/db/2016/1/467328/467328-800w.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.419.jpg"
   },
   {
     "id": "p_unique_310",
@@ -11081,7 +11081,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/136643_img-5743-giorgio-armani-acqua-di-gioia-limited-edition_720.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.419.jpg"
   },
   {
     "id": "p_unique_311",
@@ -11116,7 +11116,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Creed. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.fragrancenet.com/blog/images/Fragrance.com-4-2.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_312",
@@ -11151,7 +11151,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Creed. A compelling explorations of notes.",
-    "aesthetic_image": "http://cdn.fragrancenet.com/images/photos/250x250/445391.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_313",
@@ -11186,7 +11186,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Creed. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.perfumemaster.com/images/pm_notes/Greens_Herbs/sml/Greens_Herbs_Tarragon_Notes.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_314",
@@ -11221,7 +11221,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Creed. A compelling explorations of notes.",
-    "aesthetic_image": "http://cdn.fragrancenet.com/images/photos/250x250/326590.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_315",
@@ -11256,7 +11256,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Creed. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.perfumemaster.com/images/pm_news/2019/20191128_Creed_Acqua_Originale_Collection_2019.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_316",
@@ -11291,7 +11291,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/2/1/736_fd8c416799071d0f8cb5e91b6fa2942f_acteur-eau-de-toilette.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_317",
@@ -11326,7 +11326,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://media.parfumo.com/perfume_imagery/4f/4f5188-acteur-lotion-apres-rasage-azzaro_1200.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_318",
@@ -11361,7 +11361,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Sospiro. A compelling explorations of notes.",
-    "aesthetic_image": "https://splashfragrance.in/wp-content/uploads/2020/05/Adagio-By-Sospiro-Perfume-EDP-Perfume.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_319",
@@ -11396,7 +11396,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Initio. A compelling explorations of notes.",
-    "aesthetic_image": "https://thefragranceoil.com/wp-content/uploads/2025/06/Initio-Addictive-Vibration.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_320",
@@ -11431,7 +11431,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lattafa / لطافة. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/83033w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_321",
@@ -11466,7 +11466,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Tiziana Terenzi. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/08/adhara-by-tiziana-terenzi.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_322",
@@ -11501,7 +11501,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Tiziana Terenzi. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/78908w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_323",
@@ -11536,7 +11536,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Rasasi. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2024/02/Admire-by-Rasasi.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_324",
@@ -11571,7 +11571,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Rasasi. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2024/02/Adorable-by-Rasasi.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_325",
@@ -11606,7 +11606,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Afnan Perfumes. A compelling explorations of notes.",
-    "aesthetic_image": "https://peeligoli.com/wp-content/uploads/2022/10/adwa-al-shirq-perfume.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_326",
@@ -11641,7 +11641,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lattafa / لطافة. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/latlqz.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_327",
@@ -11676,7 +11676,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lattafa / لطافة. A compelling explorations of notes.",
-    "aesthetic_image": "https://lattafa.com/wp-content/uploads/2024/04/Bottle-box-10.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_328",
@@ -11711,7 +11711,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Sospiro. A compelling explorations of notes.",
-    "aesthetic_image": "https://thefragranceoil.com/wp-content/uploads/2025/06/Sospiro-Afgano-Puro.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_329",
@@ -11746,7 +11746,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lattafa / لطافة. A compelling explorations of notes.",
-    "aesthetic_image": "https://perfumearena.com/wp-content/uploads/afkaar-lattafa-1.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_330",
@@ -11781,7 +11781,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Afnan Perfumes. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/40449_ygfhtp_afnan_extract_berry_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_331",
@@ -11816,7 +11816,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Afnan Perfumes. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/1/3/133357_9e516f1393d40e1eed4ffb24dec90c3d_afnan-extract-vetiver.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_332",
@@ -11851,7 +11851,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Afnan Perfumes. A compelling explorations of notes.",
-    "aesthetic_image": "https://media.parfumo.com/perfume_imagery/9e/9e98fc-afnan-extract-oudh-afnan-perfumes_1200.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_333",
@@ -11886,7 +11886,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Afnan Perfumes. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/1/3/133357_9e516f1393d40e1eed4ffb24dec90c3d_afnan-extract-vetiver.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_334",
@@ -11921,7 +11921,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Amouage. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/11/afrah-by-amouage-1.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_335",
@@ -11956,7 +11956,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Memo Paris. A compelling explorations of notes.",
-    "aesthetic_image": "https://editorialist.com/webcompressed/2023/1/023/360/392/23360392~one-color_0.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_336",
@@ -11991,7 +11991,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Memo Paris. A compelling explorations of notes.",
-    "aesthetic_image": "https://ifragranceofficial.com/wp-content/uploads/2022/12/Memo-Paris-African-Leather-4.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_337",
@@ -12026,7 +12026,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Memo Paris. A compelling explorations of notes.",
-    "aesthetic_image": "https://uperfume.ae/wp-content/uploads/2024/01/memo-paris-african-rose.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_338",
@@ -12061,7 +12061,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Nishane. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/77780w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_339",
@@ -12096,7 +12096,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Tiziana Terenzi. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/77097w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_340",
@@ -12131,7 +12131,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Rasasi. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/rasrzl.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_341",
@@ -12166,7 +12166,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Rasasi. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/rasrzl.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_342",
@@ -12201,7 +12201,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Afnan Perfumes. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/6/3/40464_85621ef61b66e678ea563b7743ff9ee2_afzal_abeer.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_343",
@@ -12236,7 +12236,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Penhaligon's. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/75292m.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_344",
@@ -12271,7 +12271,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Penhaligon's. A compelling explorations of notes.",
-    "aesthetic_image": "https://fraguru.com/mdimg/perfume/375x500.90027.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_345",
@@ -12306,7 +12306,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Agatha Ruiz de la Prada. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/5/9/6930_3d71858102649b4d0c8c4ed3e15a07ec_agua.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_346",
@@ -12341,7 +12341,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/09/Agua-de-Loewe-Sport-Edicion-Especial-by-Loewe.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_347",
@@ -12376,7 +12376,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/social.18338.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_348",
@@ -12411,7 +12411,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "http://cdn.fragrancenet.com/images/photos/250x250/386544.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_349",
@@ -12446,7 +12446,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/622w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_350",
@@ -12481,7 +12481,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/sku/large/agulab.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_351",
@@ -12516,7 +12516,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/09/Agua-de-Loewe-Sport-Edicion-Especial-by-Loewe.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_352",
@@ -12551,7 +12551,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/social.39308.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_353",
@@ -12586,7 +12586,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/loel5m.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_354",
@@ -12621,7 +12621,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/77879w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_355",
@@ -12656,7 +12656,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/77879w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_356",
@@ -12691,7 +12691,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://parfumistas.com/wp-content/uploads/2024/08/perfume_aguazul_de_loewe_loewe_0.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_357",
@@ -12726,7 +12726,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Roja Parfums. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/11/ahlam-by-roja-dove-1.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_358",
@@ -12761,7 +12761,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Marcel Guerlain / Hughes Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://rlalique.com/Sections/AuctionItems/lalique-auction-photo/ambre-perfume-bottle-for-isabey-marcel-guerlain-rene-lalique-7-8-14.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_359",
@@ -12796,7 +12796,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Marcel Guerlain / Hughes Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://rlalique.com/Sections/AuctionItems/lalique-auction-photo/ambre-perfume-bottle-for-isabey-marcel-guerlain-rene-lalique-7-8-14.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_360",
@@ -12831,7 +12831,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.mdel.net/i/db/2017/9/771840/771840-800w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_361",
@@ -12866,7 +12866,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://perfumediary.com/wp-content/uploads/2012/03/Aire-Loewe-Sensual_pack.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_362",
@@ -12901,7 +12901,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/photogram/p1200/xi/ot/pc9gzemn4Hnthj9K.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_363",
@@ -12936,7 +12936,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/480/57715_mmskmv_aire_atardecer_480.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_364",
@@ -12971,7 +12971,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/lwats42t.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_365",
@@ -13006,7 +13006,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/81682w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_366",
@@ -13041,7 +13041,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://perfumediary.com/wp-content/uploads/2012/03/Aire-Loewe-Sensual_pack.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_367",
@@ -13076,7 +13076,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://perfumediary.com/wp-content/uploads/2012/03/Aire-Loewe-Sensual_pack.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_368",
@@ -13111,7 +13111,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://wikifragancias.com/images/perfumes/loewe/aire-limited-edition/400.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_369",
@@ -13146,7 +13146,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/all34tu.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_370",
@@ -13181,7 +13181,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://perfumediary.com/wp-content/uploads/2012/03/Aire-Loewe-Sensual_pack.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_371",
@@ -13216,7 +13216,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://perfumediary.com/wp-content/uploads/2012/03/Aire-Loewe-Sensual_pack.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_372",
@@ -13251,7 +13251,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/09/Aire-Loewe-Sport-Edicion-Especial-by-Loewe.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_373",
@@ -13286,7 +13286,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/81682w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_374",
@@ -13321,7 +13321,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lattafa / لطافة. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.dubaimarket.fr/wp-content/uploads/2024/01/IMG_2269-920x1024.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_375",
@@ -13356,7 +13356,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lattafa / لطافة. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.ltwebstatic.com/images3_spmp/2024/01/04/9c/1704324049bfd8d8616da36b9ad89a7a209db3432a.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_376",
@@ -13391,7 +13391,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lattafa / لطافة. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/latlrg.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_377",
@@ -13426,7 +13426,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lattafa / لطافة. A compelling explorations of notes.",
-    "aesthetic_image": "https://elissa-perfume.com/wp-content/uploads/2024/11/ادکلن-لطافه-اجوا.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_378",
@@ -13461,7 +13461,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Amouage. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2024/02/Ajwad-by-Amouage.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_379",
@@ -13496,7 +13496,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lattafa / لطافة. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/LatLGK.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_380",
@@ -13531,7 +13531,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lattafa / لطافة. A compelling explorations of notes.",
-    "aesthetic_image": "https://lattafa.com/wp-content/uploads/2024/08/Bottle-box-1-scaled.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_381",
@@ -13566,7 +13566,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Parfums de Marly. A compelling explorations of notes.",
-    "aesthetic_image": "https://ifragranceofficial.com/wp-content/uploads/2024/12/valaya-exclusif-2025-1024x1024.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_382",
@@ -13601,7 +13601,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Tiziana Terenzi. A compelling explorations of notes.",
-    "aesthetic_image": "https://as2.ftcdn.net/v2/jpg/03/21/12/05/1000_F_321120505_a3i53zntW17sYpoje4ysAzcIwUGcwjdN.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_383",
@@ -13636,7 +13636,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lattafa / لطافة. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/81429m.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_384",
@@ -13671,7 +13671,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Amouage. A compelling explorations of notes.",
-    "aesthetic_image": "https://parfumistas.com/wp-content/uploads/2024/08/perfume_tribute_amouage_0.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_385",
@@ -13706,7 +13706,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lattafa / لطافة. A compelling explorations of notes.",
-    "aesthetic_image": "https://splashfragrance.in/wp-content/uploads/2022/08/Al-Areeq-Gold-By-Lattafa-Pride-Edp-Perfume.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_386",
@@ -13741,7 +13741,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lattafa / لطافة. A compelling explorations of notes.",
-    "aesthetic_image": "https://lattafaus.com/wp-content/uploads/2025/02/Al-Areeq-Silver-01.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_387",
@@ -13776,7 +13776,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lattafa / لطافة. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/480/133503_img-6279-lattafa-al-astura_480.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_388",
@@ -13811,7 +13811,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lattafa / لطافة. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/83039w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_389",
@@ -13846,7 +13846,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Rasasi. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/photogram/p1200/dv/cy/yoc5udMZIb3byDga.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_390",
@@ -13881,7 +13881,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Rasasi. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/social.19517.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_391",
@@ -13916,7 +13916,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lattafa / لطافة. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.helloperfume.net/images/perfume/lattafa-perfumes/al-awsaaf-lattafa-perfumes.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_392",
@@ -13951,7 +13951,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Tiziana Terenzi. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/76872w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_393",
@@ -13986,7 +13986,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Afnan Perfumes. A compelling explorations of notes.",
-    "aesthetic_image": "https://media.parfumo.com/perfume_imagery/2e/2ec6b3-al-fakhama-mukhalat-afnan-perfumes_1200.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_394",
@@ -14021,7 +14021,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Rasasi. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/social.83101.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_395",
@@ -14056,7 +14056,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Afnan Perfumes. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/240/87249_xtcbuc_al_fakhamah_musk_240.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_396",
@@ -14091,7 +14091,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Afnan Perfumes. A compelling explorations of notes.",
-    "aesthetic_image": "https://5.imimg.com/data5/SELLER/Default/2022/12/LY/CW/KL/140113148/100ml-afnan-gharam-al-ward-fragrance-perfume-1000x1000.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_397",
@@ -14126,7 +14126,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Afnan Perfumes. A compelling explorations of notes.",
-    "aesthetic_image": "https://splashfragrance.in/wp-content/uploads/2022/12/supremacy-EDT.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_398",
@@ -14161,7 +14161,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Rasasi. A compelling explorations of notes.",
-    "aesthetic_image": "https://parfumistas.com/wp-content/uploads/2024/08/rasasi_al_hobb_al_abady_s.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_399",
@@ -14196,7 +14196,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Rasasi. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.oriental-fragrance.com/3260-home_default/rasasi-al-hobb-al-hakiki.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_400",
@@ -14231,7 +14231,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Rasasi. A compelling explorations of notes.",
-    "aesthetic_image": "https://parfumistas.com/wp-content/uploads/2024/08/perfume_al_hobb_hayat_rasasi_0.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_401",
@@ -14266,7 +14266,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Afnan Perfumes. A compelling explorations of notes.",
-    "aesthetic_image": "https://media.parfumo.com/perfume_imagery/13/134a9e-al-hoor-afnan-perfumes_1200.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_402",
@@ -14301,7 +14301,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Amouage. A compelling explorations of notes.",
-    "aesthetic_image": "https://parfumistas.com/wp-content/uploads/2024/09/perfume_attar_al_jawhar_amouage_0.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_403",
@@ -14336,7 +14336,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Afnan Perfumes. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/480/40460_b5xwg0_al_joud_480.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_404",
@@ -14371,7 +14371,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Rasasi. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/social.8691.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_405",
@@ -14406,7 +14406,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Rasasi. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/social.8724.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_406",
@@ -14441,7 +14441,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Amouage. A compelling explorations of notes.",
-    "aesthetic_image": "https://luxury-fragrance.eu/wp-content/uploads/2024/10/Bottle_Front_Renaissance_Ashore_000.png-1024x1024.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_407",
@@ -14476,7 +14476,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Rasasi. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.8693.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_408",
@@ -14511,7 +14511,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Rasasi. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.8693.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_409",
@@ -14546,7 +14546,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Amouage. A compelling explorations of notes.",
-    "aesthetic_image": "https://parfumistas.com/wp-content/uploads/2024/08/amouage_al_shomoukh_b.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_410",
@@ -14581,7 +14581,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Rasasi. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2024/02/Al-Taif-by-Rasasi.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_411",
@@ -14616,7 +14616,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Rasasi. A compelling explorations of notes.",
-    "aesthetic_image": "https://vintageperfumebottles.name/wp-content/photos/Vintage-Perfume-Bottle-Al-ward-al-Musk-Dubai-UAE-Oriental-Fragrance-Sandalwood-04-oj.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_412",
@@ -14651,7 +14651,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Rasasi. A compelling explorations of notes.",
-    "aesthetic_image": "https://perfumedecants.in/wp-content/uploads/2023/11/Al-Wisam-Day-Rasasi.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_413",
@@ -14686,7 +14686,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Rasasi. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2024/02/Al-Wisam-Evening-by-Rasasi.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_414",
@@ -14721,7 +14721,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Tiziana Terenzi. A compelling explorations of notes.",
-    "aesthetic_image": "https://parfumistas.com/wp-content/uploads/2024/09/perfume_alcor_tiziana_terenzi_0.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_415",
@@ -14756,7 +14756,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Le Labo. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.le-labo.at/wp-content/uploads/le-labo-discovery/j46501r000.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_416",
@@ -14791,7 +14791,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from XerJoff. A compelling explorations of notes.",
-    "aesthetic_image": "https://ifragranceofficial.com/wp-content/uploads/2024/01/xerjoff-alexandria-ii-anniversary-edp-900x1024.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_417",
@@ -14826,7 +14826,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from XerJoff. A compelling explorations of notes.",
-    "aesthetic_image": "https://media.parfumo.com/perfume_imagery/02/02b460_alexandria-ii-parfum-xerjoff_1200.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_418",
@@ -14861,7 +14861,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from XerJoff. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/1/8/100108_8010b0788d39cea24e4f8b83fd5f7876_alexandria_ii_pure_attar.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_419",
@@ -14896,7 +14896,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from XerJoff. A compelling explorations of notes.",
-    "aesthetic_image": "https://media.parfumo.com/perfume_imagery/77/77b3da-alexandria-ii-hair-mist-xerjoff_1200.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_420",
@@ -14931,7 +14931,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from XerJoff. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.fragrancesamplesuk.com/media/catalog/product/cache/2d93f0ad1f2c8a2e9f3c92db5ff91b92/a/l/alexandriaiii.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_421",
@@ -14966,7 +14966,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from XerJoff. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.fragrancesamplesuk.com/media/catalog/product/cache/0ac0516e26f0560d9a76e8e2dd4b6632/o/b/ob-856_ed329f09-082e-4b8f-bdb2-373d86ed18ec.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_422",
@@ -15001,7 +15001,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from XerJoff. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.fragrancesamplesuk.com/media/catalog/product/cache/0ac0516e26f0560d9a76e8e2dd4b6632/o/b/ob-856_ed329f09-082e-4b8f-bdb2-373d86ed18ec.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_423",
@@ -15036,7 +15036,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.le-parfum.fr/3422-thickbox/alien-le-gout-du-parfum-thierry-mugler-2011.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.707.jpg"
   },
   {
     "id": "p_unique_424",
@@ -15071,7 +15071,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.11351.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.707.jpg"
   },
   {
     "id": "p_unique_425",
@@ -15106,7 +15106,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancebd.com/wp-content/uploads/2024/10/Mugler-Alien-Goddess-Intense-EDP-90mL.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.707.jpg"
   },
   {
     "id": "p_unique_426",
@@ -15141,7 +15141,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/10/alien-aqua-chic-by-mugler-1.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.707.jpg"
   },
   {
     "id": "p_unique_427",
@@ -15176,7 +15176,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/10/alien-aqua-chic-by-mugler-1.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.707.jpg"
   },
   {
     "id": "p_unique_428",
@@ -15211,7 +15211,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.pinimg.com/736x/cf/26/74/cf267431f5ceb33244c5ca1f4420e1d6.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.707.jpg"
   },
   {
     "id": "p_unique_429",
@@ -15246,7 +15246,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.pngitem.com/pimgs/b/447-4470247_divine-png.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.707.jpg"
   },
   {
     "id": "p_unique_430",
@@ -15281,7 +15281,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/71924w.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.707.jpg"
   },
   {
     "id": "p_unique_431",
@@ -15316,7 +15316,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/alenlum04.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.707.jpg"
   },
   {
     "id": "p_unique_432",
@@ -15351,7 +15351,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/ales2ozedt.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.707.jpg"
   },
   {
     "id": "p_unique_433",
@@ -15386,7 +15386,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/74304_xdx4k8_alien_essence_absolue_crystal_collection_720.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.707.jpg"
   },
   {
     "id": "p_unique_434",
@@ -15421,7 +15421,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/70266w.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.707.jpg"
   },
   {
     "id": "p_unique_435",
@@ -15456,7 +15456,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/01/alien-flora-futura-by-mugler.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.707.jpg"
   },
   {
     "id": "p_unique_436",
@@ -15491,7 +15491,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "http://cdn.fragrancenet.com/images/photos/250x250/335808.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.707.jpg"
   },
   {
     "id": "p_unique_437",
@@ -15526,7 +15526,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.scentstore.com/wp-content/uploads/2021/09/Mugler-Alien-Goddess-Eau-de-Parfum-Refill-Bottle.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.707.jpg"
   },
   {
     "id": "p_unique_438",
@@ -15561,7 +15561,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD9GyT35hB-J6FdGs5Xfr_bLpUVeV9_OiOrW_WY0laZvyLu6PhyE67Tr95dXEhVAgJfzuHKOUFDmJz-egPis59WyebPay7Cim0QwWRaDB47r1Swu11PlHjaDWmqkM59LBeYWXtzu5uk9--JmJqjitAaAnS6FjQEx_YYh9Lti0jN8rajDqEaRw2H8Eyhw/s2736/Mugler Alien Goddess Intense Eau de Parfum Review, Photos.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.707.jpg"
   },
   {
     "id": "p_unique_439",
@@ -15596,7 +15596,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://the-fragrance-shop.imgix.net/products/63603.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.707.jpg"
   },
   {
     "id": "p_unique_440",
@@ -15631,7 +15631,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://ifragranceofficial.com/wp-content/uploads/2024/01/Mugler-Alien-Hypersense-new-fragrance.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.707.jpg"
   },
   {
     "id": "p_unique_441",
@@ -15666,7 +15666,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/social.16041.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.707.jpg"
   },
   {
     "id": "p_unique_442",
@@ -15701,7 +15701,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://splashfragrance.in/wp-content/uploads/2020/11/product-logo-website-editing-1-1.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.707.jpg"
   },
   {
     "id": "p_unique_443",
@@ -15736,7 +15736,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/09/Alien-Liqueur-de-Parfum-2009-by-Mugler.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.707.jpg"
   },
   {
     "id": "p_unique_444",
@@ -15771,7 +15771,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://cdn.aroma-butik.ru/images/categories/goods_full/1608893607_48861_1608893607_MUGLER_Alien_Magie_D_Une_Nouvelle.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.707.jpg"
   },
   {
     "id": "p_unique_445",
@@ -15806,7 +15806,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/80552m.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.707.jpg"
   },
   {
     "id": "p_unique_446",
@@ -15841,7 +15841,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancebd.com/wp-content/uploads/2021/09/Mugler-Alien-Man-Mirage-EDT-100mL.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.707.jpg"
   },
   {
     "id": "p_unique_447",
@@ -15876,7 +15876,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/walitm17.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.707.jpg"
   },
   {
     "id": "p_unique_448",
@@ -15911,7 +15911,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/10/alien-mirage-by-mugler-1.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.707.jpg"
   },
   {
     "id": "p_unique_449",
@@ -15946,7 +15946,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://inter.mugler.com/dw/image/v2/BDCR_PRD/on/demandware.static/-/Sites-mugler-master-catalog/default/dw73ff50dd/images/pdp/M010401002/3439600056921_alien_60ml_refillable_main_v2.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.707.jpg"
   },
   {
     "id": "p_unique_450",
@@ -15981,7 +15981,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/photogram/p1200/za/pg/W89NcWNhG97ENq1j.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.707.jpg"
   },
   {
     "id": "p_unique_451",
@@ -16016,7 +16016,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/158110_img-1092-mugler-alien-brume-cheveux_720.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.707.jpg"
   },
   {
     "id": "p_unique_452",
@@ -16051,7 +16051,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/alimm34.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.707.jpg"
   },
   {
     "id": "p_unique_453",
@@ -16086,7 +16086,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.myperfumeshop.co.za/wp-content/uploads/2023/07/theirry-mugler-alien-oud-majestueux-eau-de-parfum-90ml.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.707.jpg"
   },
   {
     "id": "p_unique_454",
@@ -16121,7 +16121,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/asunordmvs.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.707.jpg"
   },
   {
     "id": "p_unique_455",
@@ -16156,7 +16156,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/480/7112_7yjqfj_alien_sunessence_edition_saphir_soleil_480.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.707.jpg"
   },
   {
     "id": "p_unique_456",
@@ -16191,7 +16191,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/angeasts17.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.707.jpg"
   },
   {
     "id": "p_unique_457",
@@ -16226,7 +16226,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fraguru.com/mdimg/perfume/social.32437.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.707.jpg"
   },
   {
     "id": "p_unique_458",
@@ -16261,7 +16261,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/480/102552_img-8218-mugler_thierry_mugler-alien_talisman_bijou_24_carats_480.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.707.jpg"
   },
   {
     "id": "p_unique_459",
@@ -16296,7 +16296,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://assets.goldenscent.com/catalog/product/cache/1/small_image/750x750/9df78eab33525d08d6e5fb8d27136e95/3/4/3439600042900-thierry-mugler-thierry-mugler-alien-specimen-unique-collector-_w_-edp-60-ml.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.707.jpg"
   },
   {
     "id": "p_unique_460",
@@ -16331,7 +16331,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Tiziana Terenzi. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/TizTY5.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_461",
@@ -16366,7 +16366,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Penhaligon's. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/74267w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_462",
@@ -16401,7 +16401,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from XerJoff. A compelling explorations of notes.",
-    "aesthetic_image": "https://splashfragrance.in/wp-content/uploads/2019/12/product-logo-website-editing-13.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_463",
@@ -16436,7 +16436,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Electimuss. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/social.61820.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_464",
@@ -16471,7 +16471,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Narciso Rodriguez. A compelling explorations of notes.",
-    "aesthetic_image": "https://parfumplusmag.com/wp-content/uploads/2023/10/r-all-of-me-narcisco-rodriguez-jpg.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_465",
@@ -16506,7 +16506,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/78487w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_466",
@@ -16541,7 +16541,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/armaw345i.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_467",
@@ -16576,7 +16576,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://perfumearena.com/wp-content/uploads/all-you-need-is-love-pour-homme-armaf.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_468",
@@ -16611,7 +16611,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/armaw348e.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_469",
@@ -16646,7 +16646,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Maison Francis Kurkdjian. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/11/allegria-by-maison-francis-kurkdjian-1.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_470",
@@ -16681,7 +16681,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Sospiro. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/08/allegro-by-sospiro.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_471",
@@ -16716,7 +16716,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from XerJoff. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/shoxe0.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_472",
@@ -16751,7 +16751,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Chanel. A compelling explorations of notes.",
-    "aesthetic_image": "https://puls-img.chanel.com/1672414383446-sitev3landingpagemajorpush1080x1150pxdesktopedtahsbw1jpg_1150x1080.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_473",
@@ -16786,7 +16786,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Chanel. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/social.176.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_474",
@@ -16821,7 +16821,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Chanel. A compelling explorations of notes.",
-    "aesthetic_image": "https://thumbs.worthpoint.com/zoom/images2/1/0423/15/vintage-chanel-parfum-perfume-bottle_1_fa9dc04ec2ef9d97af94cb1667cd7db6.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_475",
@@ -16856,7 +16856,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Chanel. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.eshtir.com/wp-content/uploads/2024/06/CHANEL-COCO-MADEMOISELLE-PARFUM-CHEVEUX-HAIR-PERFUME-35ML-1-900x900.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_476",
@@ -16891,7 +16891,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Chanel. A compelling explorations of notes.",
-    "aesthetic_image": "https://puls-img.chanel.com/1658416830189-8837670993950webp_819x768.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_477",
@@ -16926,7 +16926,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Chanel. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.pinimg.com/736x/de/1a/05/de1a055413513d70611eb9b73c5102a7.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_478",
@@ -16961,7 +16961,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Chanel. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/66381_ak5eur_allure_homme_edition_blanche_after_shave_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_479",
@@ -16996,7 +16996,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Chanel. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.chanel.com/images/t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_1920/allure-homme-after-shave-lotion-100ml-packshot-default-121060-8833878261790.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_480",
@@ -17031,7 +17031,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Chanel. A compelling explorations of notes.",
-    "aesthetic_image": "https://puls-img.chanel.com/1672414383446-sitev3landingpagemajorpush1080x1150pxdesktopedtahsbw1jpg_1150x1080.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_481",
@@ -17066,7 +17066,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Chanel. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/66380_qm0hhg_allure_homme_after_shave_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_482",
@@ -17101,7 +17101,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Chanel. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.chanel.com/images/t_one/t_fragrance/q_auto:good,f_auto,fl_lossy,dpr_1.2/w_1920/allure-homme-all-over-spray-3-4fl-oz--packshot-default-121820-9522413469726.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_483",
@@ -17136,7 +17136,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Chanel. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/secundar/o.14597.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_484",
@@ -17171,7 +17171,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Chanel. A compelling explorations of notes.",
-    "aesthetic_image": "https://puls-img.chanel.com/1672414383446-sitev3landingpagemajorpush1080x1150pxdesktopedtahsbw1jpg_1150x1080.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_485",
@@ -17206,7 +17206,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Chanel. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/3/3/66382_61d7031e6404cddc91d4ecd70a03de81_allure_homme_sport_after_shave.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_486",
@@ -17241,7 +17241,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Chanel. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.chanel.com/puls-img/1717603204225-slider1djpg_1600x2880.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_487",
@@ -17276,7 +17276,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Chanel. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.chanel.com/images/t_one/w_0.51,h_0.51,c_crop/q_auto:good,f_auto,fl_lossy,dpr_1.1/w_1920/allure-homme-eau-de-toilette-spray-3-4fl-oz--packshot-default-121460-9564890333214.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_488",
@@ -17311,7 +17311,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Chanel. A compelling explorations of notes.",
-    "aesthetic_image": "https://scentselective.com/wp-content/uploads/2023/02/Chanel-Allure-Homme-Sport-vs.-Eau-Extreme-Comparison.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_489",
@@ -17346,7 +17346,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Chanel. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.pinimg.com/736x/14/fd/94/14fd94a58bd5f2f08d9661674298ead1.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_490",
@@ -17381,7 +17381,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Chanel. A compelling explorations of notes.",
-    "aesthetic_image": "https://amazonleftover.com/wp-content/uploads/2025/06/CHANEL-ALLURE-HOMME-SPORT-Perfume-1.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_491",
@@ -17416,7 +17416,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Chanel. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.chanel.com/puls-img/1728556271892-onepdpeditopushdesktopmobile01974x1298pxjpg_1299x974.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_492",
@@ -17451,7 +17451,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Chanel. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.ltwebstatic.com/images3_spmp/2024/10/04/91/17280006601da7a0e4169283b8fbc0e296b3b032fc_thumbnail_900x.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_493",
@@ -17486,7 +17486,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Chanel. A compelling explorations of notes.",
-    "aesthetic_image": "https://puls-img.chanel.com/1696939314106-9566763515934artdetailsdjpeg_1352x1270.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_494",
@@ -17521,7 +17521,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mizensir. A compelling explorations of notes.",
-    "aesthetic_image": "https://parfumistas.com/wp-content/uploads/2024/08/mizensir_alma_de_rosario_b.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_495",
@@ -17556,7 +17556,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Kajal. A compelling explorations of notes.",
-    "aesthetic_image": "https://cdn.ecommercedns.uk/files/7/254947/1/50630771/img-3247.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_496",
@@ -17591,7 +17591,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Parfums de Marly. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.wikiscents.com/uploads/1-24-08-2023-13-49-13-Althaïr.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_497",
@@ -17626,7 +17626,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Kajal. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/79936m.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_498",
@@ -17661,7 +17661,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Penhaligon's. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.fragrancesamplesuk.com/media/catalog/product/cache/0ac0516e26f0560d9a76e8e2dd4b6632/a/l/alula.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_499",
@@ -17696,7 +17696,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Fragrance Du Bois. A compelling explorations of notes.",
-    "aesthetic_image": "https://splashfragrance.in/wp-content/uploads/2023/09/Producer-Michael-By-Fragrance-Du-Bois-EDP-Perfume-min.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_500",
@@ -17731,7 +17731,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from XerJoff. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/XerXNL.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_501",
@@ -17766,7 +17766,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Creed. A compelling explorations of notes.",
-    "aesthetic_image": "https://fraguru.com/mdimg/perfume/375x500.4247.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_502",
@@ -17801,7 +17801,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/72079w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_503",
@@ -17836,7 +17836,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Amouage. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/11/amanie-by-amouage-1.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_504",
@@ -17871,7 +17871,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Penhaligon's. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.le-parfum.fr/542-thickbox/amaranthine-penhaligon-s-2009.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_505",
@@ -17906,7 +17906,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Penhaligon's. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.le-parfum.fr/542-thickbox/amaranthine-penhaligon-s-2009.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_506",
@@ -17941,7 +17941,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Givenchy. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/1534w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_507",
@@ -17976,7 +17976,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Givenchy. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.pinimg.com/originals/7d/32/31/7d3231febfd31a1138b5c537afc9d99a.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_508",
@@ -18011,7 +18011,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Givenchy. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/636w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_509",
@@ -18046,7 +18046,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Givenchy. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/161965_img-6232-givenchy-irresistible-givenchy-parfum-solide_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_510",
@@ -18081,7 +18081,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Givenchy. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/10/amarige-mariage-by-givenchy-1.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_511",
@@ -18116,7 +18116,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Givenchy. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/08/givenchy-harvest-2007-amarige-mimosa-by-givenchy.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_512",
@@ -18151,7 +18151,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Givenchy. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.8308.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_513",
@@ -18186,7 +18186,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Givenchy. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.759.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_514",
@@ -18221,7 +18221,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Givenchy. A compelling explorations of notes.",
-    "aesthetic_image": "https://media.parfumo.com/perfume_imagery/4b/4b8a88-amarige-nuage-parfume-brume-parfumee-givenchy_1200.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_515",
@@ -18256,7 +18256,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Givenchy. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.pinimg.com/736x/20/0a/ce/200ace1707a81905325229ac4d5d6750.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_516",
@@ -18291,7 +18291,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Givenchy. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/77236_engy4d_amarige_parfum_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_517",
@@ -18326,7 +18326,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Givenchy. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/10/amarige-ylang-ylang-de-mayotte-2006-by-givenchy-1.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_518",
@@ -18361,7 +18361,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Givenchy. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/10/amarige-ylang-ylang-de-mayotte-2006-by-givenchy-1.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_519",
@@ -18396,7 +18396,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Givenchy. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/10/amarige-ylang-ylang-de-mayotte-2006-by-givenchy-1.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_520",
@@ -18431,7 +18431,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/08/Amazone-Eau-de-Parfum-1974-by-Hermes.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_521",
@@ -18466,7 +18466,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/08/Amazone-Eau-de-Parfum-1974-by-Hermes.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_522",
@@ -18501,7 +18501,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/1/8/94207_0aaa95b65a82630b58d1eccc8cbeb56e_amazone_eau_de_parfum.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_523",
@@ -18536,7 +18536,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/639w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_524",
@@ -18571,7 +18571,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Jo Malone. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.fragrancesamplesuk.com/media/catalog/product/cache/58bade480dd5558294577e111fa45fa4/o/b/ob-456_0efd29c7-3795-4112-9714-418fe7e643d0.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_525",
@@ -18606,7 +18606,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Jo Malone. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/112398_img-6676-jo_malone-amber__lavender_limited_edition_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_526",
@@ -18641,7 +18641,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Jo Malone. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.sisterscent.com/wp-content/uploads/2021/01/Jo-Malone-Amber-Patchouli-Huntsman-Cologne-01-1024x1024.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_527",
@@ -18676,7 +18676,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mancera. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/74411w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_528",
@@ -18711,7 +18711,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/72104w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_529",
@@ -18746,7 +18746,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Tom Ford. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.fragrancereview.com/php_assets/uploads/2021/06/Tom-Ford-Amber-Absolute.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_530",
@@ -18781,7 +18781,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Roja Parfums. A compelling explorations of notes.",
-    "aesthetic_image": "https://yperfume.net/wp-content/uploads/2021/11/118473430_1751124475053655_4098637580242770141_n-1-1024x768.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_531",
@@ -18816,7 +18816,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Roja Parfums. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.parfum-outlet.ch/media/3e/e8/85/1730116868/Roja Parfums Amber Aoud Crystal.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_532",
@@ -18851,7 +18851,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Roja Parfums. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/131440_img-3988-roja-parfums-amber-aoud-hair-mist_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_533",
@@ -18886,7 +18886,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Electimuss. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/social.28834.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_534",
@@ -18921,7 +18921,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://perfumearena.com/wp-content/uploads/amber-arabia-oud-pour-homme-armaf.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_535",
@@ -18956,7 +18956,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mancera. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/ManMM8.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_536",
@@ -18991,7 +18991,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Calvin Klein. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/77086w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_537",
@@ -19026,7 +19026,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Calvin Klein. A compelling explorations of notes.",
-    "aesthetic_image": "https://assets.goldenscent.com/catalog/product/cache/1/small_image/750x750/9df78eab33525d08d6e5fb8d27136e95/g/o/golden_scent_perfume_calvin_klein_perfumes_euphoria_men_amber_gold_for_men_eau_de_perfum.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_538",
@@ -19061,7 +19061,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from XerJoff. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/ShoX9Y.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_539",
@@ -19096,7 +19096,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Fragrance Du Bois. A compelling explorations of notes.",
-    "aesthetic_image": "https://nichegallerie.s3.amazonaws.com/wp-content/uploads/2024/11/09052618/Fragrance-Du-Bois-Oud-Amber-Intense-100ML-1_nichegallerie.com_.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_540",
@@ -19131,7 +19131,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Narciso Rodriguez. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/67921w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_541",
@@ -19166,7 +19166,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/MonMW34EDW.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_542",
@@ -19201,7 +19201,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Kilian. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/74815w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_543",
@@ -19236,7 +19236,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Rasasi. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2024/02/Amber-Oudh-by-Rasasi.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_544",
@@ -19271,7 +19271,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Prada. A compelling explorations of notes.",
-    "aesthetic_image": "https://assets.goldenscent.com/catalog/product/cache/6/small_image/750x750/9df78eab33525d08d6e5fb8d27136e95/p/r/prada_amber_pour_homme_intense.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_545",
@@ -19306,7 +19306,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Prada. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/67239_bih6ng_amber_pour_homme_metallic_edition_limited_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_546",
@@ -19341,7 +19341,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Prada. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/4/2/132024_4d36af7ad4a887c482760fc8eb8a2a72_amber-pour-homme-after-shave-lotion.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_547",
@@ -19376,7 +19376,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Prada. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/7/4/1_e77aae799bfded5b1cc3e47818a66228.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_548",
@@ -19411,7 +19411,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Amouage. A compelling explorations of notes.",
-    "aesthetic_image": "https://scentadvice.com/wp-content/uploads/2021/03/5506_img-4845-amouage-badr_al_badour_240.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_549",
@@ -19446,7 +19446,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Roja Parfums. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/74781w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_550",
@@ -19481,7 +19481,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Ex Nihilo. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.39886.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_551",
@@ -19516,7 +19516,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Ex Nihilo. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/07/amber-sky-signature-rose-de-mai-by-ex-nihilo.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_552",
@@ -19551,7 +19551,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Amouage. A compelling explorations of notes.",
-    "aesthetic_image": "https://ifragranceofficial.com/wp-content/uploads/2023/04/Amouage-amber-sogara-700x700.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_553",
@@ -19586,7 +19586,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from XerJoff. A compelling explorations of notes.",
-    "aesthetic_image": "https://fraguru.com/mdimg/perfume/375x500.21618.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_554",
@@ -19621,7 +19621,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mancera. A compelling explorations of notes.",
-    "aesthetic_image": "https://static.wixstatic.com/media/7ba0b8_5bd37d0510574e809a9be4f3d3270f80~mv2.png/v1/fill/w_980,h_980,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/7ba0b8_5bd37d0510574e809a9be4f3d3270f80~mv2.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_555",
@@ -19656,7 +19656,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Electimuss. A compelling explorations of notes.",
-    "aesthetic_image": "https://cdn.imgbin.com/12/17/20/imgbin-perfume-agarwood-oud-price-ambergris-eid-mubarak-gold-fragrance-bottle-rCwqTsNGqrSFcgaKsF3vZVwL1.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_556",
@@ -19691,7 +19691,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Rasasi. A compelling explorations of notes.",
-    "aesthetic_image": "https://theperfumeshop.pk/wp-content/uploads/2023/11/Ambition-pour-homme-by-rasasi-the-perfume-shop-pk.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_557",
@@ -19726,7 +19726,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Rasasi. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/social.26316.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_558",
@@ -19761,7 +19761,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Nishane. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/77765w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_559",
@@ -19796,7 +19796,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Marcel Guerlain / Hughes Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://rlalique.com/Sections/AuctionItems/lalique-auction-photo/ambre-perfume-bottle-for-isabey-marcel-guerlain-rene-lalique-7-8-14.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_560",
@@ -19831,7 +19831,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/84596_qh75ig_ambre_eternel_collector_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_561",
@@ -19866,7 +19866,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.helloperfume.net/images/perfume/guerlain/ambre-samar-guerlain.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_562",
@@ -19901,7 +19901,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Creed. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/social.7516.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_563",
@@ -19936,7 +19936,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Chanel. A compelling explorations of notes.",
-    "aesthetic_image": "https://rlalique.com/Sections/AuctionItems/lalique-auction-photo/chypre-ambre-perfume-bottle-for-volnay-by-rene-lalique-3-2-14.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_564",
@@ -19971,7 +19971,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Boucheron. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/ambdal41ew.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_565",
@@ -20006,7 +20006,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Ex Nihilo. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/social.41433.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_566",
@@ -20041,7 +20041,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://rlalique.com/Sections/AuctionItems/lalique-auction-photo/ambre-perfume-bottle-for-isabey-marcel-guerlain-rene-lalique-7-8-14.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_567",
@@ -20076,7 +20076,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mizensir. A compelling explorations of notes.",
-    "aesthetic_image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqWvk86LtiLV_7hylBmFaB1MgKnlsFqoMEyaxVge5DsTr2lu4dWb0O12zvz454hlte03U5Z1ufAVDO0gtw7bUsf82fh3_nrVPiQRzJ4CeOYNzT6PJ3UhszGwIUDtbFL3x51IxhqP31hOhfpbEmKYRac-DG7pTi3jP-SyqK-FH4FNnn7Cv57RyZm60Xqw/w572-h640/MIZENSIR AMBRE MAGIQUE (2).png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_568",
@@ -20111,7 +20111,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.fragrancesamplesuk.com/media/catalog/product/cache/0ac0516e26f0560d9a76e8e2dd4b6632/n/a/narguile.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_569",
@@ -20146,7 +20146,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Dior. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/10/ambre-nuit-by-dior-1.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_570",
@@ -20181,7 +20181,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Givenchy. A compelling explorations of notes.",
-    "aesthetic_image": "https://thefragranceoil.com/wp-content/uploads/2025/06/Givenchy-Ambre-Tigre.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_571",
@@ -20216,7 +20216,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Givenchy. A compelling explorations of notes.",
-    "aesthetic_image": "https://thefragranceoil.com/wp-content/uploads/2025/06/Givenchy-Ambre-Tigre.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_572",
@@ -20251,7 +20251,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Le Labo. A compelling explorations of notes.",
-    "aesthetic_image": "https://wikifragancias.com/images/perfumes/le-labo/ambrette-9-eau-de-parfum/400.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_573",
@@ -20286,7 +20286,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Le Labo. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/480/89141_8pt2iu_ambrette_9_liquid_balm_480.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_574",
@@ -20321,7 +20321,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Le Labo. A compelling explorations of notes.",
-    "aesthetic_image": "https://wikifragancias.com/images/perfumes/le-labo/ambrette-9-perfume-oil/400.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_575",
@@ -20356,7 +20356,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Le Labo. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/78502w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_576",
@@ -20391,7 +20391,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mancera. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.fragrancesamplesuk.com/media/catalog/product/cache/58bade480dd5558294577e111fa45fa4/a/m/amorrecafe.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_577",
@@ -20426,7 +20426,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Roja Parfums. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.notino.com/view/roja-parfums/rojammu_apar20_02__10.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_578",
@@ -20461,7 +20461,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Amouage. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/8/4/132270_0a091f1206adfbba73f0440622708fb7_amouage-eau-de-toilette.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_579",
@@ -20496,7 +20496,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Amouage. A compelling explorations of notes.",
-    "aesthetic_image": "https://ifragranceofficial.com/wp-content/uploads/2023/11/Amouage-Cristal-Gold-2023.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_580",
@@ -20531,7 +20531,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Amouage. A compelling explorations of notes.",
-    "aesthetic_image": "https://media.parfumo.com/perfume_imagery/fc/fc4bbf-amouage-ladies-eau-de-parfum-amouage_1200.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_581",
@@ -20566,7 +20566,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Amouage. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/3/1/139358_7d733d0f514e1e7d80e02c7f01314e75_amouage-ladies-perfume.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_582",
@@ -20601,7 +20601,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from XerJoff. A compelling explorations of notes.",
-    "aesthetic_image": "https://newfragrance.com/resources/content/product/gallery/amphorae-16-xerjoff-169113.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_583",
@@ -20636,7 +20636,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from XerJoff. A compelling explorations of notes.",
-    "aesthetic_image": "https://ifragranceofficial.com/wp-content/uploads/2022/09/17.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_584",
@@ -20671,7 +20671,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from XerJoff. A compelling explorations of notes.",
-    "aesthetic_image": "https://newfragrance.com/resources/content/product/gallery/amphorae-27-xerjoff-169120.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_585",
@@ -20706,7 +20706,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from XerJoff. A compelling explorations of notes.",
-    "aesthetic_image": "https://ifragranceofficial.com/wp-content/uploads/2022/09/48.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_586",
@@ -20741,7 +20741,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from XerJoff. A compelling explorations of notes.",
-    "aesthetic_image": "https://newfragrance.com/resources/content/product/gallery/amphorae-48-xerjoff-169129.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_587",
@@ -20776,7 +20776,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from XerJoff. A compelling explorations of notes.",
-    "aesthetic_image": "https://ifragranceofficial.com/wp-content/uploads/2022/09/48.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_588",
@@ -20811,7 +20811,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Maison Francis Kurkdjian. A compelling explorations of notes.",
-    "aesthetic_image": "https://resim.parfum.gen.tr/mod_gallery/mod_parfum/original/adgZTFDZCD1W3Vd.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_589",
@@ -20846,7 +20846,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Maison Francis Kurkdjian. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.ltwebstatic.com/images3_spmp/2024/11/27/26/173270649533de6562d646a17e66e7552dcedba0b4_thumbnail_900x.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_590",
@@ -20881,7 +20881,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Maison Francis Kurkdjian. A compelling explorations of notes.",
-    "aesthetic_image": "https://ratner-beauty.store/image/catalog/product-foto/Maison-Francis-Kurkdjian/Amyris-Femme-Maison-Francis-Kurkdjian.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_591",
@@ -20916,7 +20916,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Maison Francis Kurkdjian. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.ltwebstatic.com/images3_spmp/2024/11/27/26/173270649533de6562d646a17e66e7552dcedba0b4_thumbnail_900x.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_592",
@@ -20951,7 +20951,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Maison Francis Kurkdjian. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.ltwebstatic.com/images3_spmp/2024/11/27/26/173270649533de6562d646a17e66e7552dcedba0b4_thumbnail_900x.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_593",
@@ -20986,7 +20986,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Maison Francis Kurkdjian. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.ltwebstatic.com/images3_spmp/2024/11/27/26/173270649533de6562d646a17e66e7552dcedba0b4_thumbnail_900x.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_594",
@@ -21021,7 +21021,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Sospiro. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/andsw34ed.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_595",
@@ -21056,7 +21056,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Tiziana Terenzi. A compelling explorations of notes.",
-    "aesthetic_image": "https://cdn.basler-beauty.de/out/pictures/generated/product/2/980_980_100/1486101-Tiziana-Terenzi-Andromeda-Extrait-de-Parfum-100-ml.87991a71.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_596",
@@ -21091,7 +21091,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Tiziana Terenzi. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.luxury-perfumes.net/wp-content/uploads/2023/04/tiziana-terenzi-saiph-attar-con-scatola-opt.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_597",
@@ -21126,7 +21126,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Creed. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2019/08/angelique-encens-by-creed-1.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_598",
@@ -21161,7 +21161,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/11/fr79-angelique-noire-by-guerlain-1.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_599",
@@ -21196,7 +21196,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Givenchy. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/08/harvest-2009-ange-ou-demon-fleur-doranger-by-givenchy.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_600",
@@ -21231,7 +21231,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Givenchy. A compelling explorations of notes.",
-    "aesthetic_image": "https://media.parfumo.com/perfume_imagery/1c/1c5ad1-ange-ou-demon-diamantissime-edition-eau-de-parfum-givenchy_1200.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_601",
@@ -21266,7 +21266,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Givenchy. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.8310.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_602",
@@ -21301,7 +21301,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Givenchy. A compelling explorations of notes.",
-    "aesthetic_image": "https://queperfume.es/wp-content/uploads/2023/10/Ange-ou-Demon-de-Givenchy.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_603",
@@ -21336,7 +21336,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Givenchy. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.osmoz.fr/Public/Files/perfume/f18fb7df_600.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_604",
@@ -21371,7 +21371,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Givenchy. A compelling explorations of notes.",
-    "aesthetic_image": "https://farina.com.bo/wp-content/uploads/2020/08/givenchy-ange-ou-demon-le-parfum-pr.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_605",
@@ -21406,7 +21406,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Givenchy. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.5726.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_606",
@@ -21441,7 +21441,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Givenchy. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.11712.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_607",
@@ -21476,7 +21476,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Givenchy. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.pinimg.com/736x/54/ed/ce/54edce1b45262ef50abcd59cd4278adc.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_608",
@@ -21511,7 +21511,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Givenchy. A compelling explorations of notes.",
-    "aesthetic_image": "https://media.parfumo.com/perfume_imagery/43/43bdaf-ange-ou-demon-le-secret-10th-anniversary-limited-edition-givenchy_1200.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_609",
@@ -21546,7 +21546,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Givenchy. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.notino.com/zoomMobile/givenchy/3274870002717_02-o__26.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.50743.jpg"
   },
   {
     "id": "p_unique_610",
@@ -21581,7 +21581,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Givenchy. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/10/ange-ou-demon-le-secret-edition-bal-dor-by-givenchy-1.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_611",
@@ -21616,7 +21616,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Givenchy. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/10/ange-ou-demon-le-secret-edition-riviera-by-givenchy-1.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_612",
@@ -21651,7 +21651,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Givenchy. A compelling explorations of notes.",
-    "aesthetic_image": "http://www.perfumediary.com/wp-content/uploads/2011/07/Givenchy-Ange-Ou-Demon-Le-Secret-Elixir.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_613",
@@ -21686,7 +21686,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Givenchy. A compelling explorations of notes.",
-    "aesthetic_image": "https://cdn.notinoimg.com/detail_main_hq/givenchy/3274870002748_02/givenchy-ange-ou-demon-le-secret-eau-de-toilette-fur-damen___220711.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_614",
@@ -21721,7 +21721,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Givenchy. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/2/7/18872_860fd2cba89b8258ca16d1a60e297ae6_ange_ou_demon_le_secret_lace_edition.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_615",
@@ -21756,7 +21756,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Givenchy. A compelling explorations of notes.",
-    "aesthetic_image": "https://allparfume.by/images/parfumes/givenchy_ange_ou_etrange_le_secret_poesie_d'un_parfum_santal_d'hiver.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_616",
@@ -21791,7 +21791,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Givenchy. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.osmoz.fr/Public/Files/perfume/92d04c7d_600.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_617",
@@ -21826,7 +21826,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.le-parfum.fr/3446-large_frag/angel-le-gout-du-parfum-thierry-mugler-2011.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_618",
@@ -21861,7 +21861,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.perfumestars.com/wp-content/uploads/2024/05/mugler-angel-fantasm-—-a-new-star-in-the-perfume-galaxy-2024-kopia-720x380.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_619",
@@ -21896,7 +21896,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/9/0/231320_aec496c2d721038decf067d38ff427ed_angel-eau-de-parfum-philtre-volupte.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_620",
@@ -21931,7 +21931,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://luxurycollectors.info/wp-content/uploads/Angel_Etoile_1995_Full.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_621",
@@ -21966,7 +21966,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.pinimg.com/originals/50/9b/21/509b211f4baf94f77d45c535912137fc.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_622",
@@ -22001,7 +22001,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.pinimg.com/originals/50/9b/21/509b211f4baf94f77d45c535912137fc.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_623",
@@ -22036,7 +22036,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/132656_img-7375-mugler-angel-etoile-bijou_720.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_624",
@@ -22071,7 +22071,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/09/Angel-Etoile-Collection-Couture-1994-by-Mugler.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_625",
@@ -22106,7 +22106,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/136911_img-5517-mugler-angel-etoile-collection-couture_720.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_626",
@@ -22141,7 +22141,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.reastars.com/wp-content/uploads/2016/10/Thierry-Mugler-Angel-toile-des-Rves.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_627",
@@ -22176,7 +22176,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/480/77017_w7ut3r_angel_winter_star_480.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_628",
@@ -22211,7 +22211,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/136912_img-2681-mugler-angel-etoile-glamour-collection-couture_720.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_629",
@@ -22246,7 +22246,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/social.42307.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_630",
@@ -22281,7 +22281,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.pinimg.com/originals/d2/50/2e/d2502eaefc09edde8cc7ee37cebbb41f.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_631",
@@ -22316,7 +22316,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/10/angel-etoile-mystique-by-mugler-1.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_632",
@@ -22351,7 +22351,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/09/Angel-Divine-Etoile-by-Mugler.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_633",
@@ -22386,7 +22386,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/480/96737_img-2356-mugler_thierry_mugler-angel_etoile_saphir_480.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_634",
@@ -22421,7 +22421,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/angtw17w0.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_635",
@@ -22456,7 +22456,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/10/alien-aqua-chic-by-mugler-1.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_636",
@@ -22491,7 +22491,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.perfumestars.com/wp-content/uploads/2024/05/mugler-angel-fantasm-—-a-new-star-in-the-perfume-galaxy-2024-kopia-720x380.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_637",
@@ -22526,7 +22526,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/136995_img-7658-mugler-angel-celebration-etoile-fatale-fatal-star_720.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_638",
@@ -22561,7 +22561,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/136996_img-2264-mugler-angel-celebration-il-etait-une-etoile-once-upon-a-star_720.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_639",
@@ -22596,7 +22596,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://perlerare63.com/storage/2023/11/Dsc_1171.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_640",
@@ -22631,7 +22631,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/social.57560.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_641",
@@ -22666,7 +22666,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/10/angel-mugler-show-deluxe-superstar-by-mugler-1.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_642",
@@ -22701,7 +22701,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/136993_img-2980-mugler-angel-divine-etoile-divine-star_720.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_643",
@@ -22736,7 +22736,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/11/angel-eau-croisiere-2019-by-mugler-1.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_644",
@@ -22771,7 +22771,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/02/angel-eau-croisiere-2020-by-mugler.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_645",
@@ -22806,7 +22806,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/09/Angel-Eau-Sucree-2014-by-Mugler.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_646",
@@ -22841,7 +22841,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://m2.paperblog.com/i/231/2310618/thierry-mugler-angel-eau-sucree-fragrance-pre-T-U2cBTj.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_647",
@@ -22876,7 +22876,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://perfumediary.com/media/reviews/photos/original/e2/2a/ef/thierry-mugler-angel-eau-sucree-2017-35-1487855786.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_648",
@@ -22911,7 +22911,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://cdn.aromo.ru/upload/resize_cache/iblock/663/95fmc772sgcdmxgfybgdudalf219ibad/450_450_040cd750bba9870f18aada2478b24840a/mugler-angel-elixir-fantasy-collector-2023-female-2433476.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_649",
@@ -22946,7 +22946,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/angtle.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_650",
@@ -22981,7 +22981,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://ifragranceofficial.com/wp-content/uploads/2024/05/Mugler-Releases-AMen-Fantasm-and-Angel-Fantasm.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_651",
@@ -23016,7 +23016,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/angff17w.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_652",
@@ -23051,7 +23051,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/photogram/p1200/lf/0o/7SIqDo2lsqsusUyM.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_653",
@@ -23086,7 +23086,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/07/angel-iced-star-by-mugler.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_654",
@@ -23121,7 +23121,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/photogram/p1200/0n/yc/ZEJNLWqKN1LL4gTk.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_655",
@@ -23156,7 +23156,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fraguru.com/mdimg/perfume/social.16040.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_656",
@@ -23191,7 +23191,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/social.19417.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_657",
@@ -23226,7 +23226,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/77027w.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_658",
@@ -23261,7 +23261,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/09/Angel-Lucky-Star-by-Mugler.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_659",
@@ -23296,7 +23296,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://media.superdrug.com/medias/sys_master/prd-images/hea/h1f/9783086809118/prd-ls4-828811_600x600/prd-ls4-828811-600x600.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_660",
@@ -23331,7 +23331,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/photogram/p1200/kf/jr/F46o8cwC86qwz8je.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_661",
@@ -23366,7 +23366,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.pinimg.com/originals/50/9b/21/509b211f4baf94f77d45c535912137fc.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_662",
@@ -23401,7 +23401,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://product.hstatic.net/1000340570/product/angel-100ml_71f2b5678b0d4e51837373512549e036_grande.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_663",
@@ -23436,7 +23436,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fraguru.com/mdimg/secundar/o.63032.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_664",
@@ -23471,7 +23471,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/81232_img-1186-mugler-angel-brume-cheveux_720.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_665",
@@ -23506,7 +23506,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://inter.mugler.com/dw/image/v2/BDCR_PRD/on/demandware.static/-/Sites-mugler-master-catalog/default/dw4609fb00/images/pdp/M010101003/3439600056532-angel-eau-de-parfum-50ml-alt1.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_666",
@@ -23541,7 +23541,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/10/angel-mugler-show-star-by-mugler-1.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_667",
@@ -23576,7 +23576,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/480/77019_img-6290-mugler-angel-mugler-show-deluxe-superstar_480.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_668",
@@ -23611,7 +23611,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://s.cdnshm.com/products/l/1515191/thierry-mugler-angel-eau-de-parfum-100-ml.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_669",
@@ -23646,7 +23646,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/himg/o.67032.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_670",
@@ -23681,7 +23681,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.oriprofumi.it/wp-content/uploads/2023/04/155f15e3bb995e6da690a4148dfcbf0bdf9ade87_b2aa88ee-759f-4530-ac79-front.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_671",
@@ -23716,7 +23716,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/09/Angel-Nova-Eau-de-Toilette-by-Mugler.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_672",
@@ -23751,7 +23751,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/3/0/21593_c1860e7b551c520f9ee4a74a0cdcf075_angel_precious_star.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_673",
@@ -23786,7 +23786,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/10/angel-secret-star-by-mugler-1.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_674",
@@ -23821,7 +23821,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/photogram/p1200/4c/x1/m41O1EDfzZ6IstPZ.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_675",
@@ -23856,7 +23856,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://parfumistas.com/wp-content/uploads/2024/08/perfume_angel_sunessence_ocean_dargent_mugler_0.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_676",
@@ -23891,7 +23891,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/67301w.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.704.jpg"
   },
   {
     "id": "p_unique_677",
@@ -23926,7 +23926,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Kilian. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.lazcdn.com/g/p/20ae7d543c5bb554932022f34405ef20.png_720x720q80.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.62615.jpg"
   },
   {
     "id": "p_unique_678",
@@ -23961,7 +23961,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Kilian. A compelling explorations of notes.",
-    "aesthetic_image": "https://libre.by/wp-content/uploads/2024/04/kilian_angels_share_x_french_montana-860x860.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.62615.jpg"
   },
   {
     "id": "p_unique_679",
@@ -23996,7 +23996,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Afnan Perfumes. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/1/8/188433_9f805a517121a2961f81e8553cf03741_edict-ouddiction-perfume-oil.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_680",
@@ -24031,7 +24031,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Nishane. A compelling explorations of notes.",
-    "aesthetic_image": "https://perfume-malaysia.com/wp-content/uploads/2020/09/ani.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_681",
@@ -24066,7 +24066,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Nishane. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/3/1/154514_8678efcf82afadfa1766c32e2c4b1b35_ani-hair-perfume.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_682",
@@ -24101,7 +24101,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Nishane. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/78622w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_683",
@@ -24136,7 +24136,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Byredo. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.fragrancesamplesuk.com/media/catalog/product/cache/58bade480dd5558294577e111fa45fa4/a/n/animalique.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_684",
@@ -24171,7 +24171,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Sospiro. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/08/sospiro-anniversary-by-sospiro.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_685",
@@ -24206,7 +24206,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Le Labo. A compelling explorations of notes.",
-    "aesthetic_image": "https://perfume-malaysia.com/wp-content/uploads/2021/05/another-13.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_686",
@@ -24241,7 +24241,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Le Labo. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/117711_img-8189-le_labo-another_13_liquid_balm_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_687",
@@ -24276,7 +24276,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Le Labo. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/480/124288_img-1605-le_labo-another_13_perfume_oil_480.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_688",
@@ -24311,7 +24311,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Chanel. A compelling explorations of notes.",
-    "aesthetic_image": "https://fraganceroscolombia.com.co/wp-content/uploads/2022/12/ESTUCHE-GUESS-1981.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_689",
@@ -24346,7 +24346,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Chanel. A compelling explorations of notes.",
-    "aesthetic_image": "https://cdn.notinoimg.com/detail_thumb/chanel/chabdcm_dasw/chanel-bleu-de-chanel-lotion-apres-rasage-pour-homme___25.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_690",
@@ -24381,7 +24381,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Chanel. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/657m.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_691",
@@ -24416,7 +24416,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mizensir. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/social.79830.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_692",
@@ -24451,7 +24451,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Roja Parfums. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/77733w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_693",
@@ -24486,7 +24486,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/72080w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_694",
@@ -24521,7 +24521,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/72101w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_695",
@@ -24556,7 +24556,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mancera. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/manabc4.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_696",
@@ -24591,7 +24591,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/72098w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_697",
@@ -24626,7 +24626,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mancera. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/74178w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_698",
@@ -24661,7 +24661,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mancera. A compelling explorations of notes.",
-    "aesthetic_image": "https://thefragranceboss.co.za/wp-content/uploads/2025/03/20250225_154001-scaled.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_699",
@@ -24696,7 +24696,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/sku/large/mont34aouc.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_700",
@@ -24731,7 +24731,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/74291w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_701",
@@ -24766,7 +24766,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/montaouev34.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_702",
@@ -24801,7 +24801,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mancera. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/77842w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_703",
@@ -24836,7 +24836,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/MAF17P.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_704",
@@ -24871,7 +24871,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/75646w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_705",
@@ -24906,7 +24906,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/mtog17.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_706",
@@ -24941,7 +24941,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/76464w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_707",
@@ -24976,7 +24976,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/mtaola34w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_708",
@@ -25011,7 +25011,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/montaolavw.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_709",
@@ -25046,7 +25046,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/mtaole34.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_710",
@@ -25081,7 +25081,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/small/monmw34x1.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_711",
@@ -25116,7 +25116,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mancera. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.fragrancesamplesuk.com/media/catalog/product/cache/0ac0516e26f0560d9a76e8e2dd4b6632/a/o/aoudlemonmint.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_712",
@@ -25151,7 +25151,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/mnaol34w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_713",
@@ -25186,7 +25186,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mancera. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/maoul4ozw.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_714",
@@ -25221,7 +25221,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/mam17pw.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_715",
@@ -25256,7 +25256,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/momao3.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_716",
@@ -25291,7 +25291,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/maam17ps.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_717",
@@ -25326,7 +25326,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/monmw8f.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_718",
@@ -25361,7 +25361,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mancera. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/manmw43b.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_719",
@@ -25396,7 +25396,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/74303w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_720",
@@ -25431,7 +25431,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/moqr34ps.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_721",
@@ -25466,7 +25466,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/72082w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_722",
@@ -25501,7 +25501,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Roja Parfums. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/RAOJAOUP.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_723",
@@ -25536,7 +25536,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/74289w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_724",
@@ -25571,7 +25571,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mancera. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/MAOUSW.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_725",
@@ -25606,7 +25606,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/72049w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_726",
@@ -25641,7 +25641,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mancera. A compelling explorations of notes.",
-    "aesthetic_image": "https://thefragranceboss.co.za/wp-content/uploads/2025/03/20250225_153519-scaled.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_727",
@@ -25676,7 +25676,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/mtaos34.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_728",
@@ -25711,7 +25711,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/72107w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_729",
@@ -25746,7 +25746,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/monmw33pc.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_730",
@@ -25781,7 +25781,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mancera. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/manauovani.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_731",
@@ -25816,7 +25816,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/72093w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_732",
@@ -25851,7 +25851,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mancera. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/manouvw.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_733",
@@ -25886,7 +25886,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Roja Parfums. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/2/0/165208_b5acb6e51583ece61ac01665d4c4825d_apex.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_734",
@@ -25921,7 +25921,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Roja Parfums. A compelling explorations of notes.",
-    "aesthetic_image": "https://madisonperfumery.com/wp-content/uploads/apex-parfum-fragrance-roja-parfums-50ml-112468.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_735",
@@ -25956,7 +25956,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from XerJoff. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.helloperfume.net/images/perfume/xerjoff/apollonia-xerjoff.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_736",
@@ -25991,7 +25991,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Maison Francis Kurkdjian. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.pinimg.com/736x/99/4c/44/994c446f50d98c63969c618ddc953620.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_737",
@@ -26026,7 +26026,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Maison Francis Kurkdjian. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/09/APOM-Pour-Homme-by-Maison-Francis-Kurkdjian.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_738",
@@ -26061,7 +26061,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Maison Francis Kurkdjian. A compelling explorations of notes.",
-    "aesthetic_image": "https://fraguru.com/photogram/p1200/kf/n0/YR5VtXGTzpZwxg5u.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_739",
@@ -26096,7 +26096,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Kilian. A compelling explorations of notes.",
-    "aesthetic_image": "https://luxury-fragrance.eu/wp-content/uploads/2024/11/3700550226550_0.jpg-1024x1024.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_740",
@@ -26131,7 +26131,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Kilian. A compelling explorations of notes.",
-    "aesthetic_image": "https://assets.goldenscent.com/catalog/product/cache/1/small_image/750x750/9df78eab33525d08d6e5fb8d27136e95/3/7/3700550226550_-_kilian_-_apple_brandy_on_the_rocks_unisex_eau_de_parfum_refillable_-_50ml_-_fd.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_741",
@@ -26166,7 +26166,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.parfum.hu/uploads/cache/fb_og_image/uploads/media/2/7/1/f/apres-l-ondee-guerlain-eau-de-toilette-noi-parfum-1.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_742",
@@ -26201,7 +26201,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.parfum.hu/uploads/cache/fb_og_image/uploads/media/2/7/1/f/apres-l-ondee-guerlain-eau-de-toilette-noi-parfum-1.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_743",
@@ -26236,7 +26236,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Afnan Perfumes. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/5/3/150615_a48a38bcd03054ce66dc56dc14eef961_aqeeq-perfume-oil.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_744",
@@ -26271,7 +26271,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/09/aqua-allegoria-angelique-lilas-by-guerlain-1.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_745",
@@ -26306,7 +26306,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/aqalanbe42.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_746",
@@ -26341,7 +26341,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/77807w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_747",
@@ -26376,7 +26376,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://parfumistas.com/wp-content/uploads/2024/08/perfume_aqua_allegoria_bouquet_de_mai_guerlain_0.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_748",
@@ -26411,7 +26411,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.12481.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_749",
@@ -26446,7 +26446,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://parfumistas.com/wp-content/uploads/2024/08/guerlain_aqua_allegoria_bouquet_numero_2_b.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_750",
@@ -26481,7 +26481,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/aecb25.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_751",
@@ -26516,7 +26516,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://newfragrance.com/resources/content/product/gallery/aqua-allegoria-coconut-fizz-guerlain-126384.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_752",
@@ -26551,7 +26551,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/09/aqua-allegoria-figue-iris-by-guerlain-1.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_753",
@@ -26586,7 +26586,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "http://cdn.fragrancenet.com/images/photos/250x250/327153.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_754",
@@ -26621,7 +26621,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/82572w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_755",
@@ -26656,7 +26656,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/76843w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_756",
@@ -26691,7 +26691,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/70559w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_757",
@@ -26726,7 +26726,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/aafr33w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_758",
@@ -26761,7 +26761,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/80875w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_759",
@@ -26796,7 +26796,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://ifragranceofficial.com/wp-content/uploads/2024/01/aqua-allegoria-florabloom-e1706708660318.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_760",
@@ -26831,7 +26831,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://ifragranceofficial.com/wp-content/uploads/2024/01/aqua-allegoria-florabloom-e1706708660318.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_761",
@@ -26866,7 +26866,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/09/aqua-allegoria-foliflora-by-guerlain-1.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_762",
@@ -26901,7 +26901,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://fraguru.com/mdimg/perfume/375x500.83152.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_763",
@@ -26936,7 +26936,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/AQUGPX.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_764",
@@ -26971,7 +26971,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/82225m.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_765",
@@ -27006,7 +27006,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/82865w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_766",
@@ -27041,7 +27041,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/82574w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_767",
@@ -27076,7 +27076,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/photogram/p1200/zj/jm/sVpqfQmiQYGA6CC2.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_768",
@@ -27111,7 +27111,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/aag42w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_769",
@@ -27146,7 +27146,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/aqugmg.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_770",
@@ -27181,7 +27181,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/81269w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_771",
@@ -27216,7 +27216,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://cdn1.youla.io/files/images/780_780/65/a3/65a3d3bcfd942023a1011c57-2.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_772",
@@ -27251,7 +27251,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.wikiscents.com/uploads/1-22-02-2023-13-30-11-Aqua-allegoria-harvest-mandarine-basilic.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_773",
@@ -27286,7 +27286,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.wikiscents.com/uploads/1-23-02-2023-12-09-01-Aqua-allegoria-nerolia-vetiver-harvest.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_774",
@@ -27321,7 +27321,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.wikiscents.com/uploads/1-23-02-2023-11-46-23-Aqua-allegoria-harvest-rosa-rossa.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_775",
@@ -27356,7 +27356,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://4.static.fragrancenet.com/images/photos/900x900/119736.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_776",
@@ -27391,7 +27391,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/aajasm25w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_777",
@@ -27426,7 +27426,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://ifragranceofficial.com/wp-content/uploads/2023/05/aqua-aellgoria-forte-oud-yuzu-1024x1024.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_778",
@@ -27461,7 +27461,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/aalwm.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_779",
@@ -27496,7 +27496,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://4.static.fragrancenet.com/images/photos/900x900/119736.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_780",
@@ -27531,7 +27531,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/aalb42w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_781",
@@ -27566,7 +27566,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/aalv25.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_782",
@@ -27601,7 +27601,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/70558w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_783",
@@ -27636,7 +27636,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/AQUGPX.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_784",
@@ -27671,7 +27671,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/60435w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_785",
@@ -27706,7 +27706,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/71633w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_786",
@@ -27741,7 +27741,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://ifragranceofficial.com/wp-content/uploads/2022/01/000117797-e1642787971348.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_787",
@@ -27776,7 +27776,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.celes-perfume.com/wp-content/uploads/2025/02/Guerlain-–-Aqua-Allegoria-Nettare-di-Sole-ゲラン-–-アクア-アレゴリア-ネッターレ-ディ-ソーレ.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_788",
@@ -27811,7 +27811,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/665w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_789",
@@ -27846,7 +27846,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://jurovalendo.com.br/wp-content/uploads/2021/03/perfume-orange-soleia-guerlain-aqua-allegoria-4-768x483.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_790",
@@ -27881,7 +27881,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/WAQUAPAM.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_791",
@@ -27916,7 +27916,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/aapsf25.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_792",
@@ -27951,7 +27951,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/AquGW42EDD.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_793",
@@ -27986,7 +27986,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/76844w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_794",
@@ -28021,7 +28021,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/09/aqua-allegoria-rosa-fizz-by-guerlain-1.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_795",
@@ -28056,7 +28056,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/09/aqua-allegoria-rosa-fizz-by-guerlain-1.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_796",
@@ -28091,7 +28091,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/665w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_797",
@@ -28126,7 +28126,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/aarp33w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_798",
@@ -28161,7 +28161,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/aarrguer42.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_799",
@@ -28196,7 +28196,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/135447_img-7961-guerlain-aqua-allegoria-rosa-rossa-limited-edition_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_800",
@@ -28231,7 +28231,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/aqugwf.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_801",
@@ -28266,7 +28266,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/68278w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_802",
@@ -28301,7 +28301,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/09/aqua-allegoria-tutti-kiwi-by-guerlain-1.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_803",
@@ -28336,7 +28336,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2021/12/aqua-allegoria-winter-delice-by-guerlain-1.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_804",
@@ -28371,7 +28371,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/waquaylan.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_805",
@@ -28406,7 +28406,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/07/azzaro-aqua-frost-by-azzaro.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_806",
@@ -28441,7 +28441,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://parfumistas.com/wp-content/uploads/2024/08/azzaro_aqua_cedre_blanc_b.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_807",
@@ -28476,7 +28476,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Maison Francis Kurkdjian. A compelling explorations of notes.",
-    "aesthetic_image": "https://fraguru.com/photogram/p1200/ed/is/J4uFwBk8IMBWbhbQ.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_808",
@@ -28511,7 +28511,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Maison Francis Kurkdjian. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/acf24w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_809",
@@ -28546,7 +28546,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Maison Francis Kurkdjian. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/aqcel68w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_810",
@@ -28581,7 +28581,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Dior. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/07/aqua-fahrenheit-by-dior.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_811",
@@ -28616,7 +28616,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/07/azzaro-aqua-frost-by-azzaro.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_812",
@@ -28651,7 +28651,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/monmw34ed.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_813",
@@ -28686,7 +28686,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Kenzo. A compelling explorations of notes.",
-    "aesthetic_image": "https://perfumegallery.lk/wp-content/uploads/Aqua-Kenzo-pour-Homme-Kenzo.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_814",
@@ -28721,7 +28721,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Kenzo. A compelling explorations of notes.",
-    "aesthetic_image": "https://perfumegallery.lk/wp-content/uploads/Aqua-Kenzo-pour-Homme-Kenzo.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_815",
@@ -28756,7 +28756,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Jo Malone. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.pinimg.com/originals/10/72/97/1072974c5fe1c294cf30d8a6aafb5dcc.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_816",
@@ -28791,7 +28791,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Maison Francis Kurkdjian. A compelling explorations of notes.",
-    "aesthetic_image": "https://product.hstatic.net/1000340570/product/aqua-media-cologne-forte-edp-70ml-_chai-kem-vo-hop__bb20d859e3d04860bf6a8be9f5a9643d_master.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_817",
@@ -28826,7 +28826,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://perfumaste.com/wp-content/uploads/2025/01/PERFUME-AQUA-PALMA-MONTALE.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_818",
@@ -28861,7 +28861,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from XerJoff. A compelling explorations of notes.",
-    "aesthetic_image": "https://ifragranceofficial.com/wp-content/uploads/2023/03/aurum-xerjoff-parfum-700x700.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_819",
@@ -28896,7 +28896,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Maison Francis Kurkdjian. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.celes-perfume.com/wp-content/uploads/2023/05/Maison-Francis-Kurkdjian-Aqua-Universalis-Cologne-Forte.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_820",
@@ -28931,7 +28931,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Maison Francis Kurkdjian. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/74469w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_821",
@@ -28966,7 +28966,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Maison Francis Kurkdjian. A compelling explorations of notes.",
-    "aesthetic_image": "https://luxferity.com/up/shop-news/content/mfk-aqua-media-cologne-forte-70-ml-mood-visual-2-1080x1080-1200x1200.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_822",
@@ -29001,7 +29001,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Maison Francis Kurkdjian. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/224501_img-8204-maison-francis-kurkdjian-724-brume-cheveux_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_823",
@@ -29036,7 +29036,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Maison Francis Kurkdjian. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.perfumelounge.co.za/wp-content/uploads/2022/11/Maison-Francis-Kurkdjian-Baccarat-Rouge-540-Extrait-De-Parfum-70ml.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_824",
@@ -29071,7 +29071,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/07/azzaro-aqua-verde-by-azzaro.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_825",
@@ -29106,7 +29106,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Maison Francis Kurkdjian. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.worten.pt/i/86d77dd7d29df808a90faffaacc2ebe48a78813c.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_826",
@@ -29141,7 +29141,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Maison Francis Kurkdjian. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/75369w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_827",
@@ -29176,7 +29176,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Maison Francis Kurkdjian. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/av24w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_828",
@@ -29211,7 +29211,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mancera. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.fragrancesamplesuk.com/media/catalog/product/cache/58bade480dd5558294577e111fa45fa4/a/q/aquawood.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_829",
@@ -29246,7 +29246,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Electimuss. A compelling explorations of notes.",
-    "aesthetic_image": "http://ifragranceofficial.com/wp-content/uploads/2023/06/Aquila-Absolute-Electimuss.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_830",
@@ -29281,7 +29281,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Bvlgari. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.thefashionisto.com/wp-content/uploads/2014/07/aqva_amara.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_831",
@@ -29316,7 +29316,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Bvlgari. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/0/5/132110_60dd82f4052c1ad6319d07acec968c7f_aqva-amara-body-spray.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_832",
@@ -29351,7 +29351,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Bvlgari. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/2/7/55377_e2fe82ba1f7c0b7e9ec1a289ec3ea9dc_aqva_divina.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_833",
@@ -29386,7 +29386,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Bvlgari. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/132780_img-2641-bvlgari-aqva-divina-body-mist_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_834",
@@ -29421,7 +29421,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Bvlgari. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.fragrancereview.com/php_assets/uploads/2022/11/Bvlgari-Aqva-Pour-Homme-Atlantiqve.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_835",
@@ -29456,7 +29456,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Bvlgari. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/480/68303_m8hy08_aqva_pour_homme_marine_after_shave_lotion_480.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_836",
@@ -29491,7 +29491,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Bvlgari. A compelling explorations of notes.",
-    "aesthetic_image": "https://aduft.de/userdata/public/gfx/4768/BVLGARI-Aqva-Pour-Homme-Atlantiqve---Eau-de-Toilette.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_837",
@@ -29526,7 +29526,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Bvlgari. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.fragrancereview.com/php_assets/uploads/2022/11/Bvlgari-Aqva-Pour-Homme-Atlantiqve.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_838",
@@ -29561,7 +29561,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Bvlgari. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/480/68303_m8hy08_aqva_pour_homme_marine_after_shave_lotion_480.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_839",
@@ -29596,7 +29596,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Bvlgari. A compelling explorations of notes.",
-    "aesthetic_image": "https://perfumegyaan.com/wp-content/uploads/2023/08/Bvlgari-Aqva-Pour-Homme-Marine-600x600.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_840",
@@ -29631,7 +29631,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Bvlgari. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.perfume-zone.com/media/catalog/product/cache/1/image/650x/040ec09b1e35df139433887a97daa66f/7/8/783320913327.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_841",
@@ -29666,7 +29666,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Bvlgari. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/07/aqva-pour-homme-marine-toniq-by-bvlgari.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_842",
@@ -29701,7 +29701,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/240/25517_6nvste_arome_synthetique_peau_d_espagne_240.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_843",
@@ -29736,7 +29736,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Fragrance Du Bois. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/social.59916.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_844",
@@ -29771,7 +29771,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Afnan Perfumes. A compelling explorations of notes.",
-    "aesthetic_image": "https://media.parfumo.com/perfume_imagery/98/98493d-arabian-gems-blue-afnan-perfumes_1200.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_845",
@@ -29806,7 +29806,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Afnan Perfumes. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/9/3/51696_d10f07ab80a3e512b7a2a05e8270b9a7_arabian_gems_red.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_846",
@@ -29841,7 +29841,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://lujoperfume.com/wp-content/uploads/2024/09/Eter-Arabian-Sky-100-Ml-3.4-oz-EDP-by-Armaf-9-web.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_847",
@@ -29876,7 +29876,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Tom Ford. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.pinimg.com/736x/f8/ca/e7/f8cae7db3126d8a0eef0eb5c2be3518d.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_848",
@@ -29911,7 +29911,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/monmwqx.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_849",
@@ -29946,7 +29946,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrance.mk/wp-content/uploads/2023/07/montale-arabians-tonka-edp-1.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_850",
@@ -29981,7 +29981,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Rasasi. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/142136_img-1305-rasasi-arba-wardat-concentrated-perfume_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_851",
@@ -30016,7 +30016,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Rasasi. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/81170w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_852",
@@ -30051,7 +30051,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Amouage. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.wikiscents.com/uploads/864.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_853",
@@ -30086,7 +30086,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Fragrance Du Bois. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.atr19.org/wp-content/uploads/2024/05/Fragrance-Du-Bois-Areej.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_854",
@@ -30121,7 +30121,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Tiziana Terenzi. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/74274w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_855",
@@ -30156,7 +30156,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Memo Paris. A compelling explorations of notes.",
-    "aesthetic_image": "https://newfragrance.com/resources/content/product/gallery/argentina-memo-paris-151570.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_856",
@@ -30191,7 +30191,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from XerJoff. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.helloperfume.net/images/perfume/xerjoff/aridal-xerjoff.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_857",
@@ -30226,7 +30226,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Afnan Perfumes. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.carnationperfumes.com/uploads/product/1073/gallery_large/afnan-arjowaan-oil-20ml.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_858",
@@ -30261,7 +30261,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/armg34.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_859",
@@ -30296,7 +30296,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/armg34.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_860",
@@ -30331,7 +30331,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/0/9/75476_c9ea3f537fd856d441bfe1e1c176f7bd_marjan_gold.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_861",
@@ -30366,7 +30366,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "http://cdn.fragrancenet.com/images/photos/250x250/328438.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_862",
@@ -30401,7 +30401,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/armg34.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_863",
@@ -30436,7 +30436,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/armg34.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_864",
@@ -30471,7 +30471,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/armg34.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_865",
@@ -30506,7 +30506,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "http://cdn.fragrancenet.com/images/photos/250x250/328436.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_866",
@@ -30541,7 +30541,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/75064m.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_867",
@@ -30576,7 +30576,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/75065m.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_868",
@@ -30611,7 +30611,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/75065m.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_869",
@@ -30646,7 +30646,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/75012w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_870",
@@ -30681,7 +30681,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.perfume.bg/wp-content/uploads/2025/07/armaf-niche-bucephalus-no-ix-edp.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_871",
@@ -30716,7 +30716,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://dynamic.zacdn.com/7lpGqml_eu1f7CWZYxuWqYftVB8=/filters:quality(70):format(webp)/https://static-hk.zacdn.com/p/armaf-0225-1667556-1.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_872",
@@ -30751,7 +30751,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://media.parfoom.com/products/armaf-bucephalus-no-xi-man-fc7d1c59-primary.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_873",
@@ -30786,7 +30786,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://media.parfoom.com/products/armaf-bucephalus-no-xii-man-4a720b18-primary.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_874",
@@ -30821,7 +30821,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/armngw.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_875",
@@ -30856,7 +30856,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://cdn2.easycosmetic.at/images/Produkte/D2/armaf-niche-gold-eau-de-parfum-spray-90ml.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_876",
@@ -30891,7 +30891,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://media.parfoom.com/products/armaf-armaf-niche-oud-8d054377-primary.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_877",
@@ -30926,7 +30926,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/76409w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_878",
@@ -30961,7 +30961,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "http://cdn.fragrancenet.com/images/photos/250x250/312052.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_879",
@@ -30996,7 +30996,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://media.naheed.pk/catalog/product/cache/49dcd5d85f0fa4d590e132d0368d8132/1/1/1108034-1.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_880",
@@ -31031,7 +31031,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://media.parfoom.com/products/armaf-armaf-niche-platinum-b579a7e9-primary.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_881",
@@ -31066,7 +31066,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "http://cdn.fragrancenet.com/images/photos/250x250/344998.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_882",
@@ -31101,7 +31101,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/75019w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_883",
@@ -31136,7 +31136,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "http://cdn.fragrancenet.com/images/photos/250x250/399655.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_884",
@@ -31171,7 +31171,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/small/armaw32y.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_885",
@@ -31206,7 +31206,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/139217_img-6573-armaf-armaf-niche-white-diamond-body-spray_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_886",
@@ -31241,7 +31241,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "http://cdn.fragrancenet.com/images/photos/250x250/464287.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_887",
@@ -31276,7 +31276,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/79916m.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_888",
@@ -31311,7 +31311,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://libre.by/wp-content/uploads/2024/04/giorgio_armani_armani_code_absolu_pour_femme-860x860.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_889",
@@ -31346,7 +31346,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://perfumecenter.com.bd/wp-content/uploads/2023/02/GIORGIO-ARMANI-CODE-ABSOLU-POUR-HOMME-PARFUM-TESTER-300x333.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_890",
@@ -31381,7 +31381,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://splashfragrance.in/wp-content/uploads/2023/02/Code-Parfum-By-Giorgio-Armani-Perfume-For-Men-min.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_891",
@@ -31416,7 +31416,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://assets.armani.com/image/upload/f_auto,q_auto:best,ar_4:5,w_1350,c_fill/LD424000_NLP_75ML_D_FW2024.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_892",
@@ -31451,7 +31451,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/small/acas25w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_893",
@@ -31486,7 +31486,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://splashfragrance.in/wp-content/uploads/2023/02/Code-Parfum-By-Giorgio-Armani-Perfume-For-Men-min.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_894",
@@ -31521,7 +31521,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://fraguru.com/mdimg/perfume/social.17126.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_895",
@@ -31556,7 +31556,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/480/66944_bewqi8_armani_code_after_shave_lotion_480.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_896",
@@ -31591,7 +31591,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://assets.armani.com/image/upload/f_auto,q_auto:best,ar_4:5,w_1350,c_fill/501097_EAUPARFUM_54_D_FW2024.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_897",
@@ -31626,7 +31626,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://assets.armani.com/image/upload/f_auto,q_auto:best,ar_4:5,w_1350,c_fill/LD423500_NLP_125ML_D_FW2024.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_898",
@@ -31661,7 +31661,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://assets.armani.com/image/upload/f_auto,q_auto:best,ar_4:5,w_1350,c_fill/501097_EAUPARFUM_54_D_FW2024.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_899",
@@ -31696,7 +31696,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/aci42tsm.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_900",
@@ -31731,7 +31731,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/social.3051.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_901",
@@ -31766,7 +31766,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://perfumediary.com/wp-content/uploads/2018/10/Giorgio-Armani-SI-Nacre-Sparkling-limited-edition-.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_902",
@@ -31801,7 +31801,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/small/arcodlunw.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_903",
@@ -31836,7 +31836,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.ltwebstatic.com/images3_spmp/2024/06/04/dd/171744703023940d43ceec6df9d4a6dca25217cb9f.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_904",
@@ -31871,7 +31871,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://assets.armani.com/image/upload/f_auto,q_auto:good,w_1125,h_1428,c_fill/v1729106028/L9307300_NLP_100ML_F_FW2024.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_905",
@@ -31906,7 +31906,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://assets.armani.com/image/upload/f_auto,q_auto:best,ar_4:5,w_1350,c_fill/LD423500_NLP_125ML_D_FW2024.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_906",
@@ -31941,7 +31941,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.cabanamagazine.com.br/image/cache/catalog/Perfumes/GiorgioArmani/perfume-armani-code-pour-femme-giorgio-armani-feminino-eau-de-parfum-50ml-1200x1200.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_907",
@@ -31976,7 +31976,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.cabanamagazine.com.br/image/cache/catalog/Perfumes/GiorgioArmani/perfume-armani-code-pour-femme-giorgio-armani-feminino-eau-de-parfum-50ml-1200x1200.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_908",
@@ -32011,7 +32011,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/73495m.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_909",
@@ -32046,7 +32046,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/73297w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_910",
@@ -32081,7 +32081,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/63611w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_911",
@@ -32116,7 +32116,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://parfumistas.com/wp-content/uploads/2024/08/giorgio_armani_armani_code_special_blend_b.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_912",
@@ -32151,7 +32151,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.olfatica.com/images/perfumes/giorgio-armani/armani-code-sport-athlete.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_913",
@@ -32186,7 +32186,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://assets.armani.com/image/upload/f_auto,q_auto:best,ar_4:5,w_1350,c_fill/LD423500_NLP_125ML_D_FW2024.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_914",
@@ -32221,7 +32221,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://parfumistas.com/wp-content/uploads/2024/08/giorgio_armani_armani_code_sport_edition_2016_s.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_915",
@@ -32256,7 +32256,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/11/armani-code-summer-pour-femme-2009-by-armani-1.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_916",
@@ -32291,7 +32291,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/vijesti/o.1252.2.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_917",
@@ -32326,7 +32326,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/11/armani-code-summer-pour-femme-2011-by-giorgio-armani-1.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_918",
@@ -32361,7 +32361,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/11/armani-code-summer-pour-homme-by-giorgio-armani-1.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_919",
@@ -32396,7 +32396,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/vijesti/o.1252.2.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_920",
@@ -32431,7 +32431,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://resim.parfum.gen.tr/mod_gallery/mod_parfum/original/T3GdbV8DUTNYDNa.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_921",
@@ -32466,7 +32466,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.parfumeria.by/user/image/pic/Armani-Code-Turquoise-pour-femme.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_922",
@@ -32501,7 +32501,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/480/58131_odimcp_armani_code_turquoise_pour_homme_480.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_923",
@@ -32536,7 +32536,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/photogram/p1200/ui/s4/lbytblwhFVWiOEgf.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_924",
@@ -32571,7 +32571,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://tienperfume.vn/wp-content/uploads/2023/06/Giorgio-Armani-Code-Ultimate-Pour-Homme-75ml.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_925",
@@ -32606,7 +32606,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://assets.catawiki.nl/assets/2023/3/10/4/7/a/47a9b5b5-7902-4b61-9b65-332355efa428.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_926",
@@ -32641,7 +32641,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://assets.armani.com/image/upload/f_auto,q_auto:best,ar_4:5,w_1350,c_fill/LD423500_NLP_125ML_D_FW2024.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_927",
@@ -32676,7 +32676,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/WEMPORA.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_928",
@@ -32711,7 +32711,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/25318_img-5360-giorgio-armani-armani-eau-parfumee_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_929",
@@ -32746,7 +32746,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://goldparfum.by/wp-content/uploads/2020/09/armani-mania.1000x1000.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_930",
@@ -32781,7 +32781,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://xeira.es/wp-content/uploads/2022/02/ARMANI-MANIA-Giorgio-Armani-EDT100mL-New.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_931",
@@ -32816,7 +32816,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://parfumistas.com/wp-content/uploads/2024/08/perfume_armani_code_summer_pour_homme_giorgio_armani_0.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_932",
@@ -32851,7 +32851,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.wikiscents.com/uploads/1-06-03-2023-16-37-27-armani-prive-rose-milano-soie-de-nacre.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_933",
@@ -32886,7 +32886,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/11/eclat-de-jasmin-by-giorgio-armani-1.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_934",
@@ -32921,7 +32921,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/2826_img-3853-giorgio_armani-armani_prive__ambre_soie_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_935",
@@ -32956,7 +32956,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://libre.by/wp-content/uploads/2024/04/giorgio_armani_armani_prive_ambre_orient-860x860.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_936",
@@ -32991,7 +32991,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/2826_img-3853-giorgio_armani-armani_prive__ambre_soie_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_937",
@@ -33026,7 +33026,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://fraguru.com/mdimg/perfume/social.88629.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_938",
@@ -33061,7 +33061,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/7/9/101896_52b064435371d51ed1f90fce341f1060_armani_prive__bleu_lazuli.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_939",
@@ -33096,7 +33096,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.feelingsexy.com.au/images/products/allproducts/GIORGIOARMANI_BLEUTURQUOISE_EDP100.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_940",
@@ -33131,7 +33131,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://media.parfumo.com/perfume_imagery/59/5931f9-armani-prive-bois-d-encens-giorgio-armani_1200.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_941",
@@ -33166,7 +33166,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/social.6062.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_942",
@@ -33201,7 +33201,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/11/armani-prive-charm-by-giorgio-armani-1.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_943",
@@ -33236,7 +33236,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.wikiscents.com/uploads/18435.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_944",
@@ -33271,7 +33271,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.wikiscents.com/uploads/18435.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_945",
@@ -33306,7 +33306,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/75869w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_946",
@@ -33341,7 +33341,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.wikiscents.com/uploads/18435.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_947",
@@ -33376,7 +33376,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/armgl3.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_948",
@@ -33411,7 +33411,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/65941w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_949",
@@ -33446,7 +33446,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/encgh2.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_950",
@@ -33481,7 +33481,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://perfumediary.com/wp-content/uploads/2012/03/Giorgio-Armani-Prive-Figuier-Eden-2.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_951",
@@ -33516,7 +33516,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://cdn.scentq.com/prod-storage/photos/shares/NEW PRODUCTS/647c390288bac.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_952",
@@ -33551,7 +33551,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/480/135769_img-9178-giorgio-armani-armani-prive-gardenia-antigua_480.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_953",
@@ -33586,7 +33586,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/6/5/145227_30f5161d75987e6a6e19a93d68ba5e32_armani-prive-ikat-bleu.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_954",
@@ -33621,7 +33621,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/5/2/145228_6600f546dd7ddf4aa6608fe14cb4e27a_armani-prive-ikat-rouge.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_955",
@@ -33656,7 +33656,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/6/7/158599_4f4b1f19333f1b31818f8c0d43586eab_armani-prive-indigo-tanzanite.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_956",
@@ -33691,7 +33691,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://image.femaledaily.com/dyn/640/images/prod-pics/ef73af3132fc9b0051474a1352b68f49.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_957",
@@ -33726,7 +33726,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/135771_img-2999-giorgio-armani-armani-prive-jasmin-kusamono_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_958",
@@ -33761,7 +33761,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/154668_img-9996-giorgio-armani-armani-prive-jawhara-oriental_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_959",
@@ -33796,7 +33796,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://perfumediary.com/wp-content/uploads/2011/06/Giorgio-Armani-La-Femme-Blue.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_960",
@@ -33831,7 +33831,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://fraguru.com/mdimg/perfume/social.55409.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_961",
@@ -33866,7 +33866,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/5/8/158602_91c13401b62f00d4ea4feda98d659f0e_armani-prive-magenta-tanzanite.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_962",
@@ -33901,7 +33901,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://perfumeoutlet.ae/product/giorgio-armani-musc-shamal/GA002-2.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_963",
@@ -33936,7 +33936,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.pinimg.com/736x/36/48/1f/36481fcddb6f99afa34d0dda78e0a36b.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_964",
@@ -33971,7 +33971,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/07/pivoine-suzhou-soie-de-nacre-by-giorgio-armani.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_965",
@@ -34006,7 +34006,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://perfumediary.com/wp-content/uploads/2016/10/Giorgio-Armani-Privé-New-York-.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_966",
@@ -34041,7 +34041,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://fraguru.com/mdimg/perfume/social.88628.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_967",
@@ -34076,7 +34076,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/8/6/25970_aec5e196eaa5cd0786509b2a174cc944_armani_prive__nuances.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_968",
@@ -34111,7 +34111,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://fraguru.com/mdimg/perfume/social.25081.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_969",
@@ -34146,7 +34146,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://libre.by/wp-content/uploads/2024/04/giorgio_armani_armani_prive_oranger_alhambra-800x800.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_970",
@@ -34181,7 +34181,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/secundar/o.63579.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_971",
@@ -34216,7 +34216,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://fraguru.com/photogram/p1200/sz/nv/0HFzQrRLrGM10VuX.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_972",
@@ -34251,7 +34251,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/65970w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_973",
@@ -34286,7 +34286,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://genteyold.com/wp-content/uploads/2016/11/PERFUME-ARMANI-PIVOINE-600x424.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_974",
@@ -34321,7 +34321,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/183517_img-6879-giorgio-armani-armani-prive-pivoine-suzhou-limited-edition_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_975",
@@ -34356,7 +34356,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.wikiscents.com/uploads/1-23-10-2023-13-19-40-Rondo-Armaniano.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_976",
@@ -34391,7 +34391,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/4/4/2833_c19c453f08eeedff6320d4362a0231ca_armani-prive-rose-alexandrie.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_977",
@@ -34426,7 +34426,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/4/4/10195_b3d5c01803c603dc712100793a8ce3a1_armani-prive-rose-d-arabie.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_978",
@@ -34461,7 +34461,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/photogram/p1200/ha/5e/Ck3OF62NO9820kCY.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_979",
@@ -34496,7 +34496,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/4/8/136193_b416bda55d6db7022cc60bc219063bb5_armani-prive-rose-d-arabie-limited-edition-2018.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_980",
@@ -34531,7 +34531,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/240/23832_fve4gi8cp7_240.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_981",
@@ -34566,7 +34566,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://newfragrance.com/resources/content/product/main/rose-d-artiste-giorgio-armani-49210.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_982",
@@ -34601,7 +34601,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://fraguru.com/mdimg/perfume/375x500.58911.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_983",
@@ -34636,7 +34636,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.theperfumegirl.com/perfumes/fragrances/giorgio-armani/armani-prive-rouge-malachite/images/armani-prive-rouge-malachite-website-lg.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_984",
@@ -34671,7 +34671,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/8/7/98594_81769c79537fad6415e66714850d5e37_armani_prive__rouge_malachite_l_or_de_russie.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_985",
@@ -34706,7 +34706,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://fraguru.com/mdimg/perfume/375x500.31210.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_986",
@@ -34741,7 +34741,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.64787.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_987",
@@ -34776,7 +34776,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/5/6/146732_e2834dfdf13c21b0583b75d56aa76a23_armani-prive-sable-nuit.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_988",
@@ -34811,7 +34811,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://accademiadelprofumo.it/wp-content/uploads/2024/01/Giorgio-Armani-Armani-Prive-Santal-Dan-Sha_P.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_989",
@@ -34846,7 +34846,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/6/1/152457_601ac52d0ac4dc84a15caeda0a1777c5_armani-prive-the-yulong-soie-de-nacre.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_990",
@@ -34881,7 +34881,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/0/0/2834_4bdcd5f52265f79cffcef1525fb510b9_armani_prive__vetiver_d_hiver_vetiver_babylone.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_991",
@@ -34916,7 +34916,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/75867w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_992",
@@ -34951,7 +34951,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/0/6/1784_d32135c26a706fd683a5546dbfa5c546_aroma_allegoria_vitalisant.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_993",
@@ -34986,7 +34986,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.5844.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_994",
@@ -35021,7 +35021,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://scentadvice.com/wp-content/uploads/2023/04/1784_z4d3za_aroma_allegoria_vitalisant_240.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_995",
@@ -35056,7 +35056,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
-    "aesthetic_image": "https://thumbs.dreamstime.com/b/blue-perfume-bottle-blue-perfume-bottle-product-fragrance-235144983.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_996",
@@ -35091,7 +35091,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/683w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_997",
@@ -35126,7 +35126,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
-    "aesthetic_image": "https://c8.alamy.com/comp/2K2APH1/home-aroma-fragrance-diffuser-or-perfume-bottle-2K2APH1.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_998",
@@ -35161,7 +35161,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/60312w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_999",
@@ -35196,7 +35196,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
-    "aesthetic_image": "https://c8.alamy.com/comp/2K2APH1/home-aroma-fragrance-diffuser-or-perfume-bottle-2K2APH1.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1000",
@@ -35231,7 +35231,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
-    "aesthetic_image": "https://c8.alamy.com/comp/2K2APH1/home-aroma-fragrance-diffuser-or-perfume-bottle-2K2APH1.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1001",
@@ -35266,7 +35266,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
-    "aesthetic_image": "https://png.pngtree.com/png-clipart/20190520/original/pngtree-perfume-aroma-fragrance-essence-png-image_3866737.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1002",
@@ -35301,7 +35301,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
-    "aesthetic_image": "https://c8.alamy.com/comp/2K2APH1/home-aroma-fragrance-diffuser-or-perfume-bottle-2K2APH1.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1003",
@@ -35336,7 +35336,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2019/08/aroma-tonic-by-lancome-1.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1004",
@@ -35371,7 +35371,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/mal17ps.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1005",
@@ -35406,7 +35406,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Tiziana Terenzi. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/small/77603w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1006",
@@ -35441,7 +35441,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/76916w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1007",
@@ -35476,7 +35476,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/81721w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1008",
@@ -35511,7 +35511,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://mylittlefragrance.com.sg/wp-content/uploads/2023/02/My-little-Fragrance-ARMAF-ART-D-ARMOR-POUR-FEMME-EDP-FOR-WOMEN.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1009",
@@ -35546,7 +35546,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Penhaligon's. A compelling explorations of notes.",
-    "aesthetic_image": "https://dynamic.zacdn.com/wQ_gel5xcONXlmcOkQb2hW7mr80=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/penhaligons-6900-7916394-1.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1010",
@@ -35581,7 +35581,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Penhaligon's. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/76338_img-8744-penhaligon-s-artemisia-solid-fragrance_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1011",
@@ -35616,7 +35616,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Penhaligon's. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/asaw34ts.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1012",
@@ -35651,7 +35651,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Amouage. A compelling explorations of notes.",
-    "aesthetic_image": "https://scentadvice.com/wp-content/uploads/2023/02/asana.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1013",
@@ -35686,7 +35686,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from XerJoff. A compelling explorations of notes.",
-    "aesthetic_image": "https://theperfumeland.ir/wp-content/uploads/2021/07/xerjoff-jtc-ascot-moon-edp-50ml.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1014",
@@ -35721,7 +35721,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Fragrance Du Bois. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/social.59915.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1015",
@@ -35756,7 +35756,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Rasasi. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2024/02/Ashaar-Pour-Femme-by-Rasasi.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1016",
@@ -35791,7 +35791,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Rasasi. A compelling explorations of notes.",
-    "aesthetic_image": "https://parfumistas.com/wp-content/uploads/2024/09/perfume_ashaar_pour_homme_rasasi_0.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1017",
@@ -35826,7 +35826,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Amouage. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.pinimg.com/736x/54/36/9a/54369a2e6da13f85416ee826b4c0612b.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1018",
@@ -35861,7 +35861,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Amouage. A compelling explorations of notes.",
-    "aesthetic_image": "https://luxury-fragrance.eu/wp-content/uploads/2024/10/Duo_Front_Renaissance_Ashore_000.png-1024x1024.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1019",
@@ -35896,7 +35896,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Amouage. A compelling explorations of notes.",
-    "aesthetic_image": "https://media.parfumo.com/perfume_imagery/4e/4e6cea-ashwaq-amouage_1200.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1020",
@@ -35931,7 +35931,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Creed. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.fragrancesamplesuk.com/media/catalog/product/cache/0ac0516e26f0560d9a76e8e2dd4b6632/o/b/ob-184_b38b9a19-8c71-4e4b-be15-8c83101bb710.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1021",
@@ -35966,7 +35966,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Amouage. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.pinimg.com/736x/2a/ab/82/2aab824c45c6c84d7ee6086c53f56736.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1022",
@@ -36001,7 +36001,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Jo Malone. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/73898w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1023",
@@ -36036,7 +36036,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from XerJoff. A compelling explorations of notes.",
-    "aesthetic_image": "https://ifragranceofficial.com/wp-content/uploads/2023/03/astaral.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1024",
@@ -36071,7 +36071,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Versace. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.wikiscents.com/uploads/14637.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1025",
@@ -36106,7 +36106,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Versace. A compelling explorations of notes.",
-    "aesthetic_image": "https://perfumeunlimited.com/media/catalog/product/cache/3f9bf8829aef87f03e4ef9195e7a1b94/v/e/versace_atelier_versace_cedrat_de_diamante_unisex_eau_de_parfum_100ml.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1026",
@@ -36141,7 +36141,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Versace. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/82705w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1027",
@@ -36176,7 +36176,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Versace. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/FigV11.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1028",
@@ -36211,7 +36211,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Versace. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/sku/large/vervzq.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1029",
@@ -36246,7 +36246,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Versace. A compelling explorations of notes.",
-    "aesthetic_image": "http://cdn.fragrancenet.com/images/photos/250x250/456812.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1030",
@@ -36281,7 +36281,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Versace. A compelling explorations of notes.",
-    "aesthetic_image": "https://splashfragrance.in/wp-content/uploads/2023/07/Versace-Atelier-Iris-D_Elite-EDP-1.5ml-Sample-600x355.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1031",
@@ -36316,7 +36316,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Versace. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/79216w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1032",
@@ -36351,7 +36351,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Versace. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/small/VERVJ9.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1033",
@@ -36386,7 +36386,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Versace. A compelling explorations of notes.",
-    "aesthetic_image": "https://perfumeunlimited.com/media/catalog/product/cache/426571a213995d0f26cf05297c4bc27d/a/t/atelier-versace-santal-boise-eau-de-parfum-100-ml_1_.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1034",
@@ -36421,7 +36421,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Versace. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/82704w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1035",
@@ -36456,7 +36456,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Versace. A compelling explorations of notes.",
-    "aesthetic_image": "https://newfragrance.com/resources/content/product/gallery/vanille-rouge-versace-135077.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1036",
@@ -36491,7 +36491,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Parfums de Marly. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.fragrancesamplesuk.com/media/catalog/product/cache/1c059e8fbb9596044c36b4a3c9ddf130/o/b/ob-676_c6254dfe-15f0-4c59-a08f-9ea9c0bd68c5.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1037",
@@ -36526,7 +36526,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Amouage. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/91925_img-3347-amouage-atheer_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1038",
@@ -36561,7 +36561,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Electimuss. A compelling explorations of notes.",
-    "aesthetic_image": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS90ZW1wbGF0ZXMvZmlsZXMvY3JlYXRlX3Rvb2wvMjAyNC0wMS8wMWhtZ2E4eHJidjRwazg4YnA5aDAzbTdhOC1scmtlZGtlYS5wbmc.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1039",
@@ -36596,7 +36596,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Tiziana Terenzi. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/small/atltze.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1040",
@@ -36631,7 +36631,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Ex Nihilo. A compelling explorations of notes.",
-    "aesthetic_image": "https://newfragrance.com/resources/content/product/gallery/atlas-fever-ex-nihilo-134100.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1041",
@@ -36666,7 +36666,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Initio. A compelling explorations of notes.",
-    "aesthetic_image": "https://splashfragrance.in/wp-content/uploads/2021/01/Product-Logo-Website-Editing-6.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1042",
@@ -36701,7 +36701,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Rasasi. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/AttR6H.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1043",
@@ -36736,7 +36736,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Rasasi. A compelling explorations of notes.",
-    "aesthetic_image": "https://static.wixstatic.com/media/17b716_c206d9c746cf4addb680a3c06374c153~mv2.jpg/v1/fill/w_1000,h_1000,al_c/17b716_c206d9c746cf4addb680a3c06374c153~mv2.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1044",
@@ -36771,7 +36771,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Rasasi. A compelling explorations of notes.",
-    "aesthetic_image": "https://i0.wp.com/perfumeshop.com.bd/wp-content/uploads/2023/06/1000063519.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1045",
@@ -36806,7 +36806,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/72094w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1046",
@@ -36841,7 +36841,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Rasasi. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2024/02/Attar-Mubakhar-by-Rasasi.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1047",
@@ -36876,7 +36876,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/61776m.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1048",
@@ -36911,7 +36911,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/0/1/106_86efdbce166d167a68865e3559496a89_attitude.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1049",
@@ -36946,7 +36946,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Giorgio Armani. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/5/5/79037_da0856e560e33c1ca1eb78a63ff433c9_attitude_lotion_apres_rasage.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1050",
@@ -36981,7 +36981,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.pinimg.com/736x/ea/e3/4b/eae34bb68f555c7a855fec3560e3b642.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1051",
@@ -37016,7 +37016,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.pinimg.com/736x/ea/e3/4b/eae34bb68f555c7a855fec3560e3b642.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1052",
@@ -37051,7 +37051,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/09/attrape-coeur-by-guerlain-1.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1053",
@@ -37086,7 +37086,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/08/Atuana-by-Guerlain.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1054",
@@ -37121,7 +37121,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Creed. A compelling explorations of notes.",
-    "aesthetic_image": "https://cosmeticfact.com.au/wp-content/uploads/2023/08/creed-virgin-island-water-3.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1055",
@@ -37156,7 +37156,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from XerJoff. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/52439_img-3142-xerjoff-shooting_stars__aubres_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1056",
@@ -37191,7 +37191,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://perfumearena.com/wp-content/uploads/aura-fresh-armaf-600x600.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1057",
@@ -37226,7 +37226,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/77598w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1058",
@@ -37261,7 +37261,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://perfumearena.com/wp-content/uploads/aura-fresh-armaf-600x600.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1059",
@@ -37296,7 +37296,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/76247w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1060",
@@ -37331,7 +37331,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.parfum.hu/uploads/cache/fb_og_image/uploads/media/4/7/7/3/loewe-aura-loewe-floral-1.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1061",
@@ -37366,7 +37366,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/images/perfume/nd.26257.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1062",
@@ -37401,7 +37401,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/76247w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1063",
@@ -37436,7 +37436,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://parfumistas.com/wp-content/uploads/2024/08/mugler_aura_mugler_eau_de_parfum_sensuelle_b.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1064",
@@ -37471,7 +37471,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://parfumistas.com/wp-content/uploads/2024/08/mugler_aura_mugler_eau_de_toilette_b.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1065",
@@ -37506,7 +37506,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/11/fr115-aura-mugler-edp-sensuelle-by-mugler-1.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1066",
@@ -37541,7 +37541,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/aurlw3.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1067",
@@ -37576,7 +37576,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://parfumistas.com/wp-content/uploads/2024/08/loewe_aura_loewe_sport_edicion_especial_s.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1068",
@@ -37611,7 +37611,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Loewe. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/aurlw3.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1069",
@@ -37646,7 +37646,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Electimuss. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/social.90531.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1070",
@@ -37681,7 +37681,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from XerJoff. A compelling explorations of notes.",
-    "aesthetic_image": "http://cdn.fragrancenet.com/images/photos/250x250/466714.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1071",
@@ -37716,7 +37716,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Electimuss. A compelling explorations of notes.",
-    "aesthetic_image": "http://perfume-malaysia.com/wp-content/uploads/2022/04/AUSTER.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1072",
@@ -37751,7 +37751,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Creed. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/10/aventus-10th-anniversary-by-creed-1.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.9828.jpg"
   },
   {
     "id": "p_unique_1073",
@@ -37786,7 +37786,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Creed. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.fragrancereview.com/php_assets/uploads/2022/02/Creed-Aventus-862x1024.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.9828.jpg"
   },
   {
     "id": "p_unique_1074",
@@ -37821,7 +37821,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Creed. A compelling explorations of notes.",
-    "aesthetic_image": "https://aromafragrance.us/wp-content/uploads/2021/02/Creed-aventus-her-type-01-800x800.webp"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.9828.jpg"
   },
   {
     "id": "p_unique_1075",
@@ -37856,7 +37856,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/333w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1076",
@@ -37891,7 +37891,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Afnan Perfumes. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/240/40395_x4py6q_awtaar_240.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1077",
@@ -37926,7 +37926,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Amouage. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/9266_img-2161-amouage-ayoon-al-maha_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1078",
@@ -37961,7 +37961,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Rasasi. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.wikiscents.com/uploads/13209.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1079",
@@ -37996,7 +37996,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Tom Ford. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/tfazl17w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1080",
@@ -38031,7 +38031,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/5/4/74776_15628686b938de63ac08d7a2db21a7af_azzaro_9_eau_de_parfum.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1081",
@@ -38066,7 +38066,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/7/1/1931_e16e0fa0a90b0493c0770ca5a51d588a_azzaro_9.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1082",
@@ -38101,7 +38101,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/74702_rm8xt3_azzaro_9_parfum_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1083",
@@ -38136,7 +38136,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/images/perfume/social.3752.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1084",
@@ -38171,7 +38171,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/3/5/74703_9d8e4ddde12dfd6f39a3df9c012a8f83_azzaro_couture_azzaro_eau_de_parfum.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1085",
@@ -38206,7 +38206,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/3/5/74703_9d8e4ddde12dfd6f39a3df9c012a8f83_azzaro_couture_azzaro_eau_de_parfum.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1086",
@@ -38241,7 +38241,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://scentadvice.com/wp-content/uploads/2023/10/67412_img-6687-azzaro_parfums_loris_azzaro-azzaro_couture_azzaro_parfum_240.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1087",
@@ -38276,7 +38276,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/2/9/134340_9d68e7d2b1cec91c86fa71c998dc1d8a_azzaro-couture-la-poupee-et-son-ours.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1088",
@@ -38311,7 +38311,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/55610_img-3598-azzaro-azzaro-pour-elle-eau-de-parfum_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1089",
@@ -38346,7 +38346,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.48032.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1090",
@@ -38381,7 +38381,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/73563w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1091",
@@ -38416,7 +38416,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://fraguru.com/photogram/p1200/kz/ax/KxRxBvXvNVMChSqS.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1092",
@@ -38451,7 +38451,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/72213_img-5533-azzaro-azzaro-pour-homme-after-shave-lotion_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1093",
@@ -38486,7 +38486,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://image.femaledaily.com/dyn/640/images/prod-pics/product_1448296047_azzaro_Pou_800x800.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1094",
@@ -38521,7 +38521,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/20626_img-5564-azzaro-azzaro-pour-homme-eau-de-toilette-intense_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1095",
@@ -38556,7 +38556,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/6/8/49001_4491cc4d68d6e0d6b35d24304100a6e4_azzaro-pour-homme-collector-edition.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1096",
@@ -38591,7 +38591,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/240/16183_k62vxsok6y_240.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1097",
@@ -38626,7 +38626,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/2/2/148141_58425d14f5fa4804774614740be3a792_azzaro-pour-homme-cologne-intense.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1098",
@@ -38661,7 +38661,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/social.47580.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1099",
@@ -38696,7 +38696,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://splashfragrance.in/wp-content/uploads/2021/02/Pour-Homme-Elixir-By-Azzaro-EDT-Perfume.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1100",
@@ -38731,7 +38731,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/07/azzaro-pour-homme-elixir-by-azzaro.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1101",
@@ -38766,7 +38766,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://parfumistas.com/wp-content/uploads/2024/08/azzaro_azzaro_pour_homme_edition_noire_b.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1102",
@@ -38801,7 +38801,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://parfumistas.com/wp-content/uploads/2024/08/azzaro_azzaro_pour_homme_ginger_lover_b.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1103",
@@ -38836,7 +38836,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://assets.goldenscent.com/catalog/product/cache/1/small_image/750x750/9df78eab33525d08d6e5fb8d27136e95/3/3/3351500011117-azzaro-azzaro-pour-homme-hot-pepper-edt-100-ml-1.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1104",
@@ -38871,7 +38871,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://thefragranceoil.com/wp-content/uploads/2025/05/Azzaro-Pour-Homme-Intense.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1105",
@@ -38906,7 +38906,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://perfume.pe/wp-content/uploads/2024/06/Pour-Homme-leau-EDT-100ml-Azzaro-Peru-Perfume.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1106",
@@ -38941,7 +38941,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.51387.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1107",
@@ -38976,7 +38976,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.13965.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1108",
@@ -39011,7 +39011,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/3/5/75811_3b6b6a7b6c7f37c6f56ed4a7eae3ee2d_azzaro_pour_homme_silver_black_onyx_lotion_apres_rasage.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1109",
@@ -39046,7 +39046,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/480/75811_img-3753-azzaro_parfums_loris_azzaro-azzaro_pour_homme_silver_black_onyx_lotion_apres_rasage_480.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1110",
@@ -39081,7 +39081,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/social.17863.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1111",
@@ -39116,7 +39116,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/social.17863.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1112",
@@ -39151,7 +39151,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/480/57330_kj8iyr_azzaro_pour_homme_limited_edition_2015_480.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1113",
@@ -39186,7 +39186,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.58655.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1114",
@@ -39221,7 +39221,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrance.ps/wp-content/uploads/2023/10/AZZARO-SPORT.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1115",
@@ -39256,7 +39256,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Azzaro. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/714w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1116",
@@ -39291,7 +39291,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Boucheron. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.pinimg.com/originals/cf/12/23/cf1223f4c29e98b9de8c42252b96d57d.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1117",
@@ -39326,7 +39326,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Boucheron. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.ycy-cosmetics.com/upload-files/products/435/yb169-2.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1118",
@@ -39361,7 +39361,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mugler. A compelling explorations of notes.",
-    "aesthetic_image": "https://static.vecteezy.com/system/resources/previews/054/789/290/non_2x/perfume-bottle-fragrance-png.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1119",
@@ -39396,7 +39396,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Nishane. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/nishb612.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1120",
@@ -39431,7 +39431,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Versace. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/09/baby-blue-jeans-by-versace-1.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1121",
@@ -39466,7 +39466,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Yves Saint Laurent. A compelling explorations of notes.",
-    "aesthetic_image": "https://fraguru.com/mdimg/perfume/375x500.2952.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1122",
@@ -39501,7 +39501,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Yves Saint Laurent. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.5605.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1123",
@@ -39536,7 +39536,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Yves Saint Laurent. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/images/secundar/o.299.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1124",
@@ -39571,7 +39571,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Yves Saint Laurent. A compelling explorations of notes.",
-    "aesthetic_image": "https://perfumesofthepast.com/wp-content/uploads/2023/02/DSC8166.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1125",
@@ -39606,7 +39606,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Yves Saint Laurent. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.envie2parfum.fr/img/parfums/thumbs/yves-saint-laurent-baby-doll-50-ml-1568800004_0x1000.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1126",
@@ -39641,7 +39641,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://magnifissance.com/wp-content/uploads/2022/11/Perfume-bottle-8.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1127",
@@ -39676,7 +39676,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Versace. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/717w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1128",
@@ -39711,7 +39711,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Penhaligon's. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.fragrancesamplesuk.com/media/catalog/product/cache/58bade480dd5558294577e111fa45fa4/b/a/babylon.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1129",
@@ -39746,7 +39746,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Maison Francis Kurkdjian. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/156766_img-8340-maison-francis-kurkdjian-baccarat-rouge-540-limited-edition_720.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.33519.jpg"
   },
   {
     "id": "p_unique_1130",
@@ -39781,7 +39781,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Maison Francis Kurkdjian. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.flannels.com/images/imgzoom/77/77842269_xxl_a5.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.33519.jpg"
   },
   {
     "id": "p_unique_1131",
@@ -39816,7 +39816,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Maison Francis Kurkdjian. A compelling explorations of notes.",
-    "aesthetic_image": "https://rustans-thebeautysource.com/en/wp-content/uploads/2020/05/2231191.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.33519.jpg"
   },
   {
     "id": "p_unique_1132",
@@ -39851,7 +39851,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Maison Francis Kurkdjian. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.byrdie.com/thmb/vW47KDWbWufAMi-zQu2sMrBQbfo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Baccarat-09c5238c53d24692a3497d56701a5086.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.33519.jpg"
   },
   {
     "id": "p_unique_1133",
@@ -39886,7 +39886,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Bvlgari. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.pinimg.com/736x/91/02/13/9102138c1be02f18717998b22e309ff7.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1134",
@@ -39921,7 +39921,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Kilian. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/73807w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1135",
@@ -39956,7 +39956,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Kilian. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/backwi.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1136",
@@ -39991,7 +39991,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Rasasi. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/480/22832_img-3624-rasasi-badia_a_480.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1137",
@@ -40026,7 +40026,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Amouage. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/social.13485.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1138",
@@ -40061,7 +40061,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Amouage. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/social.13486.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1139",
@@ -40096,7 +40096,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Le Labo. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.eshtir.com/wp-content/uploads/2024/12/LE-LABO-BAIE-19-EDP-100ML-1024x1024.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1140",
@@ -40131,7 +40131,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Le Labo. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/171508_img-6631-le-labo-baie-19-perfume-oil_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1141",
@@ -40166,7 +40166,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Creed. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/720w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1142",
@@ -40201,7 +40201,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Le Labo. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/lellz9.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1143",
@@ -40236,7 +40236,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Fragrance Du Bois. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.pinimg.com/736x/06/24/c7/0624c722cda07bf9b76c6c61654eaf52.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1144",
@@ -40271,7 +40271,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Yves Saint Laurent. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/baiyw16ma.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1145",
@@ -40306,7 +40306,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://perfumediary.com/wp-content/uploads/2018/03/Guerlain-Baiser-de-Russie-perfume.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1146",
@@ -40341,7 +40341,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Cartier. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/baiservf25w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1147",
@@ -40376,7 +40376,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Cartier. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.envie2parfum.fr/img/parfums/thumbs/cartier-baiser-vole-parfum-1661847269_1000x0.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1148",
@@ -40411,7 +40411,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Cartier. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/0/0/19997_7797b3c207d311912f47e6d7742d5b02_baiser_vole_eau_de_toilette.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1149",
@@ -40446,7 +40446,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Cartier. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.envie2parfum.fr/img/parfums/thumbs/cartier-baiser-vole-parfum-1661847269_1000x0.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1150",
@@ -40481,7 +40481,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Cartier. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.le-parfum.fr/1775-large_frag_2x/baiser-vole-essence-de-parfum-cartier-2013.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1151",
@@ -40516,7 +40516,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Cartier. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.envie2parfum.fr/img/parfums/thumbs/cartier-baiser-vole-parfum-1661847269_1000x0.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1152",
@@ -40551,7 +40551,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Cartier. A compelling explorations of notes.",
-    "aesthetic_image": "https://scentadvice.com/wp-content/uploads/2023/03/188439_img-8088-cartier-baiser-vole-limited-edition_240.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1153",
@@ -40586,7 +40586,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Cartier. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/71485w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1154",
@@ -40621,7 +40621,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Cartier. A compelling explorations of notes.",
-    "aesthetic_image": "https://cosmeticfact.com.au/wp-content/uploads/2023/08/BAISER-VOLE-PARFUM.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1155",
@@ -40656,7 +40656,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://splashfragrance.in/wp-content/uploads/2019/07/MONTALE-BAKHOOR.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1156",
@@ -40691,7 +40691,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Byredo. A compelling explorations of notes.",
-    "aesthetic_image": "https://cdn.clothbase.com/uploads/bde55734-08c4-4ba1-a441-7f69685da88e/bal-dafrique-eau-de-parfum-100-ml.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1157",
@@ -40726,7 +40726,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Byredo. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.pinimg.com/originals/9a/4a/ba/9a4aba16d5c840213cf646aa787a44a6.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1158",
@@ -40761,7 +40761,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Byredo. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.pinimg.com/originals/9a/4a/ba/9a4aba16d5c840213cf646aa787a44a6.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1159",
@@ -40796,7 +40796,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Byredo. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.pinimg.com/originals/9a/4a/ba/9a4aba16d5c840213cf646aa787a44a6.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1160",
@@ -40831,7 +40831,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Dior. A compelling explorations of notes.",
-    "aesthetic_image": "http://perfume-malaysia.com/wp-content/uploads/2019/07/balade-sauvage.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.31861.jpg"
   },
   {
     "id": "p_unique_1161",
@@ -40866,7 +40866,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/6/7/77184_227c73db12cb6da4d856b51c150e2adf_balafre-brun-after-shave.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1162",
@@ -40901,7 +40901,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/240/17066_w03frb4xst_240.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1163",
@@ -40936,7 +40936,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
-    "aesthetic_image": "https://wikifragancias.com/images/perfumes/lancome/balafre-after-shave/400.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1164",
@@ -40971,7 +40971,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/480/1328_img-2947-lancome-balafre_eau_de_toilette_480.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1165",
@@ -41006,7 +41006,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/480/83557_img-4903-lancome-balafre-vert-after-shave_480.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1166",
@@ -41041,7 +41041,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/2/3/14514_5a4150f5dc09d5feb666b22284d97a1f_balafre_vert.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1167",
@@ -41076,7 +41076,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Afnan Perfumes. A compelling explorations of notes.",
-    "aesthetic_image": "https://elle.dp.ua/Img/Names/Afnan-Perfumes/Afnan-Balquis-b.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1168",
@@ -41111,7 +41111,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Gucci. A compelling explorations of notes.",
-    "aesthetic_image": "https://theperfumestore.lk/wp-content/uploads/2021/12/Gucci-bamboo-for-her-eau-de-parfum-edp-for-woman-Branded-Original-fragrance-Perfume-in-Sri-Lanka...jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1169",
@@ -41146,7 +41146,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Gucci. A compelling explorations of notes.",
-    "aesthetic_image": "http://fimgs.net/images/perfume/o.38345.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1170",
@@ -41181,7 +41181,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Kilian. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/73808w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1171",
@@ -41216,7 +41216,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Kilian. A compelling explorations of notes.",
-    "aesthetic_image": "https://cdn0.youla.io/files/images/780_780/5f/ae/5fae9446a7c18b5f406128c6-1.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1172",
@@ -41251,7 +41251,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Gucci. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.perfumemaster.com/images/pm_news/2017/20170418_Gucci_Bamboo_Limited_Edition_2017_Perfume.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1173",
@@ -41286,7 +41286,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://perfumearena.com/wp-content/uploads/baroque-gold-armaf.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1174",
@@ -41321,7 +41321,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/armawt.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1175",
@@ -41356,7 +41356,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Jo Malone. A compelling explorations of notes.",
-    "aesthetic_image": "https://luxelist.me/wp-content/uploads/2016/10/dsc_0438-800x1200.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1176",
@@ -41391,7 +41391,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Jo Malone. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/jm34bsu.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1177",
@@ -41426,7 +41426,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Afnan Perfumes. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/8/1/51770_fd6be54e9a2fdeeef4512b5f34fdf144_basma.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1178",
@@ -41461,7 +41461,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Amouage. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.wikiscents.com/uploads/894.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1179",
@@ -41496,7 +41496,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Sospiro. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.fragrancesamplesuk.com/media/catalog/product/cache/0ac0516e26f0560d9a76e8e2dd4b6632/x/e/xerjoff_basso.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1180",
@@ -41531,7 +41531,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/170214_img-8996-armaf-batman_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1181",
@@ -41566,7 +41566,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Byredo. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/byrba34tw.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1182",
@@ -41601,7 +41601,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Penhaligon's. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/bbso34.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1183",
@@ -41636,7 +41636,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Penhaligon's. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.nandida.com/static/prodotti_foto/fit_to_width/300-300/255787.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1184",
@@ -41671,7 +41671,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Creed. A compelling explorations of notes.",
-    "aesthetic_image": "https://parfumistas.com/wp-content/uploads/2024/08/creed_bayrhum_vetiver_b.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1185",
@@ -41706,7 +41706,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Givenchy. A compelling explorations of notes.",
-    "aesthetic_image": "https://thumbs.dreamstime.com/z/gentleman-fragrance-givenchy-famous-brand-original-perfume-bottle-package-241392787.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1186",
@@ -41741,7 +41741,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Amouage. A compelling explorations of notes.",
-    "aesthetic_image": "https://perfumediary.com/wp-content/uploads/2016/10/Amouage-Beach-Hut-Man-fragrance-819x1024.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1187",
@@ -41776,7 +41776,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Amouage. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/ambhw34.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1188",
@@ -41811,7 +41811,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://ifragranceofficial.com/wp-content/uploads/2024/03/montale-beast-love-notes.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1189",
@@ -41846,7 +41846,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://assets.goldenscent.com/catalog/product/cache/1/small_image/750x750/9df78eab33525d08d6e5fb8d27136e95/6/2/6294015102543-armaf-beau-elegant-women-perfume-body-spray-200ml.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1190",
@@ -41881,7 +41881,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "http://cdn.fragrancenet.com/images/photos/250x250/303890.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1191",
@@ -41916,7 +41916,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://perfumearena.com/wp-content/uploads/beau-acute-armaf.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1192",
@@ -41951,7 +41951,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Tom Ford. A compelling explorations of notes.",
-    "aesthetic_image": "https://reallyree.com/wp-content/uploads/2019/01/tom-ford-beau-de-jour-review-2.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1193",
@@ -41986,7 +41986,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Tom Ford. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/137075_img-8486-tom-ford-beau-de-jour-all-over-bodyspray_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1194",
@@ -42021,7 +42021,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://assets.goldenscent.com/catalog/product/cache/1/small_image/750x750/9df78eab33525d08d6e5fb8d27136e95/6/2/6294015102543-armaf-beau-elegant-women-perfume-body-spray-200ml.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1195",
@@ -42056,7 +42056,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/75058w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1196",
@@ -42091,7 +42091,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/75058w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1197",
@@ -42126,7 +42126,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://cdn.parfoom.com/products/armaf-beau-star-3d5e362f-primary.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1198",
@@ -42161,7 +42161,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Rasasi. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2024/02/Beauty-Art-by-Rasasi.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1199",
@@ -42196,7 +42196,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Calvin Klein. A compelling explorations of notes.",
-    "aesthetic_image": "https://0.static.fragrancenet.com/images/photos/900x900/201660.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1200",
@@ -42231,7 +42231,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Calvin Klein. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/7/9/110632_fd23990195483bd629f63bbd5db776d1_beauty_solid_perfume.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1201",
@@ -42266,7 +42266,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "http://ifragranceofficial.com/wp-content/uploads/2023/07/guerlain-bee-garden-6.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1202",
@@ -42301,7 +42301,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Roja Parfums. A compelling explorations of notes.",
-    "aesthetic_image": "https://cdn.notinoimg.com/banner6/roja-parfums/5060399678551_01-o/roja-parfums-beguiled-eau-de-parfum-fur-damen-50-ml___5.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1203",
@@ -42336,7 +42336,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Roja Parfums. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/75793w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1204",
@@ -42371,7 +42371,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from XerJoff. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.wikiscents.com/uploads/15142.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1205",
@@ -42406,7 +42406,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Chanel. A compelling explorations of notes.",
-    "aesthetic_image": "https://thumbs.dreamstime.com/b/eau-de-toilette-perfume-bottle-isolated-white-background-eau-de-toilette-perfume-bottle-isolated-white-background-close-up-324281535.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1206",
@@ -42441,7 +42441,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Chanel. A compelling explorations of notes.",
-    "aesthetic_image": "https://puls-img.chanel.com/1704299645346-oneplpherobannermobile1500x1600px1jpg.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1207",
@@ -42476,7 +42476,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Chanel. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/photogram/p1200/82/v2/Dvn2bnA30TRtOZTi.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1208",
@@ -42511,7 +42511,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Amouage. A compelling explorations of notes.",
-    "aesthetic_image": "https://scentadvice.com/wp-content/uploads/2021/03/5503_whmw4ocymz_240.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1209",
@@ -42546,7 +42546,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/photogram/p1200/xj/6d/tbKQpTOHvdy2rEIa.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1210",
@@ -42581,7 +42581,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.cosmetify.com/images/products/hermes-bel-ami-eau-de-toilette-100ml-custom.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1211",
@@ -42616,7 +42616,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Hermès. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/744m.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1212",
@@ -42651,7 +42651,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/09/Bel-Automne-by-Lancome.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1213",
@@ -42686,7 +42686,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Sospiro. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.10714.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1214",
@@ -42721,7 +42721,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Chanel. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/07/n22-edt-2007-by-chanel.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1215",
@@ -42756,7 +42756,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Chanel. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/80468_3t0fjs_les_exclusifs_de_chanel__bel_respiro_eau_de_parfum_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1216",
@@ -42791,7 +42791,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Penhaligon's. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/belch34w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1217",
@@ -42826,7 +42826,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Tiziana Terenzi. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/08/bella-oudh-by-tiziana-terenzi.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1218",
@@ -42861,7 +42861,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Armaf. A compelling explorations of notes.",
-    "aesthetic_image": "https://aromaperfume.lk/wp-content/uploads/Template-2-78-600x600.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1219",
@@ -42896,7 +42896,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Dior. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.pinimg.com/736x/21/f0/22/21f022062fa5a98a244c8819ecc6be7f.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1220",
@@ -42931,7 +42931,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Byredo. A compelling explorations of notes.",
-    "aesthetic_image": "https://parfumistas.com/wp-content/uploads/2024/08/byredo_belle_de_tanger_b.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1221",
@@ -42966,7 +42966,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Yves Saint Laurent. A compelling explorations of notes.",
-    "aesthetic_image": "https://d3ugyf2ht6aenh.cloudfront.net/stores/002/652/199/products/belle11-116b9f4c732ee9152616861644845967-1024-1024.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1222",
@@ -43001,7 +43001,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Yves Saint Laurent. A compelling explorations of notes.",
-    "aesthetic_image": "https://d3ugyf2ht6aenh.cloudfront.net/stores/002/652/199/products/belle11-116b9f4c732ee9152616861644845967-1024-1024.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1223",
@@ -43036,7 +43036,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Le Labo. A compelling explorations of notes.",
-    "aesthetic_image": "https://fraguru.com/mdimg/perfume/375x500.10769.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1224",
@@ -43071,7 +43071,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/09/belle-epoque-limited-edition-by-guerlain-1.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1225",
@@ -43106,7 +43106,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/08/Belle-France-by-Guerlain.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1226",
@@ -43141,7 +43141,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Amouage. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/71452w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1227",
@@ -43176,7 +43176,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Amouage. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/71452w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1228",
@@ -43211,7 +43211,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/MonMW34RN.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1229",
@@ -43246,7 +43246,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Lancôme. A compelling explorations of notes.",
-    "aesthetic_image": "https://fimgs.net/photogram/p1200/4i/wn/Rd89uIdH8mHuFRD6.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1230",
@@ -43281,7 +43281,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Le Labo. A compelling explorations of notes.",
-    "aesthetic_image": "https://fraguru.com/mdimg/perfume/375x500.40451.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1231",
@@ -43316,7 +43316,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Diptyque. A compelling explorations of notes.",
-    "aesthetic_image": "https://jusderose.com/wp-content/uploads/2019/10/IMG_3262-1-800x1067.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1232",
@@ -43351,7 +43351,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Rasasi. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/88691_img-5117-rasasi-bent_al_ezz_nadiyah_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1233",
@@ -43386,7 +43386,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Roja Parfums. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/77724w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1234",
@@ -43421,7 +43421,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Le Labo. A compelling explorations of notes.",
-    "aesthetic_image": "https://dynamic.zacdn.com/YRFNrbG_kDsE6iC_0Rz59XcUnlM=/filters:quality(70):format(webp)/https://static-hk.zacdn.com/p/le-labo-3374-8797296-3.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1235",
@@ -43456,7 +43456,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Le Labo. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/117865_img-8637-le_labo-patchouli_24_liquid_balm_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1236",
@@ -43491,7 +43491,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Le Labo. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.designerscents.com/wp-content/uploads/2024/03/beramote-22.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1237",
@@ -43526,7 +43526,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Le Labo. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.acquiremag.com/.image/c_limit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_700/MTI2MTQwMzE0ODA4MjU5ODU4/lelabo.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1238",
@@ -43561,7 +43561,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Guerlain. A compelling explorations of notes.",
-    "aesthetic_image": "https://ifragranceofficial.com/wp-content/uploads/2023/10/bergamote-fantastico-extrait-11-1.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1239",
@@ -43596,7 +43596,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Roja Parfums. A compelling explorations of notes.",
-    "aesthetic_image": "https://www.fragrancesamplesuk.com/media/catalog/product/cache/941cc4aafc393e51030de7f9553c8b84/b/e/bergdorffemme.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1240",
@@ -43631,7 +43631,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Roja Parfums. A compelling explorations of notes.",
-    "aesthetic_image": "https://cdn.notinoimg.com/detail_main_lq/roja-parfums/5060270297260_01-o/roja-parfums-bergdorf-parfum-pour-femme___240822.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1241",
@@ -43666,7 +43666,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Agatha Ruiz de la Prada. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/79689w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1242",
@@ -43701,7 +43701,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Kilian. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/73805w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1243",
@@ -43736,7 +43736,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Kilian. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/1/7/103698_91d59b424fd472e3297d2e56505ee6cf_beyond_love_solid_perfume.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1244",
@@ -43771,7 +43771,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Tiziana Terenzi. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/tiztmd.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1245",
@@ -43806,7 +43806,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Byredo. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.pinimg.com/736x/a8/0e/91/a80e912e78692261578cf00fbeaf0b9b.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1246",
@@ -43841,7 +43841,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Byredo. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/09/Slow-Dance-Hair-Perfume-by-Byredo.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1247",
@@ -43876,7 +43876,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Le Labo. A compelling explorations of notes.",
-    "aesthetic_image": "https://pimages.parfumo.de/720/129362_img-1015-le-labo-bigarade-18_720.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1248",
@@ -43911,7 +43911,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Tiziana Terenzi. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/bigi338w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1249",
@@ -43946,7 +43946,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Jo Malone. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/73900m.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1250",
@@ -43981,7 +43981,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from XerJoff. A compelling explorations of notes.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/02/birdie-by-xerjoff.png"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1251",
@@ -44016,7 +44016,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Jo Malone. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/jomj52.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1252",
@@ -44051,7 +44051,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Jo Malone. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/jomj52.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1253",
@@ -44086,7 +44086,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Tom Ford. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.pinimg.com/originals/7c/cb/9d/7ccb9d0b81e753da87629bf0130cfb32.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1254",
@@ -44121,7 +44121,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Tom Ford. A compelling explorations of notes.",
-    "aesthetic_image": "https://i.pinimg.com/originals/7c/cb/9d/7ccb9d0b81e753da87629bf0130cfb32.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1255",
@@ -44156,7 +44156,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/mba34w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1256",
@@ -44191,7 +44191,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Electimuss. A compelling explorations of notes.",
-    "aesthetic_image": "https://nichegallerie.s3.amazonaws.com/wp-content/uploads/2023/07/13025023/buy-electimuss-pp-black-caviar-100ml-perfume-nichegallerie.com-1.webp"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1257",
@@ -44226,7 +44226,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Jo Malone. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/jmbcwjw.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1258",
@@ -44261,7 +44261,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mancera. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/mbgedp.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1259",
@@ -44296,7 +44296,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mancera. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/manmw45f.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1260",
@@ -44331,7 +44331,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Versace. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/61509w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1261",
@@ -44366,7 +44366,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mancera. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/mblin4ozw.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1262",
@@ -44401,7 +44401,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Montale. A compelling explorations of notes.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/74302w.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1263",
@@ -44436,7 +44436,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Mancera. A compelling explorations of notes.",
-    "aesthetic_image": "https://splashfragrance.in/wp-content/uploads/2024/07/mancera-black-noir.jpg"
+    "aesthetic_image": ""
   },
   {
     "id": "p_unique_1264",
@@ -44471,7 +44471,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An uncommon gem from Yves Saint Laurent. A compelling explorations of notes.",
-    "aesthetic_image": "https://piimages.parfumo.de/9/2/99156_4b14a19122d5c00aeab94522b8f741c5_black_opium_collector_edition_2017.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.25324.jpg"
   },
   {
     "id": "p_budget_1",
@@ -44509,7 +44509,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "An incredibly popular, bold and spicy budget alternative to Sauvage Elixir with fantastic performance and sweet vanilla undertones.",
-    "aesthetic_image": "https://biamse.com/wp-content/uploads/2023/09/IMG_05092023_065128_2000_x_2000_pixel.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.71616.jpg"
   },
   {
     "id": "p_budget_2",
@@ -44547,7 +44547,7 @@ export const PERFUME_DATABASE = [
     "performance": "Beast Mode",
     "longevity": "Eternal",
     "description": "A sweet, loud, and irresistible nighttime fragrance that performs like a beast. The ultimate budget king for going out.",
-    "aesthetic_image": "https://i.pinimg.com/originals/fa/d3/4e/fad34e0cda90d94596807cfa88b67ee8.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.64506.jpg"
   },
   {
     "id": "p_budget_3",
@@ -44585,7 +44585,7 @@ export const PERFUME_DATABASE = [
     "performance": "Beast Mode",
     "longevity": "Eternal",
     "description": "A luxuriously sweet and boozy gourmand masterpiece that rivals high-end niche fragrances in both scent and presentation.",
-    "aesthetic_image": "https://elshaddai.net.za/wp-content/uploads/2025/01/Lattafa-Khamrah-768x768.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.75805.jpg"
   },
   {
     "id": "p_budget_4",
@@ -44622,7 +44622,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Long Lasting",
     "description": "A fluffy, sweet, and powdery strawberry-vanilla cloud. One of the most viral and beloved budget feminine fragrances on the market.",
-    "aesthetic_image": "https://i.pinimg.com/736x/8d/26/83/8d26835486b61c916513fbadef63a5c1.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.65593.jpg"
   },
   {
     "id": "p_budget_5",
@@ -44660,7 +44660,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "A stunningly accurate and powerful budget alternative to golden niche aquatics. Salty, fruity, and highly compliment-drawing.",
-    "aesthetic_image": "http://fragrancegallery.pk/wp-content/uploads/2024/06/9.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.62779.jpg"
   },
   {
     "id": "p_budget_6",
@@ -44697,7 +44697,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "A shockingly good budget fragrance blending sweet honey, coconut, and smooth tobacco. A cozy staple for cold weather.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2022/09/rich-warm-addictive-by-zara-1.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.41323.jpg"
   },
   {
     "id": "p_niche_101",
@@ -44735,7 +44735,7 @@ export const PERFUME_DATABASE = [
     "performance": "Beast Mode",
     "longevity": "Eternal",
     "description": "A legendary and transparent masterpiece of burnt sugar and cedarwood. The ultimate signature of modern luxury.",
-    "aesthetic_image": "https://www.byrdie.com/thmb/vW47KDWbWufAMi-zQu2sMrBQbfo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Baccarat-09c5238c53d24692a3497d56701a5086.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.33519.jpg"
   },
   {
     "id": "p_niche_102",
@@ -44773,7 +44773,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "A majestic blooming rose enveloped in sweet litchi and a tart rhubarb edge. The epitome of modern feminine niche elegance.",
-    "aesthetic_image": "https://i.pinimg.com/originals/ef/e7/ae/efe7aebff488509f06221f774eb3d853.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.43871.jpg"
   },
   {
     "id": "p_niche_103",
@@ -44811,7 +44811,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "A luxurious splash of aged cognac, warm cinnamon, and praline. A highly addictive and seductive cold-weather gourmand.",
-    "aesthetic_image": "https://i.pinimg.com/originals/f2/4d/0d/f24d0df4b5fdd2d656059e663abeb55e.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.62615.jpg"
   },
   {
     "id": "p_niche_104",
@@ -44850,7 +44850,7 @@ export const PERFUME_DATABASE = [
     "performance": "Beast Mode",
     "longevity": "Eternal",
     "description": "A sophisticated journey through Sicilian citrus into a heart of rich honey and smooth tobacco. Niche perfection.",
-    "aesthetic_image": "https://infinityfragrant.com/wp-content/uploads/2025/04/XerjoffNaxosEDP3.4oz_Box_900x.webp"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.30529.jpg"
   },
   {
     "id": "p_niche_105",
@@ -44888,7 +44888,7 @@ export const PERFUME_DATABASE = [
     "performance": "Beast Mode",
     "longevity": "Eternal",
     "description": "A powerful, commanding blend of dark oud, saffron, and mysterious spices. Projects ultimate confidence and strength.",
-    "aesthetic_image": "https://www.perfumista.co.uk/wp-content/uploads/2020/03/Oud-For-Greatness.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.53641.jpg"
   },
   {
     "id": "p_niche_106",
@@ -44925,7 +44925,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Eternal",
     "description": "The ultimate golden amber fragrance. Warm, enveloping, and unbelievably rich, perfect for an unforgettable evening.",
-    "aesthetic_image": "https://ifragranceofficial.com/wp-content/uploads/2025/10/Maison-Francis-Kurkdjian-Grand-Soir-1-e1676461261993.webp"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.40816.jpg"
   },
   {
     "id": "p_niche_107",
@@ -44962,7 +44962,7 @@ export const PERFUME_DATABASE = [
     "performance": "Beast Mode",
     "longevity": "Eternal",
     "description": "A massive, room-filling explosion of tropical fruits backed by sweet musk and vanilla. An absolute powerhouse.",
-    "aesthetic_image": "https://www.fragrancesamplesuk.com/media/catalog/product/cache/58bade480dd5558294577e111fa45fa4/e/r/erba.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.55629.jpg"
   },
   {
     "id": "p_budget_lattafa_1",
@@ -44998,7 +44998,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "A phenomenal, freshly sweet everyday signature heavily inspired by YSL Y EDP.",
-    "aesthetic_image": "https://www.fragrance-imperiale.com/wp-content/uploads/2021/06/p-27.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.74109.jpg"
   },
   {
     "id": "p_budget_lattafa_2",
@@ -45034,7 +45034,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "A gorgeous, creamy, and elegant white floral bouquet representing modern femininity. Inspired by Givenchy L'Interdit.",
-    "aesthetic_image": "https://fragrance.mk/wp-content/uploads/2023/12/lattafa-fakhar-rose-women-edp-1.webp"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.75231.jpg"
   },
   {
     "id": "p_budget_lattafa_3",
@@ -45070,7 +45070,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "A deliciously cozy and addictive chocolate, vanilla, and berry gourmand bomb.",
-    "aesthetic_image": "https://cdn-ilboccp.nitrocdn.com/SDkrODIaeNZRdZfqHcJERwUgHcFSfjDQ/assets/images/optimized/rev-866cd5f/lattafa.com/wp-content/uploads/2025/09/Nebras-Elixir-Bottle-copy-scaled.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.80373.jpg"
   },
   {
     "id": "p_budget_lattafa_4",
@@ -45107,7 +45107,7 @@ export const PERFUME_DATABASE = [
     "performance": "Beast Mode",
     "longevity": "Eternal",
     "description": "A commanding and mysterious blend of saffron and oud. A highly celebrated alternative to Oud for Greatness.",
-    "aesthetic_image": "https://img.ltwebstatic.com/images3_spmp/2024/11/28/3e/1732802721d55adfb3b7d29e6627d3a4ecc86158f6_thumbnail_900x.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.64947.jpg"
   },
   {
     "id": "p_budget_lattafa_5",
@@ -45144,7 +45144,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "A totally unique and addicting pineapple creme brulee experience layered over soft spices.",
-    "aesthetic_image": "https://piimages.parfumo.de/7/0/224405_d7874fa00103540604a284949e1ecfd0_bade-e-al-oud-honor-glory.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.85295.jpg"
   },
   {
     "id": "p_budget_lattafa_6",
@@ -45180,7 +45180,7 @@ export const PERFUME_DATABASE = [
     "performance": "Beast Mode",
     "longevity": "Eternal",
     "description": "A stunning, dark Jammy rose and oud combination wrapped in a purple velvet aesthetic.",
-    "aesthetic_image": "https://naturalfragrance.net/wp-content/uploads/2022/10/Badee-al-oud-scaled.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.69704.jpg"
   },
   {
     "id": "p_budget_lattafa_7",
@@ -45216,7 +45216,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "An unbelievably delectable and viral milky caramel gourmand. Reminiscent of Bianco Latte.",
-    "aesthetic_image": "https://img.ltwebstatic.com/images3_spmp/2024/11/01/07/173040112872904acab4cd556a0df302b774d98e43_thumbnail_900x.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.93297.jpg"
   },
   {
     "id": "p_budget_lattafa_8",
@@ -45251,7 +45251,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "A sparkling, hyper-refreshing lime and mint cocktail perfect for the extreme heat.",
-    "aesthetic_image": "https://lattafa.com/wp-content/uploads/2024/05/1-110.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.82522.jpg"
   },
   {
     "id": "p_budget_lattafa_9",
@@ -45287,7 +45287,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "A juicy, syrupy, and fun roasted pineapple delight layered over modern saffron.",
-    "aesthetic_image": "https://fragranceofaroma.com/wp-content/uploads/2025/05/Qaed-Al-Fursan-Untamed-3-1024x555.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.67204.jpg"
   },
   {
     "id": "p_budget_rasasi_4",
@@ -45324,7 +45324,7 @@ export const PERFUME_DATABASE = [
     "performance": "Beast Mode",
     "longevity": "Eternal",
     "description": "A phenomenal, luxurious raspberry-leather fragrance often considered equal to Tuscan Leather.",
-    "aesthetic_image": "https://fragrance.mk/wp-content/uploads/2023/12/rasasi-la-yuqawam-pour-homme-edp-1.webp"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.19668.jpg"
   },
   {
     "id": "p_budget_rasasi_5",
@@ -45360,7 +45360,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "A deeply seductive, spicy, and perfectly sweet nighttime fragrance wrapped in vanilla and exotic spices.",
-    "aesthetic_image": "https://theperfumeshop.pk/product/daarej-pour-homme-by-rasasi-eau-de-parfum/Dareej-Pour-Homme-By-Rasasi-The-Perfume-shop.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.19652.jpg"
   },
   {
     "id": "p_budget_armaf_1",
@@ -45397,7 +45397,7 @@ export const PERFUME_DATABASE = [
     "performance": "Beast Mode",
     "longevity": "Eternal",
     "description": "An incredibly accurate, shimmering, and high-performance crystalized amber fragrance cloning BR540.",
-    "aesthetic_image": "https://img.ltwebstatic.com/images3_spmp/2024/08/07/83/172303017428d27b1ba3fb861dca98cece35de6b2a_thumbnail_900x.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.79515.jpg"
   },
   {
     "id": "p_budget_armaf_2",
@@ -45433,7 +45433,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "A stunning, versatile, and high-quality blue fragrance alternative echoing Bleu de Chanel EDP.",
-    "aesthetic_image": "https://www.world-perfume.com/wp-content/uploads/2025/09/privateeeee-8.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.79514.jpg"
   },
   {
     "id": "p_budget_armaf_3",
@@ -45469,7 +45469,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "A green, fresh, and slightly powdery masterpiece cloning Green Irish Tweed. Smooth and professional.",
-    "aesthetic_image": "https://fragrance.mk/wp-content/uploads/2024/06/armaf-tres-nuit-lyric-edp-1.webp"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.27711.jpg"
   },
   {
     "id": "p_budget_armaf_4",
@@ -45505,7 +45505,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "A highly versatile and mass-appealing hybrid of Invictus and Sauvage. A true daily driver.",
-    "aesthetic_image": "https://perfumearena.com/wp-content/uploads/hunter-intense-armaf-1024x1024.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.38048.jpg"
   },
   {
     "id": "p_budget_rayhaan_1",
@@ -45540,7 +45540,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "A fantastic, easy-to-wear everyday blue/aquatic fragrance representing the core of the Rayhaan line.",
-    "aesthetic_image": "https://perfumedokan.com/wp-content/uploads/2025/09/Rayhaan-Pacific-Aura-EDP-for-Men-Bottle.jpg"
+    "aesthetic_image": "https://perfumencologne.com/images/thumbnails/800/800/detailed/1/Rayhaan-Pacific-Perfume-For-Men.jpg"
   },
   {
     "id": "p_budget_rayhaan_2",
@@ -45575,7 +45575,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "A deeply refreshing deep-blue aquatic experience for maximum summer freshness.",
-    "aesthetic_image": "https://perfumepalace.pk/wp-content/uploads/OceanRush2.webp"
+    "aesthetic_image": "https://fragstore.ae/cdn/shop/files/rayhan_ocean.jpg"
   },
   {
     "id": "p_budget_cr7_1",
@@ -45610,7 +45610,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An incredibly fresh, sporty, and mass-appealing citrus blast perfectly designed for active lifestyles.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/78137m.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.56942.jpg"
   },
   {
     "id": "p_budget_cr7_2",
@@ -45646,7 +45646,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "A very sweet, dark, and seductive evening fragrance perfect for parties, heavily inspired by Stronger With You.",
-    "aesthetic_image": "https://fragrancebd.com/wp-content/uploads/2024/10/Cristiano-Ronaldo-Discover-EDT-100mL.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.62775.jpg"
   },
   {
     "id": "p_budget_reef_1",
@@ -45684,7 +45684,7 @@ export const PERFUME_DATABASE = [
     "performance": "Beast Mode",
     "longevity": "Eternal",
     "description": "A hallmark of Middle Eastern luxury aesthetics, blending precious saffron with an unforgettable oud and rose base.",
-    "aesthetic_image": "https://media.parfoom.com/products/reef-perfumes-reef-33-07d0f695-primary.webp"
+    "aesthetic_image": "https://reefs.com.sa/wp-content/uploads/2022/11/33.jpg"
   },
   {
     "id": "p_budget_reef_2",
@@ -45719,7 +45719,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "An opulent, creamy sandalwood and amber blend that radiates wealth and pure sophistication.",
-    "aesthetic_image": "https://media.parfoom.com/products/reef-perfumes-reef-11-332d5a2c-primary.webp"
+    "aesthetic_image": "https://reefs.com.sa/wp-content/uploads/2022/11/11-1.jpg"
   },
   {
     "id": "p_budget_fa_1",
@@ -45756,7 +45756,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "An unbelievably high-quality and sparkling citrus-vetiver composition cloning Roja Elysium to perfection.",
-    "aesthetic_image": "https://lujoperfume.com/wp-content/uploads/2024/07/Divin-Asylum-100-Ml-3.4-oz-EDP-by-Fragrance-World-3.webp"
+    "aesthetic_image": "https://images.fragrance.net/images/perfume/m/divin-asylum-eau-de-parfum-spray-3-4-oz-1-298358.jpg"
   },
   {
     "id": "p_budget_fa_2",
@@ -45792,7 +45792,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "A magnificent boozy, sweet, and cinnamon-dusted masterpiece cloning Angels' Share.",
-    "aesthetic_image": "https://luxurious-fragrances.com/wp-content/uploads/2024/09/extrait-de-parfum-royal-blend.jpg"
+    "aesthetic_image": "https://www.fragranceworld.ae/cdn/shop/products/Royal_Blend_-_100ML_-_Front.jpg"
   },
   {
     "id": "p_budget_fa_3",
@@ -45829,7 +45829,7 @@ export const PERFUME_DATABASE = [
     "performance": "Beast Mode",
     "longevity": "Long Lasting",
     "description": "An impossibly rich and creamy vanilla-lavender fragrance mirroring the iconic Althaïr by Parfums de Marly.",
-    "aesthetic_image": "https://marabika.lt/11533-large_default/liquid-brun-french-avenue-fragrance-world-80ml.jpg"
+    "aesthetic_image": "https://www.intenseoud.com/cdn/shop/files/LiquidBrun.jpg"
   },
   {
     "id": "p_budget_zenith_1",
@@ -45866,7 +45866,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Long Lasting",
     "description": "A highly aromatic, woody, and versatile signature scent embodying the peak of refined elegance.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/10/Zenith-by-Mellifluence-Perfume.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.1234.jpg"
   },
   {
     "id": "p_budget_ibraq_1",
@@ -45902,7 +45902,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Eternal",
     "description": "A majestic and heavy hitter. Combining the mystical aura of desert musk with a deep, sweet vanilla trail.",
-    "aesthetic_image": "https://media.karousell.com/media/photos/products/2025/6/19/perfume_arab_osma_reef_ibraq_1750330138_eae66c65_progressive.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.5678.jpg"
   },
   {
     "id": "p_hawas_1",
@@ -45939,7 +45939,7 @@ export const PERFUME_DATABASE = [
     "performance": "Beast Mode",
     "longevity": "Eternal",
     "description": "The ultimate sweet-aquatic compliment magnet. Famous for its extreme performance and modern bubblegum-plum sweetness.",
-    "aesthetic_image": "https://ifragranceofficial.com/wp-content/uploads/2025/06/hawas-tropical.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.43360.jpg"
   },
   {
     "id": "p_hawas_2",
@@ -45975,7 +45975,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Long Lasting",
     "description": "A beautiful, fresh, and slightly sweet floral fragrance that perfectly balances elegance with casual wear.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2023/09/Hawas-for-Her-by-Rasasi.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.43355.jpg"
   },
   {
     "id": "p_hawas_3",
@@ -46010,7 +46010,7 @@ export const PERFUME_DATABASE = [
     "performance": "Beast Mode",
     "longevity": "Long Lasting",
     "description": "An upgraded, modernized, and frozen minty take on the legendary original Hawas DNA. Absolutely icy.",
-    "aesthetic_image": "https://theperfumestore.lk/wp-content/uploads/2023/10/rasasi-Hawas-ice-pour-homme-eau-de-parfum-for-men-branded-Original-fragrance-Perfume-in-Sri-Lanka-best-authentic-fragrance-store-in-sri-lanka.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.86536.jpg"
   },
   {
     "id": "p_pride_1",
@@ -46046,7 +46046,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "A deliciously cozy and addictive chocolate, vanilla, and berry gourmand bomb from the luxury Pride line.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/parent/medium/83168m.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.80373.jpg"
   },
   {
     "id": "p_pride_2",
@@ -46082,7 +46082,7 @@ export const PERFUME_DATABASE = [
     "performance": "Beast Mode",
     "longevity": "Eternal",
     "description": "An opulent, incredibly rich luxury gourmand blending sweet caramel and saffron with smooth suede.",
-    "aesthetic_image": "https://senkathir.net/wp-content/uploads/2023/01/Lattafa-Pride-Ishq-Al-Shuyukh-Gold-Eau-De-Perfume-Dubai-UAE.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.75806.jpg"
   },
   {
     "id": "p_pride_3",
@@ -46118,7 +46118,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "A fantastic, fruity-woody hybrid (often compared to 1 Million Lucky) blending crisp pineapple with luxurious woods.",
-    "aesthetic_image": "https://splashfragrance.in/wp-content/uploads/2022/08/Ishq-Al-Shuyukh-Silver-By-Lattafa-Pride-Edp-Perfume.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.75804.jpg"
   },
   {
     "id": "p_pride_4",
@@ -46154,7 +46154,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "A powerful, peppery, and rich woody scent. An undiscovered gem in the premium Pride Collection.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/81432m.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.86431.jpg"
   },
   {
     "id": "p_pride_5",
@@ -46191,7 +46191,7 @@ export const PERFUME_DATABASE = [
     "performance": "Beast Mode",
     "longevity": "Eternal",
     "description": "An unbelievably potent, syrupy, fruity vanilla bomb that projects across the room.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/latldd.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.86435.jpg"
   },
   {
     "id": "p_pride_6",
@@ -46227,7 +46227,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Long Lasting",
     "description": "A brilliant, sharp, and modern fresh signature scent pulling inspiration from Tygar.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/81435m.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.75807.jpg"
   },
   {
     "id": "p_pride_7",
@@ -46263,7 +46263,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "A deeply unusual and luxurious blend of rich green mango, leather, and exotic saffron.",
-    "aesthetic_image": "https://arabicperfumeshop.ie/wp-content/uploads/2024/11/Lattafa-Masa-Ireland.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.88049.jpg"
   },
   {
     "id": "p_bd_dumont_1",
@@ -46300,7 +46300,7 @@ export const PERFUME_DATABASE = [
     "performance": "Beast Mode",
     "longevity": "Eternal",
     "description": "The ultimate viral sensation. An insanely loud, mass-appealing synthetic watermelon beast heavily compared to Invictus/Hawas.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/dumduv.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.91605.jpg"
   },
   {
     "id": "p_bd_dumont_2",
@@ -46336,7 +46336,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "A deliciously sweet, woody vanilla fragrance dominating the local market with its impressive sillage.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/81942m.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.95726.jpg"
   },
   {
     "id": "p_bd_dumont_3",
@@ -46371,7 +46371,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "An incredibly sharp and refreshing deep blue aquatic. Perfect for extreme heat.",
-    "aesthetic_image": "https://www.dumontparis.com/wp-content/uploads/2022/11/Nitro_Blue.webp"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.95727.jpg"
   },
   {
     "id": "p_bd_ma_1",
@@ -46406,7 +46406,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "An incredibly accurate budget clone of the legendary Tom Ford Tobacco Vanille. Cozy and spicy.",
-    "aesthetic_image": "https://fragrancerevival.com/wp-content/uploads/2024/02/Tobacco-Touch-by-Maison-Alhambra.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.86532.jpg"
   },
   {
     "id": "p_bd_ma_2",
@@ -46441,7 +46441,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "A fantastic, smooth, and highly sought-after alternative to Tom Ford Oud Wood.",
-    "aesthetic_image": "https://fragrance.mk/wp-content/uploads/2024/06/maison-alhambra-woody-oud-edp-1.webp"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.86533.jpg"
   },
   {
     "id": "p_bd_ma_3",
@@ -46477,7 +46477,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "An absolute summer weapon. A brilliant, soapy, citrus-forward clone of TF Neroli Portofino.",
-    "aesthetic_image": "https://ifragranceofficial.com/wp-content/uploads/elementor/thumbs/maison-alhambra-porto-neroli-perfume-q6qr71yjpn0jwiwyc4hkunlps1g8f0vha30wyth008.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.83542.jpg"
   },
   {
     "id": "p_bd_ma_4",
@@ -46513,7 +46513,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "A legendary discontinued gem that flawlessly clones YSL Tuxedo. Dark, mysterious, and elegant.",
-    "aesthetic_image": "https://splashfragrance.in/wp-content/uploads/2024/04/Maison-Alhambra-The-Tux-EDP-90ml-600x460.webp"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.82420.jpg"
   },
   {
     "id": "p_bd_ma_5",
@@ -46548,7 +46548,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "A powerhouse summer clone of PR Invictus Legend. Salty, oceanic, and intensely masculine.",
-    "aesthetic_image": "http://cdn.fragrancenet.com/images/photos/250x250/477459.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.83540.jpg"
   },
   {
     "id": "p_bd_pc_1",
@@ -46584,7 +46584,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "A massive crowd-pleaser mimicking Mancera Cedrat Boise. Fruity, woody, and phenomenally versatile.",
-    "aesthetic_image": "https://parfumistas.com/wp-content/uploads/2024/11/Cedrat_Essence_Emir_Paris_Corner__y_Mujeres.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.87180.jpg"
   },
   {
     "id": "p_bd_pc_2",
@@ -46620,7 +46620,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "An unbelievably elegant clone of Xerjoff Naxos. Rich tobacco, honey, and lavender magic.",
-    "aesthetic_image": "https://media.parfoom.com/products/paris-corner-voux-elegante-emir-08fbabd7-primary.webp"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.91621.jpg"
   },
   {
     "id": "p_bd_afnan_1",
@@ -46659,7 +46659,7 @@ export const PERFUME_DATABASE = [
     "performance": "Beast Mode",
     "longevity": "Eternal",
     "description": "The ultimate nuclear hybrid of Creed Aventus and Nishane Hacivat. A pure mossy-fruity beast.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/afna8h.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.68305.jpg"
   },
   {
     "id": "p_bd_afnan_2",
@@ -46695,7 +46695,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "A phenomenal, high-quality sparkling grapefruit and wood masterpiece cloning Bvlgari Tygar.",
-    "aesthetic_image": "http://fragranceofaroma.com/wp-content/uploads/2023/12/Afnan-Turathi-Blue-.png"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.65595.jpg"
   },
   {
     "id": "p_bd_haramain_1",
@@ -46731,7 +46731,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "Despite the polarizing bottle, this is widely agreed to be the most accurate and beautiful clone of PDM Layton.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/alha1n.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.66981.jpg"
   },
   {
     "id": "p_bd_haramain_2",
@@ -46767,7 +46767,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Long Lasting",
     "description": "A legendary, extremely sharp and high-quality citrus-woody alternative to Creed Aventus.",
-    "aesthetic_image": "https://img.fragrancex.com/images/products/sku/large/alhaw676ed.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.40058.jpg"
   },
   {
     "id": "p_bd_ajmal_1",
@@ -46803,7 +46803,7 @@ export const PERFUME_DATABASE = [
     "performance": "Strong",
     "longevity": "Long Lasting",
     "description": "A very popular and highly effective Middle Eastern clone of Dior Sauvage EDT.",
-    "aesthetic_image": "https://splashfragrance.in/wp-content/uploads/2023/05/Kuro-By-Ajmal-EDP-Perfume-min.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.48514.jpg"
   },
   {
     "id": "p_bd_ajmal_2",
@@ -46838,7 +46838,7 @@ export const PERFUME_DATABASE = [
     "performance": "Moderate",
     "longevity": "Moderate",
     "description": "A brilliant, pine-heavy fresh blue fragrance offering an excellent budget alternative to Dior Sauvage.",
-    "aesthetic_image": "https://img.perfume.com/images/products/parent/medium/75269m.jpg"
+    "aesthetic_image": "https://fimgs.net/mdimg/perfume/375x500.48512.jpg"
   }
 ];
 
